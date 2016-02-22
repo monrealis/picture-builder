@@ -1,11 +1,12 @@
 #!/usr/bin/env bash
 
-if [ $# -ne 2 ]; then
+if [ $# -ne 3 ]; then
     echo "Illegal number of parameters"
     exit 1
 fi
 
-file=$1
-text=$2
+inputFile=$1
+outputFile=$2
+text=$3
 
-convert $file -gravity South -strokewidth 2 -font Liberation-Sans  -stroke black -fill white -pointsize 80 -annotate 0  "$text" $file-final.jpg
+convert $inputFile -gravity South -strokewidth 2 -font Liberation-Sans  -stroke black -fill white -pointsize 80 -annotate 0  "$text" $outputFile
