@@ -4,5 +4,6 @@
 #das Kraut - http://www.goebbertsgardencenter.com/uploads/2012/07/fresh-herb-basket.jpg
 #die Wurzel - http://www.duden.de/_media_/full/W/Wurzel-201020526889.jpg
 
-cat gallery.txt  | gawk -F\; '{print $1,$2}' | xargs -n2 ./download.sh $file $url
+mkdir -p gallery
+cat gallery.txt  | gawk -F\; '{print "gallery/" $1,$2}' | xargs -n2 ./download.sh
 
