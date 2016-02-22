@@ -1,1 +1,1 @@
-barrel.png;http://vignette1.wikia.nocookie.net/mario/images/6/6a/DKCR_Artwork_Fass.png/revision/latest?cb=20101008162755&path-prefix=de
+barrel.png;das Fass\ncask;http://vignette1.wikia.nocookie.net/mario/images/6/6a/DKCR_Artwork_Fass.png/revision/latest?cb=20101008162755&path-prefix=de
