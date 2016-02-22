@@ -9,9 +9,9 @@ file=$1
 url=$2
 
 if [ -f $file ]; then
-    echo "File $file exists."
+    echo "File $file exists." > /dev/null
 else
-    echo "File $file does not exist."
+    echo "File $file does not exist." > /dev/null
     curl --silent $url > $file
 fi
 
