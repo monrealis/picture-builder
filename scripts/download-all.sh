@@ -4,7 +4,5 @@
 #das Kraut - http://www.goebbertsgardencenter.com/uploads/2012/07/fresh-herb-basket.jpg
 #die Wurzel - http://www.duden.de/_media_/full/W/Wurzel-201020526889.jpg
 
-url="http://vignette1.wikia.nocookie.net/mario/images/6/6a/DKCR_Artwork_Fass.png/revision/latest?cb=20101008162755&path-prefix=de"
-file=barrel.png
-./download.sh $file $url
+cat gallery.txt  | gawk -F\; '{print $1,$2}' | xargs -n2 ./download.sh $file $url
 
