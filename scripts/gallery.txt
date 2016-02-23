@@ -1,10 +1,15 @@
-barrel.png;das Fass\ncask;http://vignette1.wikia.nocookie.net/mario/images/6/6a/DKCR_Artwork_Fass.png/revision/latest?cb=20101008162755&path-prefix=de
-schleim.jpg;der Schleim;http://media2.giga.de/2013/07/perfekter-Schleim-rcm992x0.jpg
-kraut.jpg;das Kraut;http://www.goebbertsgardencenter.com/uploads/2012/07/fresh-herb-basket.jpg
-wurzel.jpg;die Wurzel;http://www.duden.de/_media_/full/W/Wurzel-201020526889.jpg
-kissen.jpg;das Kissen;http://www.duden.de/_media_/full/K/Kissen-201100285992.jpg
-glocke.jpg;die Glocke;http://www.duden.de/_media_/full/G/Glocke-201020326116.jpg
-kafig.jpg;der Käfig;http://www.wackelnasen.net/text-Bilder/kaefig.jpg
-flugel.jpg;der Flügel;https://t2.ftcdn.net/jpg/00/23/85/99/500_F_23859992_t66S0eVlFIOuYjQrHoHvXhvvtSzSyyDi.jpg
-krallen.gif;die Krallen;http://www.thp-foren.de/_media/katze/zeichnung-krallenschneiden-hand.gif
-krote.jpg;Die Kröte;http://www.saarland-lese.de/files_saarland_lese/bufo_terrestris3_pd.jpg
+barrel.png;das Fass - cask\nstatinė;http://vignette1.wikia.nocookie.net/mario/images/6/6a/DKCR_Artwork_Fass.png/revision/latest?cb=20101008162755&path-prefix=de
+schleim.jpg;der Schleim - gleivės;http://media2.giga.de/2013/07/perfekter-Schleim-rcm992x0.jpg
+kraut.jpg;das Kraut - žolė, augalas;http://www.goebbertsgardencenter.com/uploads/2012/07/fresh-herb-basket.jpg
+wurzel.jpg;die Wurzel - šaknis;http://www.duden.de/_media_/full/W/Wurzel-201020526889.jpg
+kissen.jpg;das Kissen - pagalvė;http://www.duden.de/_media_/full/K/Kissen-201100285992.jpg
+glocke.jpg;die Glocke - varpas;http://www.duden.de/_media_/full/G/Glocke-201020326116.jpg
+kafig.jpg;der Käfig - narvas;http://www.wackelnasen.net/text-Bilder/kaefig.jpg
+flugel.jpg;der Flügel - sparnas;https://t2.ftcdn.net/jpg/00/23/85/99/500_F_23859992_t66S0eVlFIOuYjQrHoHvXhvvtSzSyyDi.jpg
+krallen.gif;die Krallen - nagai;http://www.thp-foren.de/_media/katze/zeichnung-krallenschneiden-hand.gif
+krote.jpg;die Kröte - rupūžė;http://www.saarland-lese.de/files_saarland_lese/bufo_terrestris3_pd.jpg
+ausnahme.jpg;die Ausnahme - išimtis;http://www.cash-online.de/wp-content/uploads/2010/07/nische-ausnahme.jpg
+aufsicht.png;die Aufsicht\nkontrolė, priežiūra;http://www.publicus-boorberg.de/sixcms/media.php/1199/2012-3_Oeffentliche%20Unternehmen_Herrlinger.png
+schachtel.jpg;die Schachtel - dėžė;http://www.duden.de/_media_/full/S/Schachtel-201100282395.jpg
+stille.jpg;die Stille - tyla;http://www.enjoy-your-evolution.com/wp-content/uploads/2011/11/Stille-world-at-rest-800x558.jpg
+staub.jpg;der Staub - dulkės;http://www.speed-magazin.de/img/news/1382183887.jpg
