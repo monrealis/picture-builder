@@ -12,6 +12,6 @@ if [ -f $file ]; then
     echo "File $file exists." > /dev/null
 else
     echo "File $file does not exist." > /dev/null
-    curl --silent $url > $file
+    curl --silent $url > $file || echo Failed to download $file
 fi
 
