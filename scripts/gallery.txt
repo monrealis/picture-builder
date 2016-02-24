@@ -13,3 +13,13 @@ aufsicht.png;die Aufsicht\nkontrolė, priežiūra;http://www.publicus-boorberg.d
 schachtel.jpg;die Schachtel - dėžė;http://www.duden.de/_media_/full/S/Schachtel-201100282395.jpg
 stille.jpg;die Stille - tyla;http://www.enjoy-your-evolution.com/wp-content/uploads/2011/11/Stille-world-at-rest-800x558.jpg
 staub.jpg;der Staub - dulkės;http://www.speed-magazin.de/img/news/1382183887.jpg
+erheben.jpg;sich erheben - pakilti;http://mux.gmxhome.de/malundzeichenkurse/images/oelmalen/wuerth002/figur/DSCF0009.jpg
+blass.jpg;blass - blyškus;http://cdn.trendhunterstatic.com/thumbs/pale-beauty.jpeg
+dusternis.jpg;die Düsternis - tamsuma;http://www.trincerone.com/archive/2010/Carpathia/I/Carpathia_I_47.jpg
+geschmeidig.jpg;geschmeidig - lankstus;http://images.china.cn/attachement/jpg/site1003/20130128/001372acd6f312702c1e01.jpg
+weidenholz.jpg;der Weidenholz - gluosnis;http://www.landes-zeitung.de/cms_media/module_bi/286/143010_0_articledetail_270_008_4196859_feKorbWeid.jpg
+stab.png;der Stab - lazda;http://vignette2.wikia.nocookie.net/harrypotter/images/0/0d/George_Weasley%27s_wand.png/revision/latest?cb=20141014212826&path-prefix=de
+gruselig.jpg;gruselig - šiurpus, baisus;http://bilder.bild.de/fotos-skaliert/gruselig-schaurige-rufe-hinter-grab-frau-auf-friedhof-gefesselt-symbolfoto-29118764-40389940/3,w=650,c=0.bild.jpg
+mahagoni.jpg;das Mahagoni - raudonmedis;http://static1.schoener-wohnen.de/thumbnails/galleryImage/0001/00000000001/36/43/36432_landeseite-mahagoni.jpg
+aussuchen.jpg;aussuchen - rinktis;https://t1.ftcdn.net/jpg/00/12/78/30/500_F_12783078_lpEXORLZMfIHYnETOFUCpcUS93uFvNyW.jpg
+
