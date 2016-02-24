@@ -5,5 +5,5 @@
 #die Wurzel - http://www.duden.de/_media_/full/W/Wurzel-201020526889.jpg
 
 mkdir -p gallery
-cat gallery.txt  | gawk -F\; '{print "gallery/" $1,$3}' | xargs -n2 ./download.sh
+gawk -F\; 'NF==3' gallery.txt  | gawk -F\; '{print "gallery/" $1,$3}' | xargs -n2 ./download.sh
 
