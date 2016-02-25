@@ -22,4 +22,12 @@ stab.png;der Stab - lazda;http://vignette2.wikia.nocookie.net/harrypotter/images
 gruselig.jpg;gruselig - šiurpus, baisus;http://bilder.bild.de/fotos-skaliert/gruselig-schaurige-rufe-hinter-grab-frau-auf-friedhof-gefesselt-symbolfoto-29118764-40389940/3,w=650,c=0.bild.jpg
 mahagoni.jpg;das Mahagoni - raudonmedis;http://static1.schoener-wohnen.de/thumbnails/galleryImage/0001/00000000001/36/43/36432_landeseite-mahagoni.jpg
 aussuchen.jpg;aussuchen - rinktis;https://t1.ftcdn.net/jpg/00/12/78/30/500_F_12783078_lpEXORLZMfIHYnETOFUCpcUS93uFvNyW.jpg
+beruhren.jpg;berühren - liesti;http://www.gesund-durch.de/media/2013/08/gd_Therapeutic_Touch_13Q2_Fotolia_bildwerk_hd-1024x744.jpg
+nebel.jpg;der Nebel - rūkas\nneblig - rūškanas;https://upload.wikimedia.org/wikipedia/commons/5/54/Rhoen_Nebel_mg-k.jpg
+stirn.jpg;die Stirn - kakta;http://cdn.presseanzeiger.de/media/bilder/load/616468-1.jpg
+schutteln.jpg;schütteln - purtyti;http://cdn1.spiegel.de/images/image-567584-galleryV9-vujg-567584.jpg
+erleichterung.jpg;die Erleichterung - palengvėjimas;http://www.praxisvita.de/sites/default/files/styles/upright/public/morbus-crohn-diagnose-erleichterung.jpg
+
+
+
 
