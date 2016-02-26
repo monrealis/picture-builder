@@ -16,7 +16,7 @@ staub.jpg;der Staub - dulkės;http://www.speed-magazin.de/img/news/1382183887.jp
 erheben.jpg;sich erheben - pakilti;http://mux.gmxhome.de/malundzeichenkurse/images/oelmalen/wuerth002/figur/DSCF0009.jpg
 blass.jpg;blass - blyškus;http://cdn.trendhunterstatic.com/thumbs/pale-beauty.jpeg
 dusternis.jpg;die Düsternis - tamsuma;http://www.trincerone.com/archive/2010/Carpathia/I/Carpathia_I_47.jpg
-geschmeidig.jpg;geschmeidig - lankstus;http://images.china.cn/attachement/jpg/site1003/20130128/001372acd6f312702c1e01.jpg
+geschmeidig.jpg;geschmeidig, biegsam\nlankstus;http://images.china.cn/attachement/jpg/site1003/20130128/001372acd6f312702c1e01.jpg
 weidenholz.jpg;der Weidenholz - gluosnis;http://www.landes-zeitung.de/cms_media/module_bi/286/143010_0_articledetail_270_008_4196859_feKorbWeid.jpg
 stab.png;der Stab - lazda;http://vignette2.wikia.nocookie.net/harrypotter/images/0/0d/George_Weasley%27s_wand.png/revision/latest?cb=20141014212826&path-prefix=de
 gruselig.jpg;gruselig - šiurpus, baisus;http://bilder.bild.de/fotos-skaliert/gruselig-schaurige-rufe-hinter-grab-frau-auf-friedhof-gefesselt-symbolfoto-29118764-40389940/3,w=650,c=0.bild.jpg
@@ -26,8 +26,11 @@ beruhren.jpg;berühren - liesti;http://www.gesund-durch.de/media/2013/08/gd_Ther
 nebel.jpg;der Nebel - rūkas\nneblig - rūškanas;https://upload.wikimedia.org/wikipedia/commons/5/54/Rhoen_Nebel_mg-k.jpg
 stirn.jpg;die Stirn - kakta;http://cdn.presseanzeiger.de/media/bilder/load/616468-1.jpg
 schutteln.jpg;schütteln - purtyti;http://cdn1.spiegel.de/images/image-567584-galleryV9-vujg-567584.jpg
-erleichterung.jpg;die Erleichterung - palengvėjimas;http://www.praxisvita.de/sites/default/files/styles/upright/public/morbus-crohn-diagnose-erleichterung.jpg
-
+erleichterung.jpg;die Erleichterung\npalengvėjimas;http://www.praxisvita.de/sites/default/files/styles/upright/public/morbus-crohn-diagnose-erleichterung.jpg
+eiche.jpg;die Eiche - ąžuolas;http://www.lauftext.de/naturkosmetik/images/eiche.jpg
+ernst.jpg;ernst - rimtas;http://us.cdn281.fansshare.com/photos/arnoldschwarzenegger/arnold-serious-1470498074.jpg
+umklammern.jpg;umklammern - įsikibti;http://thumbs.dreamstime.com/z/umklammern-der-h%C3%A4nde-7609169.jpg
+bandmass.jpg;das Bandmaß - metras;http://gk-photogalerie.de/galerie0054/bilder/gelbesBandmass.jpg
 
 
 
