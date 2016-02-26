@@ -1,7 +1,8 @@
 #!/usr/bin/env bash
 
 if [ $# -ne 3 ]; then
-    echo "Illegal number of parameters"
+    echo add-text.sh: illegal number of parameters: $#
+	echo Parameters: $@    
     exit 1
 fi
 
