@@ -3,7 +3,11 @@
 mkdir -p gallery
 mkdir -p gallery-output
 
-file=gallery.txt
+if [ $# -eq 1 ]; then
+	file=$1
+else
+	file=gallery.txt
+fi
 
 ./download-all.sh $file
 
