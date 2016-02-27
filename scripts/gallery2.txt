@@ -1,7 +1,7 @@
 nadel.jpg;die Nadel - adata;http://previews.123rf.com/images/iimages/iimages1209/iimages120900033/15028973-Darstellung-der-Nadel-und-Faden-auf-wei-em-Hintergrund-Lizenzfreie-Bilder.jpg
 ananas.jpg;die Ananas - ananasas;http://www.phytoart.com/wp-content/uploads/2013/09/IMG_2742.jpg
 krake.jpg;der Krake - aštuonkojis;http://www.lovethispic.com/uploaded_images/34177-Octopus-Baby.jpg
-hinbeere.jpg;die Himbeere - avietė;http://www.hauenstein-rafz.ch/de-wAssets/img/pflanzenwelt/pflanzenportraits/obst_beeren/himbeere-elida/Elida.jpg
+hinbeere.jpg;die Himbeere\navietė;http://www.hauenstein-rafz.ch/de-wAssets/img/pflanzenwelt/pflanzenportraits/obst_beeren/himbeere-elida/Elida.jpg
 erdbeere.jpg;die Erdbeere - braškė;https://www.baumschule-horstmann.de/bilder/popup/i17044-Erdbeere-Honeoye.jpg
 streifenhornchen.jpg;das Streifenhörnchen;http://web479.login-18.hoststar.ch/burunduk2010/media/Baby_satt_muede.jpg
 rechen.jpg;der Rechen - grėblys;http://www.hagafrei.de/images/rechen.jpg

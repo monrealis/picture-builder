@@ -31,6 +31,14 @@ eiche.jpg;die Eiche - ąžuolas;http://www.lauftext.de/naturkosmetik/images/eich
 ernst.jpg;ernst - rimtas;http://us.cdn281.fansshare.com/photos/arnoldschwarzenegger/arnold-serious-1470498074.jpg
 umklammern.jpg;umklammern - įsikibti;http://thumbs.dreamstime.com/z/umklammern-der-h%C3%A4nde-7609169.jpg
 bandmass.jpg;das Bandmaß - metras;http://gk-photogalerie.de/galerie0054/bilder/gelbesBandmass.jpg
+gelenk.jpg;das Gelenk - sąnarys;https://www.body-attack.de/bilder/statisches/gelenknaehrstoffe.jpg
+bogen.jpg;der Bogen - lankas;http://www.sportwaffen-schneider.de/images/4003150.jpg
+ellenbogen.jpg;der Ellenbogen - alkūnė;http://www.operation-endoprothetik.de/wp-content/uploads/2012/12/Fotolia_24681308_S.jpg
+kern.jpg;der Kern - branduolys;http://cdn1.sciencefiction.com/wp-content/uploads/2012/02/earthcut-300x210.jpg
+stoff.jpg;der Stoff - medžiaga;http://www.uv-elements.de/images/Neonstoff.jpg
+feder.jpg;die Feder - plunksna;http://www.kulturgut.de/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/s/v/sv8058_blau_01_2.jpg
+schwanz.jpg;der Schwanz - uodega;https://upload.wikimedia.org/wikipedia/commons/3/33/Lemur_catta_-_tail_length_01.jpg
+hervorragend.jpg;hervorragend - puikus;http://s4.srfcdn.ch/images/auftritte/radio-srf-3/bilder/2014/07/25/the_1975_das_sagen_wir_jetzt/67797396-2-ger-DE/the_1975_das_sagen_wir_jetzt_s12.jpg
 
 
 
