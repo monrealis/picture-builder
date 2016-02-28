@@ -39,6 +39,7 @@ stoff.jpg;der Stoff - medžiaga;http://www.uv-elements.de/images/Neonstoff.jpg
 feder.jpg;die Feder - plunksna;http://www.kulturgut.de/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/s/v/sv8058_blau_01_2.jpg
 schwanz.jpg;der Schwanz - uodega;https://upload.wikimedia.org/wikipedia/commons/3/33/Lemur_catta_-_tail_length_01.jpg
 hervorragend.jpg;hervorragend - puikus;http://s4.srfcdn.ch/images/auftritte/radio-srf-3/bilder/2014/07/25/the_1975_das_sagen_wir_jetzt/67797396-2-ger-DE/the_1975_das_sagen_wir_jetzt_s12.jpg
-
+haufen.jpg;der Haufen - krūva;http://www.putz.de/wp-content/uploads/2012/01/haufen-holz-fuer-ofen.jpg
+ahorn.jpg;der Ahorn - klevas;http://www.botanikus.de/Botanik3/Ordnung/Ahorn/Berg-Ahorn-gr.jpg
 
 
