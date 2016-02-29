@@ -41,5 +41,12 @@ schwanz.jpg;der Schwanz - uodega;https://upload.wikimedia.org/wikipedia/commons/
 hervorragend.jpg;hervorragend - puikus;http://s4.srfcdn.ch/images/auftritte/radio-srf-3/bilder/2014/07/25/the_1975_das_sagen_wir_jetzt/67797396-2-ger-DE/the_1975_das_sagen_wir_jetzt_s12.jpg
 haufen.jpg;der Haufen - krūva;http://www.putz.de/wp-content/uploads/2012/01/haufen-holz-fuer-ofen.jpg
 ahorn.jpg;der Ahorn - klevas;http://www.botanikus.de/Botanik3/Ordnung/Ahorn/Berg-Ahorn-gr.jpg
+elfenbein.jpg;das Elfenbein - dramblio kaulas;http://d2mlnkprj9wd81.cloudfront.net/sites/default/files/imagecache/article_image/E1182%20med%20res_IFAW_D.%20Willetts%20%28Medium%29_0.jpg
+ahnung.jpg;die Ahnung - nuojauta;https://koptisch.files.wordpress.com/2011/08/keine-ahnung.jpg
+kunde.jpg;der Kunde - klientas;http://thumbs.dreamstime.com/z/kunde-mit-leerem-einkaufswagen-9871628.jpg
+verbindung.jpg;die Verbindung - ryšys;http://www.adpic.de/data/picture/detail/Puzzleteil_als_Verbindung_490876.jpg
+strom.jpg;der Strom - srautas;http://regnum.ru/uploads/pictures/news/2015/11/27/regnum_picture_1448655425779405_normal.jpg
+funken.jpg;der Funken - kibirkštis;http://www.glaube-und-heimat.de/files/2012/01/Funken412.jpg
+fleck.jpg;der Fleck - dėmė;http://www.memrise.com/s3_proxy/?f=uploads/mems/6248663000141120140626.jpg
 
 
