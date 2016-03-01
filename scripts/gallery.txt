@@ -48,5 +48,8 @@ verbindung.jpg;die Verbindung - ryšys;http://www.adpic.de/data/picture/detail/P
 strom.jpg;der Strom - srautas;http://regnum.ru/uploads/pictures/news/2015/11/27/regnum_picture_1448655425779405_normal.jpg
 funken.jpg;der Funken - kibirkštis;http://www.glaube-und-heimat.de/files/2012/01/Funken412.jpg
 fleck.jpg;der Fleck - dėmė;http://www.memrise.com/s3_proxy/?f=uploads/mems/6248663000141120140626.jpg
+fest.jpg;fest - tvirtas;http://lawfirmsintransition.wp.lexblogs.com/wp-content/uploads/sites/72/2013/11/iStock_000003537685Medium.jpg
+besitzen.jpg;besitzen - turėti;http://diepresse.com/images/uploads/2/0/8/1315336/prozent_besitzen_haus_oder_haus20121121203745.jpg
+gossartig.jpg;großartig - didingas;http://cdn.paper4pc.com/images/magnificent-wallpaper-1.jpg
 
 
