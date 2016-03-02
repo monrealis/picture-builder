@@ -51,5 +51,6 @@ fleck.jpg;der Fleck - dėmė;http://www.memrise.com/s3_proxy/?f=uploads/mems/624
 fest.jpg;fest - tvirtas;http://lawfirmsintransition.wp.lexblogs.com/wp-content/uploads/sites/72/2013/11/iStock_000003537685Medium.jpg
 besitzen.jpg;besitzen - turėti;http://diepresse.com/images/uploads/2/0/8/1315336/prozent_besitzen_haus_oder_haus20121121203745.jpg
 gossartig.jpg;großartig - didingas;http://cdn.paper4pc.com/images/magnificent-wallpaper-1.jpg
-
+gasse.jpg;die Gasse - gatvelė;https://upload.wikimedia.org/wikipedia/commons/8/8f/Schmucke_Gasse,_Saverne.jpg
+winkel.jpg;der Winkel - kampas;http://www.mathe-lexikon.at/media/advanced_pictures/spitzer_winkel.jpg
 
