@@ -53,4 +53,5 @@ besitzen.jpg;besitzen - turėti;http://diepresse.com/images/uploads/2/0/8/131533
 gossartig.jpg;großartig - didingas;http://cdn.paper4pc.com/images/magnificent-wallpaper-1.jpg
 gasse.jpg;die Gasse - gatvelė;https://upload.wikimedia.org/wikipedia/commons/8/8f/Schmucke_Gasse,_Saverne.jpg
 winkel.jpg;der Winkel - kampas;http://www.mathe-lexikon.at/media/advanced_pictures/spitzer_winkel.jpg
-
+imbiss.jpg;der Imbiß - užkandis;http://www.leverkusen.com/guide/Archiv1.jpg/43/Pizza_Imbiss_Markt.jpg
+kauen.jpg;kauen - kramtyti;http://www.mystica.tv/wp-content/uploads/image/darmessen.jpg
