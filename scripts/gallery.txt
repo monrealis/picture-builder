@@ -31,7 +31,7 @@ eiche.jpg;die Eiche - ąžuolas;http://www.lauftext.de/naturkosmetik/images/eich
 ernst.jpg;ernst - rimtas;http://us.cdn281.fansshare.com/photos/arnoldschwarzenegger/arnold-serious-1470498074.jpg
 umklammern.jpg;umklammern - įsikibti;http://thumbs.dreamstime.com/z/umklammern-der-h%C3%A4nde-7609169.jpg
 bandmass.jpg;das Bandmaß - metras;http://gk-photogalerie.de/galerie0054/bilder/gelbesBandmass.jpg
-gelenk.jpg;das Gelenk - sąnarys;https://www.body-attack.de/bilder/statisches/gelenknaehrstoffe.jpg
+gelenk.jpg;das Gelenk\nsąnarys;https://www.body-attack.de/bilder/statisches/gelenknaehrstoffe.jpg
 bogen.jpg;der Bogen - lankas;http://www.sportwaffen-schneider.de/images/4003150.jpg
 ellenbogen.jpg;der Ellenbogen - alkūnė;http://www.operation-endoprothetik.de/wp-content/uploads/2012/12/Fotolia_24681308_S.jpg
 kern.jpg;der Kern - branduolys;http://cdn1.sciencefiction.com/wp-content/uploads/2012/02/earthcut-300x210.jpg
@@ -41,7 +41,7 @@ schwanz.jpg;der Schwanz - uodega;https://upload.wikimedia.org/wikipedia/commons/
 hervorragend.jpg;hervorragend - puikus;http://s4.srfcdn.ch/images/auftritte/radio-srf-3/bilder/2014/07/25/the_1975_das_sagen_wir_jetzt/67797396-2-ger-DE/the_1975_das_sagen_wir_jetzt_s12.jpg
 haufen.jpg;der Haufen - krūva;http://www.putz.de/wp-content/uploads/2012/01/haufen-holz-fuer-ofen.jpg
 ahorn.jpg;der Ahorn - klevas;http://www.botanikus.de/Botanik3/Ordnung/Ahorn/Berg-Ahorn-gr.jpg
-elfenbein.jpg;das Elfenbein - dramblio kaulas;http://d2mlnkprj9wd81.cloudfront.net/sites/default/files/imagecache/article_image/E1182%20med%20res_IFAW_D.%20Willetts%20%28Medium%29_0.jpg
+elfenbein.jpg;das Elfenbein\ndramblio kaulas;http://d2mlnkprj9wd81.cloudfront.net/sites/default/files/imagecache/article_image/E1182%20med%20res_IFAW_D.%20Willetts%20%28Medium%29_0.jpg
 ahnung.jpg;die Ahnung - nuojauta;https://koptisch.files.wordpress.com/2011/08/keine-ahnung.jpg
 kunde.jpg;der Kunde - klientas;http://thumbs.dreamstime.com/z/kunde-mit-leerem-einkaufswagen-9871628.jpg
 verbindung.jpg;die Verbindung - ryšys;http://www.adpic.de/data/picture/detail/Puzzleteil_als_Verbindung_490876.jpg
@@ -51,7 +51,7 @@ fleck.jpg;der Fleck - dėmė;http://www.memrise.com/s3_proxy/?f=uploads/mems/624
 fest.jpg;fest - tvirtas;http://lawfirmsintransition.wp.lexblogs.com/wp-content/uploads/sites/72/2013/11/iStock_000003537685Medium.jpg
 besitzen.jpg;besitzen - turėti;http://diepresse.com/images/uploads/2/0/8/1315336/prozent_besitzen_haus_oder_haus20121121203745.jpg
 gossartig.jpg;großartig - didingas;http://cdn.paper4pc.com/images/magnificent-wallpaper-1.jpg
-gasse.jpg;die Gasse - gatvelė;https://upload.wikimedia.org/wikipedia/commons/8/8f/Schmucke_Gasse,_Saverne.jpg
+gasse.jpg;die Gasse\ngatvelė;https://upload.wikimedia.org/wikipedia/commons/8/8f/Schmucke_Gasse,_Saverne.jpg
 winkel.jpg;der Winkel - kampas;http://www.mathe-lexikon.at/media/advanced_pictures/spitzer_winkel.jpg
 imbiss.jpg;der Imbiß - užkandis;http://www.leverkusen.com/guide/Archiv1.jpg/43/Pizza_Imbiss_Markt.jpg
 kauen.jpg;kauen - kramtyti;http://www.mystica.tv/wp-content/uploads/image/darmessen.jpg
