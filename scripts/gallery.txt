@@ -57,6 +57,9 @@ imbiss.jpg;der Imbiß - užkandis;http://www.leverkusen.com/guide/Archiv1.jpg/43
 kauen.jpg;kauen - kramtyti;http://www.mystica.tv/wp-content/uploads/image/darmessen.jpg
 bart.jpg;der Bart - barzda;http://cdn3.volusion.com/avymr.mqvyp/v/vspfiles/photos/BM-HAGRID-2.jpg?1454057402
 umschlag.jpg;der Umschlag - vokas;http://www.direktmarkt.org/artikelbilder/241-19.jpg
+gleis.jpg;Gleis;http://thumbs.dreamstime.com/z/leeres-gleis-6001264.jpg
+gesellschaft.png;die Gesellschaft\ndraugija, visuomenė;http://www.meinrad-betz.com/d5fa0c42cc7b81737d577ae88e9e9dd0_gesellschaft-102b.png
+flattern.jpg;flattern - skraidyti;http://www.natur-portrait.de/images/upload/orig/JainRM.jpg
 
 
 
