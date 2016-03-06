@@ -60,6 +60,7 @@ umschlag.jpg;der Umschlag - vokas;http://www.direktmarkt.org/artikelbilder/241-1
 gleis.jpg;das Gleis\nbėgių kelias;http://thumbs.dreamstime.com/z/leeres-gleis-6001264.jpg
 gesellschaft.png;die Gesellschaft\ndraugija, visuomenė;http://www.meinrad-betz.com/d5fa0c42cc7b81737d577ae88e9e9dd0_gesellschaft-102b.png
 flattern.jpg;flattern - skraidyti;http://www.natur-portrait.de/images/upload/orig/JainRM.jpg
-
-
+teppich.jpg;der Teppich - kilimas;http://www.alleszumteppich.de/images/Ein_turkmenischer_Teppich_vom_Typ_Jamut_Yamut-26833.jpg
+loch.jpg;das Loch - skylė;http://ais.badische-zeitung.de/piece/00/a8/f6/ff/11073279.jpg
+zeichen.jpg;das Zeichen\nženklas;http://thumbs.dreamstime.com/z/keine-hunde-zeichen-erlaubt-28048370.jpg
 
