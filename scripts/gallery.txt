@@ -63,4 +63,6 @@ flattern.jpg;flattern - skraidyti;http://www.natur-portrait.de/images/upload/ori
 teppich.jpg;der Teppich - kilimas;http://www.alleszumteppich.de/images/Ein_turkmenischer_Teppich_vom_Typ_Jamut_Yamut-26833.jpg
 loch.jpg;das Loch - skylė;http://ais.badische-zeitung.de/piece/00/a8/f6/ff/11073279.jpg
 zeichen.jpg;das Zeichen\nženklas;http://thumbs.dreamstime.com/z/keine-hunde-zeichen-erlaubt-28048370.jpg
+muhe.jpg;die Mühe - pastangos;http://3.bp.blogspot.com/-GGgQX0Eqfbo/T9j1DXBHinI/AAAAAAAAAVY/65_BKqUhlak/s1600/effort-rock.jpg
+gestalten.jpg;gestalten - formuoti;https://bonniediazdance.files.wordpress.com/2011/05/blog_shaping.jpg
 
