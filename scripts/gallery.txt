@@ -68,3 +68,8 @@ gestalten.jpg;gestalten - formuoti;https://bonniediazdance.files.wordpress.com/2
 hasslich.jpg;hässlich - bjaurus;http://media.npr.org/assets/img/2015/02/27/mutant-carrot-eb1e9b11da5b3e4d4f16522d0886ab5b84f9851d-s900-c85.jpg
 behnsteig.jpg;der Bahnsteig - peronas;http://lostkreuz.de/wp-content/uploads/MartinH/verlassener-bahnsteig.jpg
 ziffer.jpg;die Ziffer - skaičius;http://picture.yatego.com/images/4822b61034e201.4/49608-1-kqh/ziffernclowns-aus-holz--ziffer-0.jpg
+trocken.jpg;trocken - sausas;http://cdn2.spiegel.de/images/image-380799-galleryV9-esvm-380799.jpg
+erstaunt.jpg;erstaunt - nustebęs;http://media05.myheimat.de/2009/08/30/705683_web.jpg?1251664340
+murrisch.jpg;mürrisch - paniuręs;http://www.haz.de/var/storage/images/haz/nachrichten/medien/netzwelt/muerrische-katze-wird-zum-internet-star/35776686-1-ger-DE/Muerrische-Katze-wird-zum-Internet-Star_ArtikelQuer.jpg
+
+
