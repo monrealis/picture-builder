@@ -73,5 +73,7 @@ erstaunt.jpg;erstaunt - nustebęs;http://media05.myheimat.de/2009/08/30/705683_w
 murrisch.jpg;mürrisch - paniuręs;http://www.haz.de/var/storage/images/haz/nachrichten/medien/netzwelt/muerrische-katze-wird-zum-internet-star/35776686-1-ger-DE/Muerrische-Katze-wird-zum-Internet-Star_ArtikelQuer.jpg
 schalter.jpg;der Schalter - kasos langelis;http://www.duden.de/_media_/full/S/Schalter-201100280637.jpg
 unterhaltung.jpg;die Unterhaltung - pokalbis;http://www.duden.de/_media_/full/U/Unterhaltung-201100282581.jpg
+absperrung.jpg;die Absperrung - užtvara;http://img.edilportale.com/product-thumbs/b_prodotti-50910-rel0cd7382b-5d75-41db-9ee7-6c3ddb0a9d81.jpg
+erreichen.jpg;erreichen - pasiekti;http://www.experto.de/ziele-erreichen-1280px-854px1.jpg
 
 
