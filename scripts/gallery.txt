@@ -75,5 +75,7 @@ schalter.jpg;der Schalter - kasos langelis;http://www.duden.de/_media_/full/S/Sc
 unterhaltung.jpg;die Unterhaltung - pokalbis;http://www.duden.de/_media_/full/U/Unterhaltung-201100282581.jpg
 absperrung.jpg;die Absperrung - užtvara;http://img.edilportale.com/product-thumbs/b_prodotti-50910-rel0cd7382b-5d75-41db-9ee7-6c3ddb0a9d81.jpg
 erreichen.jpg;erreichen - pasiekti;http://www.experto.de/ziele-erreichen-1280px-854px1.jpg
+witz.jpg;der Witz - anekdotas;https://s-media-cache-ak0.pinimg.com/736x/d4/f1/9b/d4f19b4e73ae44f06a37826fa45bcc92.jpg
+
 
 
