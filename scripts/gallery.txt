@@ -76,6 +76,9 @@ unterhaltung.jpg;die Unterhaltung - pokalbis;http://www.duden.de/_media_/full/U/
 absperrung.jpg;die Absperrung - užtvara;http://img.edilportale.com/product-thumbs/b_prodotti-50910-rel0cd7382b-5d75-41db-9ee7-6c3ddb0a9d81.jpg
 erreichen.jpg;erreichen - pasiekti;http://www.experto.de/ziele-erreichen-1280px-854px1.jpg
 witz.jpg;der Witz - anekdotas;https://s-media-cache-ak0.pinimg.com/736x/d4/f1/9b/d4f19b4e73ae44f06a37826fa45bcc92.jpg
+spur.jpg;die Spur - pėdsakas;https://t2.ftcdn.net/jpg/00/47/65/71/500_F_47657161_TatEKbytJRaMgfPDTe1IEI67gQprn4h7.jpg
+deuten.jpg;deuten auf A - rodyti;https://www.uschamberfoundation.org/sites/default/files/styles/detail_image800w/public/571px-Uncle_Sam_%28pointing_finger%29.jpg?itok=CCBrzcRX
+dunn.jpg;dünn - plonas;http://40.media.tumblr.com/309326a5e2ba29333a16b113e23d826e/tumblr_n3gx6qZFm41rjf3ito1_500.jpg
 
 
 
