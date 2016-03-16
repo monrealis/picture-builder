@@ -85,6 +85,9 @@ aufprall.jpg;Aufprall;https://data.motor-talk.de/data/galleries/0/179/6551/58657
 lok.jpg;Dampflok, die Lok - garvežys;http://www.farmingmods2015.com/wp-content/uploads/2016/01/Dampflok-V-1.0-Mod-4.jpg
 streiten.jpg;streiten - kautis;http://www.unternehmer.de/wp-content/uploads/2010/06/Fotolia_4091682_XS-225x225.jpg
 klagen.jpg;klagen - skųstis;http://static0.goedgevoel.be/static/photo/2009/17/5/9/media_xl_809664.jpg
+auflauf.jpg;der Auflauf - susibūrimas;http://www.todayifoundout.com/wp-content/uploads/2014/11/crowd.jpg
+deckel.gif;der Deckel - dangtis;http://mastercuisine.eu/images/product_images/popup_images/28_0.gif
+hieven.jpg;hieven - kelti;https://upload.wikimedia.org/wikipedia/de/thumb/b/b7/Hinaushieven.JPG/440px-Hinaushieven.JPG
 
 
 
