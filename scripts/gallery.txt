@@ -88,6 +88,8 @@ klagen.jpg;klagen - skųstis;http://static0.goedgevoel.be/static/photo/2009/17/5
 auflauf.jpg;der Auflauf - susibūrimas;http://www.todayifoundout.com/wp-content/uploads/2014/11/crowd.jpg
 deckel.gif;der Deckel - dangtis;http://mastercuisine.eu/images/product_images/popup_images/28_0.gif
 hieven.jpg;hieven - kelti;https://upload.wikimedia.org/wikipedia/de/thumb/b/b7/Hinaushieven.JPG/440px-Hinaushieven.JPG
+anpacken.jpg;anpacken - griebti;http://krueger-strategie.com/wp-content/uploads/2013/01/Anpacken.jpg
+schweben.jpg;schweben - pleventi;http://4everstatic.com/bilder/674xX/menschen/frau-schweben,-wuste-197702.jpg
 
 
 
