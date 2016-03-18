@@ -90,6 +90,9 @@ deckel.gif;der Deckel - dangtis;http://mastercuisine.eu/images/product_images/po
 hieven.jpg;hieven - kelti;https://upload.wikimedia.org/wikipedia/de/thumb/b/b7/Hinaushieven.JPG/440px-Hinaushieven.JPG
 anpacken.jpg;anpacken - griebti;http://krueger-strategie.com/wp-content/uploads/2013/01/Anpacken.jpg
 schweben.jpg;schweben - pleventi;http://4everstatic.com/bilder/674xX/menschen/frau-schweben,-wuste-197702.jpg
+verdecken.jpg;verdecken - užstoti;https://www.kartensicherheit.de/files/jpg1/Piktogramm_PinVerdecken.jpg
+lauschen.jpg;lauschen - klausyti;http://www.wandtattoo.at/store_files/1/images/product_images/info_images/159492.jpg
+aufhoren.jpg;aufhören - liautis;http://i2.bstatic.de/sites/default/files/styles/article_16x9_960x540/public/istock_000015396208_large.jpg?itok=LpTR8WAI
 
 
 
