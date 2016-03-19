@@ -93,6 +93,9 @@ schweben.jpg;schweben - pleventi;http://4everstatic.com/bilder/674xX/menschen/fr
 verdecken.jpg;verdecken - užstoti;https://www.kartensicherheit.de/files/jpg1/Piktogramm_PinVerdecken.jpg
 lauschen.jpg;lauschen - klausyti;http://www.wandtattoo.at/store_files/1/images/product_images/info_images/159492.jpg
 aufhoren.jpg;aufhören - liautis;http://i2.bstatic.de/sites/default/files/styles/article_16x9_960x540/public/istock_000015396208_large.jpg?itok=LpTR8WAI
+wogen.jpg;wogen - banguoti;http://dmf.ace1.netdna-cdn.com/wp-content/uploads/2013/10/Welle.jpg
+schimmern.jpg;schimmern - mirgėti;http://static.schoener-wohnen.de/bilder/5c/0b/39362/article_image_medium/ausstellung-edles-schimmern-grassi-museum.jpg
+abzeichen.jpg;das Abzeichen - ženklelis;https://upload.wikimedia.org/wikipedia/de/thumb/5/52/Armee-Aufkl%C3%A4rungsdetachement_10_Abzeichen.svg/251px-Armee-Aufkl%C3%A4rungsdetachement_10_Abzeichen.svg.png
 
 
 
