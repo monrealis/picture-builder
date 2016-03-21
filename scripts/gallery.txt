@@ -72,7 +72,7 @@ trocken.jpg;trocken - sausas;http://cdn2.spiegel.de/images/image-380799-galleryV
 erstaunt.jpg;erstaunt - nustebęs;http://media05.myheimat.de/2009/08/30/705683_web.jpg?1251664340
 murrisch.jpg;mürrisch - paniuręs;http://www.haz.de/var/storage/images/haz/nachrichten/medien/netzwelt/muerrische-katze-wird-zum-internet-star/35776686-1-ger-DE/Muerrische-Katze-wird-zum-Internet-Star_ArtikelQuer.jpg
 schalter.jpg;der Schalter - kasos langelis;http://www.duden.de/_media_/full/S/Schalter-201100280637.jpg
-unterhaltung.jpg;die Unterhaltung - pokalbis;http://www.duden.de/_media_/full/U/Unterhaltung-201100282581.jpg
+unterhaltung.jpg;die Unterhaltung\npokalbis;http://www.duden.de/_media_/full/U/Unterhaltung-201100282581.jpg
 absperrung.jpg;die Absperrung - užtvara;http://img.edilportale.com/product-thumbs/b_prodotti-50910-rel0cd7382b-5d75-41db-9ee7-6c3ddb0a9d81.jpg
 erreichen.jpg;erreichen - pasiekti;http://www.experto.de/ziele-erreichen-1280px-854px1.jpg
 witz.jpg;der Witz - anekdotas;https://s-media-cache-ak0.pinimg.com/736x/d4/f1/9b/d4f19b4e73ae44f06a37826fa45bcc92.jpg
@@ -81,23 +81,23 @@ deuten.jpg;deuten auf A - rodyti;https://www.uschamberfoundation.org/sites/defau
 dunn.jpg;dünn - plonas;http://40.media.tumblr.com/309326a5e2ba29333a16b113e23d826e/tumblr_n3gx6qZFm41rjf3ito1_500.jpg
 eindruck.jpg;die Eindruck - įspūdis;http://www.mystery-shopping-info.de/wordpress/wp-content/uploads/2012/07/kundenservice-gross.jpg
 beschleunigen.jpg;beschleunigen - pagreitinti;http://www.zentodone.eu/wp-content/uploads/Fotolia_9393330_XS.jpg   
-aufprall.jpg;Aufprall;https://data.motor-talk.de/data/galleries/0/179/6551/58657206/schwein-gehabt-7271029621897365427.JPG
-lok.jpg;Dampflok, die Lok - garvežys;http://www.farmingmods2015.com/wp-content/uploads/2016/01/Dampflok-V-1.0-Mod-4.jpg
+aufprall.jpg;der Aufprall\nsusidūrimas;https://data.motor-talk.de/data/galleries/0/179/6551/58657206/schwein-gehabt-7271029621897365427.JPG
+lok.jpg;die Dampflok, die Lok - garvežys;http://www.farmingmods2015.com/wp-content/uploads/2016/01/Dampflok-V-1.0-Mod-4.jpg
 streiten.jpg;streiten - kautis;http://www.unternehmer.de/wp-content/uploads/2010/06/Fotolia_4091682_XS-225x225.jpg
 klagen.jpg;klagen - skųstis;http://static0.goedgevoel.be/static/photo/2009/17/5/9/media_xl_809664.jpg
 auflauf.jpg;der Auflauf - susibūrimas;http://www.todayifoundout.com/wp-content/uploads/2014/11/crowd.jpg
 deckel.gif;der Deckel - dangtis;http://mastercuisine.eu/images/product_images/popup_images/28_0.gif
 hieven.jpg;hieven - kelti;https://upload.wikimedia.org/wikipedia/de/thumb/b/b7/Hinaushieven.JPG/440px-Hinaushieven.JPG
-anpacken.jpg;anpacken - griebti;http://krueger-strategie.com/wp-content/uploads/2013/01/Anpacken.jpg
+anpacken.jpg;anpacken - griebti;http://share-me.at/files/stories/_resampled/croppedimage400250-Wiener_Studentenboten_slide.jpg
 schweben.jpg;schweben - pleventi;http://4everstatic.com/bilder/674xX/menschen/frau-schweben,-wuste-197702.jpg
 verdecken.jpg;verdecken - užstoti;https://www.kartensicherheit.de/files/jpg1/Piktogramm_PinVerdecken.jpg
 lauschen.jpg;lauschen - klausyti;http://www.wandtattoo.at/store_files/1/images/product_images/info_images/159492.jpg
 aufhoren.jpg;aufhören - liautis;http://i2.bstatic.de/sites/default/files/styles/article_16x9_960x540/public/istock_000015396208_large.jpg?itok=LpTR8WAI
 wogen.jpg;wogen - banguoti;http://dmf.ace1.netdna-cdn.com/wp-content/uploads/2013/10/Welle.jpg
 schimmern.jpg;schimmern - mirgėti;http://static.schoener-wohnen.de/bilder/5c/0b/39362/article_image_medium/ausstellung-edles-schimmern-grassi-museum.jpg
-abzeichen.jpg;das Abzeichen - ženklelis;https://upload.wikimedia.org/wikipedia/de/thumb/5/52/Armee-Aufkl%C3%A4rungsdetachement_10_Abzeichen.svg/251px-Armee-Aufkl%C3%A4rungsdetachement_10_Abzeichen.svg.png
+abzeichen.jpg;das Abzeichen\nženklelis;https://upload.wikimedia.org/wikipedia/de/thumb/5/52/Armee-Aufkl%C3%A4rungsdetachement_10_Abzeichen.svg/251px-Armee-Aufkl%C3%A4rungsdetachement_10_Abzeichen.svg.png
 schatz.jpg;der Schatz - lobis;http://thumbs.dreamstime.com/z/schatz-kasten-14742194.jpg
-wange.jpg;die Wange - skruostas;http://www.essentialstyleformen.com/wp-content/uploads/2011/06/tammy_wange.jpg
+wange.jpg;die Wange\nskruostas;http://www.essentialstyleformen.com/wp-content/uploads/2011/06/tammy_wange.jpg
 vergnugt.jpg;vergnügt - linksmas;http://image3-cdn.n24.de/image/4978654/2/large16x9/23g/so-sexy-vergnuegt-sich-sylvie-meis-am-strand-image_900x510.jpg
 
 
