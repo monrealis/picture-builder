@@ -100,6 +100,7 @@ schatz.jpg;der Schatz - lobis;http://thumbs.dreamstime.com/z/schatz-kasten-14742
 wange.jpg;die Wange\nskruostas;http://www.essentialstyleformen.com/wp-content/uploads/2011/06/tammy_wange.jpg
 vergnugt.jpg;vergnügt - linksmas;http://image3-cdn.n24.de/image/4978654/2/large16x9/23g/so-sexy-vergnuegt-sich-sylvie-meis-am-strand-image_900x510.jpg
 regen.png;regen - judinti;http://www.northstarmoving.com/wp-content/uploads/office-moving-icon1.png
+pfiff.jpg;das Pfiff\nšvilpimas;http://www.kjr-pi.de/uploads/images/wettbewerb%20mit%20pfiff/Pfiff-mann.jpg
 
 
 
