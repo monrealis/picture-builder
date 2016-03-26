@@ -104,6 +104,7 @@ pfiff.jpg;das Pfiff\nšvilpimas;http://www.kjr-pi.de/uploads/images/wettbewerb%2
 schweigend.jpg;schweigend - tylus;http://l7.alamy.com/zooms/6a48ac00fbc64136b637a1c221f2dd5c/credit-check-eht4px.jpg
 schieben.jpg;schieben - stumti;http://st.depositphotos.com/1034598/2905/i/950/depositphotos_29059077-pushing-a-crate.jpg
 scherz.jpg;der Scherz - išdaiga;http://www.m-d-productions.de/md_productions/psychotoons/scherz.jpg
+vetter.jpg;der Vetter - pusbrolis;http://neu.landesverband-ost.de/wp-content/uploads/Der-Vetter-aus-Dingsda-IMG_6151.jpg
 
 
 
