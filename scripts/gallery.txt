@@ -106,7 +106,8 @@ schieben.jpg;schieben - stumti;http://st.depositphotos.com/1034598/2905/i/950/de
 scherz.jpg;der Scherz - išdaiga;http://www.m-d-productions.de/md_productions/psychotoons/scherz.jpg
 vetter.jpg;der Vetter - pusbrolis;http://neu.landesverband-ost.de/wp-content/uploads/Der-Vetter-aus-Dingsda-IMG_6151.jpg
 miene.jpg;die Miene - mina;http://miene.net/wp-content/uploads/2013/06/miene.jpg
-ratte.jpg;dir Ratte - žiurkė;https://s-media-cache-ak0.pinimg.com/736x/3e/41/ca/3e41ca722ddf4c6a1b122aa4c62ba4a5.jpg
+ratte.jpg;die Ratte - žiurkė;https://s-media-cache-ak0.pinimg.com/736x/3e/41/ca/3e41ca722ddf4c6a1b122aa4c62ba4a5.jpg
+pennen.jpg;pennen - miegoti;http://www.agila.de/images/Wie_lange_Hunde_schlafen.jpg
 
 
 
