@@ -108,6 +108,9 @@ vetter.jpg;der Vetter - pusbrolis;http://neu.landesverband-ost.de/wp-content/upl
 miene.jpg;die Miene - mina;http://miene.net/wp-content/uploads/2013/06/miene.jpg
 ratte.jpg;die Ratte - žiurkė;https://s-media-cache-ak0.pinimg.com/736x/3e/41/ca/3e41ca722ddf4c6a1b122aa4c62ba4a5.jpg
 pennen.jpg;pennen - miegoti;http://www.agila.de/images/Wie_lange_Hunde_schlafen.jpg
+mutig.jpg;mutig - drąsus;http://img01.lachschon.de/images/153401_MutigeMausgrins_1.jpg
+seele.png;die Seele - siela;http://vignette2.wikia.nocookie.net/villains/images/4/4d/Seele_meeting_Ikari.png/revision/latest?cb=20140608151111
+schaf.jpg;der Schaf - avis;http://yofreddo.com/Bilder/Schaf.jpg
 
 
 
