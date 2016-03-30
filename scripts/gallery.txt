@@ -111,6 +111,9 @@ pennen.jpg;pennen - miegoti;http://www.agila.de/images/Wie_lange_Hunde_schlafen.
 mutig.jpg;mutig - drąsus;http://img01.lachschon.de/images/153401_MutigeMausgrins_1.jpg
 seele.png;die Seele - siela;http://vignette2.wikia.nocookie.net/villains/images/4/4d/Seele_meeting_Ikari.png/revision/latest?cb=20140608151111
 schaf.jpg;der Schaf - avis;http://yofreddo.com/Bilder/Schaf.jpg
+gang.jpg;der Gang - koridorius;http://www.anonymekoeche.net/wp-content/uploads/Radisson-Leipzig_s.jpg
+grubchen.jpg;das Grübchen\nduobutė;http://view.stern.de/de/picture/126550/portrait-kind-gruebchen-gruebchen-940.jpg
+bohne.jpg;die Bohne - pupa;http://i.ebayimg.com/00/s/NTY2WDg0OQ==/z/PjMAAOSwGzlTw~4M/$_32.JPG?set_id=880000500F
 
 
 
