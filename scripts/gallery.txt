@@ -114,7 +114,8 @@ schaf.jpg;der Schaf - avis;http://yofreddo.com/Bilder/Schaf.jpg
 gang.jpg;der Gang - koridorius;http://www.anonymekoeche.net/wp-content/uploads/Radisson-Leipzig_s.jpg
 grubchen.jpg;das Grübchen\nduobutė;http://view.stern.de/de/picture/126550/portrait-kind-gruebchen-gruebchen-940.jpg
 bohne.jpg;die Bohne - pupa;http://i.ebayimg.com/00/s/NTY2WDg0OQ==/z/PjMAAOSwGzlTw~4M/$_32.JPG?set_id=880000500F
-
-
+kurbis.jpg;der Kürbis - moliūgas; http://www.fressbox.at/wordpress/wp-content/uploads/2012/09/fressbox_gelber_zentner.jpg
+pastete.jpg;die Pastete\npaštetas, pyragas;http://s1.srfcdn.ch/images/auftritte/unterhaltung/bilder/node_3582314/53753058-2-ger-DE/bild_s8.jpg
+tauschen.png;tauschen - keistis;https://www.exchange-me.de/images/step03.png?1445794392
 
 
