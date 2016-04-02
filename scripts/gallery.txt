@@ -118,5 +118,5 @@ kurbis.jpg;der Kürbis - moliūgas; http://www.fressbox.at/wordpress/wp-content/
 pastete.jpg;die Pastete\npaštetas, pyragas;http://s1.srfcdn.ch/images/auftritte/unterhaltung/bilder/node_3582314/53753058-2-ger-DE/bild_s8.jpg
 tauschen.png;tauschen - keistis;https://www.exchange-me.de/images/step03.png?1445794392
 futtern.jpg;füttern - maitinti;http://www.adpic.de/data/picture/detail/Eichhoernchen_fuettern_338864.jpg
-
+verfassen.jpg;verfassen - sukurti;https://www.trauer.de/data/64/editor/image/Fotolia_29049788_S.jpg
 
