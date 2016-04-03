@@ -119,4 +119,7 @@ pastete.jpg;die Pastete\npaštetas, pyragas;http://s1.srfcdn.ch/images/auftritte
 tauschen.png;tauschen - keistis;https://www.exchange-me.de/images/step03.png?1445794392
 futtern.jpg;füttern - maitinti;http://www.adpic.de/data/picture/detail/Eichhoernchen_fuettern_338864.jpg
 verfassen.jpg;verfassen - sukurti;https://www.trauer.de/data/64/editor/image/Fotolia_29049788_S.jpg
+verblufft.jpg;verblüfft - sumišęs;https://frankzio.files.wordpress.com/2011/12/verblfft.jpg
+bedienen.jpg;sich bedienen - pasivaišinti;http://www.ggsgressenich.de/images/brotgesicht_04.jpg
+sichtbar.jpg;sichtbar - matomas;http://www.unsichtbares-sichtbar-machen.de/wp-content/uploads/cover.jpg
 
