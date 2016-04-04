@@ -122,4 +122,8 @@ verfassen.jpg;verfassen - sukurti;https://www.trauer.de/data/64/editor/image/Fot
 verblufft.jpg;verblüfft - sumišęs;https://frankzio.files.wordpress.com/2011/12/verblfft.jpg
 bedienen.jpg;sich bedienen - pasivaišinti;http://www.ggsgressenich.de/images/brotgesicht_04.jpg
 sichtbar.jpg;sichtbar - matomas;http://www.unsichtbares-sichtbar-machen.de/wp-content/uploads/cover.jpg
+bewegen.jpg;bewegen - judinti;http://www.hulpmiddelenwijzer.nl/files/381701/meer+bewegen.jpg
+betrachten.jpg;betrachten - stebėti;http://blog.hays.de/wp-content/uploads/2015/05/20150529-%C2%A9-olly-Fotolia.com_.jpg
+vorsichtig.jpg;vorsichtig\natsargus;http://you-big-blog.com/wp-content/uploads/2012/08/Achtung-Vorsicht.jpg
+
 
