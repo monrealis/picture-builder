@@ -125,5 +125,7 @@ sichtbar.jpg;sichtbar - matomas;http://www.unsichtbares-sichtbar-machen.de/wp-co
 bewegen.jpg;bewegen - judinti;http://www.hulpmiddelenwijzer.nl/files/381701/meer+bewegen.jpg
 betrachten.jpg;betrachten - stebėti;http://blog.hays.de/wp-content/uploads/2015/05/20150529-%C2%A9-olly-Fotolia.com_.jpg
 vorsichtig.jpg;vorsichtig\natsargus;http://you-big-blog.com/wp-content/uploads/2012/08/Achtung-Vorsicht.jpg
+sorgfaltig.jpg;sorgfältig - kruopštus;http://www.antichrist-wachtturm.de/images/forsche-sorgfaeltig/forsche-sorgfaeltig.jpg
+hugel.jpg;der Hügel - kalva;https://upload.wikimedia.org/wikipedia/commons/3/36/Hohenlandenberg_H%C3%BCgel.jpg
 
 
