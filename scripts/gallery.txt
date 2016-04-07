@@ -128,5 +128,7 @@ vorsichtig.jpg;vorsichtig\natsargus;http://you-big-blog.com/wp-content/uploads/2
 sorgfaltig.jpg;sorgfältig - kruopštus;http://www.antichrist-wachtturm.de/images/forsche-sorgfaeltig/forsche-sorgfaeltig.jpg
 hugel.jpg;der Hügel - kalva;https://upload.wikimedia.org/wikipedia/commons/3/36/Hohenlandenberg_H%C3%BCgel.jpg
 abscheu.jpg;der Abscheu\npasibjaurėjimas;http://previews.123rf.com/images/mscates/mscates1210/mscates121000002/15608395-Ein-Mann-mit-einem-Blick-von-Entsetzen-und-Abscheu-isoliert-auf-schwarz-Lizenzfreie-Bilder.jpg
+uppig.jpg;üppig - vešlus, apkūnus;http://ais.vip.de/voting/img52e644063cd51/0x400/kurvige-kate-upton-zu-ueppig-fuer-ein-top-model.jpg
+stobern.jpg;stobern - ieškoti, knistis;http://www.dorstenerzeitung.de/storage/pic/mdhl/artikelbilder/lokales/dz-hz/dorsten/dnse/2637452_1_xio-fcmsimage-20110809173833-006000-4e4154792de36.4192557.jpg?version=1386757663
 
 
