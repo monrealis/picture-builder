@@ -132,5 +132,7 @@ uppig.jpg;üppig - vešlus, apkūnus;http://ais.vip.de/voting/img52e644063cd51/0
 stobern.jpg;stobern - ieškoti, knistis;http://www.dorstenerzeitung.de/storage/pic/mdhl/artikelbilder/lokales/dz-hz/dorsten/dnse/2637452_1_xio-fcmsimage-20110809173833-006000-4e4154792de36.4192557.jpg?version=1386757663
 rauspern.png;sich räuspern - atsikosėti;http://www.apotheken-umschau.de/multimedia/68/256/58/114583912465.png
 verlegen.jpg;verlegen - sumišęs;http://cdn.nsmbl.nl/wp-content/uploads/2012/11/verlegen-dieren-8.jpeg
+geschwindigkeit.jpg;die Geschwindigkeit - greitis;http://www.go-handl.at/webseite/wp-content/uploads/2013/03/geschwindigkeit-1.jpg
+aufstieg.jpg;der Aufstieg, der Niedergang;http://www.kinderzeitmaschine.de/uploads/tx_sgkzm/stufenleiter.jpg
 
 
