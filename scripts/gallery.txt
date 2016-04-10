@@ -134,5 +134,6 @@ rauspern.png;sich räuspern - atsikosėti;http://www.apotheken-umschau.de/multim
 verlegen.jpg;verlegen - sumišęs;http://cdn.nsmbl.nl/wp-content/uploads/2012/11/verlegen-dieren-8.jpeg
 geschwindigkeit.jpg;die Geschwindigkeit - greitis;http://www.go-handl.at/webseite/wp-content/uploads/2013/03/geschwindigkeit-1.jpg
 aufstieg.jpg;der Aufstieg, der Niedergang;http://www.kinderzeitmaschine.de/uploads/tx_sgkzm/stufenleiter.jpg
-
+schleppen.jpg;schleppen - tempti;http://thumbs.dreamstime.com/x/schleppen-sie-die-zeile-15775632.jpg
+blod.jpg;blöd - kvailas;http://www.allmystery.de/dateien/pr57674,1258411955,schwein-lachend.jpg
 
