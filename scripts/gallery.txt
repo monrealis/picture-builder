@@ -136,4 +136,6 @@ geschwindigkeit.jpg;die Geschwindigkeit - greitis;http://www.go-handl.at/webseit
 aufstieg.jpg;der Aufstieg, der Niedergang;http://www.kinderzeitmaschine.de/uploads/tx_sgkzm/stufenleiter.jpg
 schleppen.jpg;schleppen - tempti;http://thumbs.dreamstime.com/x/schleppen-sie-die-zeile-15775632.jpg
 blod.jpg;blöd - kvailas;http://www.allmystery.de/dateien/pr57674,1258411955,schwein-lachend.jpg
-
+trubselig.jpg;trübselig - liūdnas;http://100-pics.org/data/153/528e51fbd1d9d.jpg
+lenken.jpg;lenken - vairuoti, nukreipti;http://static.memrise.com/uploads/mems/output/2741909-131003172846.png
+schnurrhaar.jpg;das Schnurrhaar - ūsas;http://www.duden.de/_media_/full/S/Schnurrhaar-201020475060.jpg
