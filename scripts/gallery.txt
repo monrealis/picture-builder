@@ -143,4 +143,6 @@ schlagzeile.jpg;die Schlagzeile - antraštė;http://www.uloc.de/screenshots/f/fa
 erwischen.jpg;erwischen - pagauti;http://www2.joliebilder.de/96729-1606056-3/image768w/bus-gerade-noch-erwischen-400x400-1051025.jpg
 kriegen.jpg;kriegen - gauti;http://akku-steyr.com/sites/akku-steyr.com/files/imagecache/Full/Foto%20Folder%20Frieden%20kriegen.JPG
 spuren.jpg;spüren - justi;http://www.wildewasser.at/media/img/galerien/schmelzofenrunde-1046_1600px.jpg
+zug.jpg;der Zug - bruožas;https://geekwhisperin.files.wordpress.com/2009/09/bug-vs-feature.jpg
+
 
