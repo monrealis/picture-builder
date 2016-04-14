@@ -144,5 +144,7 @@ erwischen.jpg;erwischen - pagauti;http://www2.joliebilder.de/96729-1606056-3/ima
 kriegen.jpg;kriegen - gauti;http://akku-steyr.com/sites/akku-steyr.com/files/imagecache/Full/Foto%20Folder%20Frieden%20kriegen.JPG
 spuren.jpg;spüren - justi;http://www.wildewasser.at/media/img/galerien/schmelzofenrunde-1046_1600px.jpg
 zug.jpg;der Zug - bruožas;https://geekwhisperin.files.wordpress.com/2009/09/bug-vs-feature.jpg
+mustern.jpg;mustern - apžiūrėti;http://thumbs.dreamstime.com/x/robot-examine-puzzle-18291516.jpg
+stammig.jpg;stämmig - kresnas;http://kratzbaum-online-shop.de/images/kratzbaum_gallery/coosi1staemmig/sisal/kratzbaum-coosi-1-staemmig-sisal-3-liegeflaechen-06.jpg
 
 
