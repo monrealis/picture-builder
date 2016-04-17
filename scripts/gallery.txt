@@ -148,4 +148,6 @@ mustern.jpg;mustern - apžiūrėti;http://thumbs.dreamstime.com/x/robot-examine-
 stammig.jpg;stämmig - kresnas;http://kratzbaum-online-shop.de/images/kratzbaum_gallery/coosi1staemmig/sisal/kratzbaum-coosi-1-staemmig-sisal-3-liegeflaechen-06.jpg
 gesindel.jpg;das Gesindel - valkatos;https://stoeckls.files.wordpress.com/2012/03/linkes-gesindel-karikatur-c-by-hans-karl-stc3b6ckl.jpg
 kraftig.jpg;kräftig - stiprus;http://imworld.aufeminin.com/story/20150618/bh-und-slip-mit-strumpfhaltern-von-ashley-graham-im-set-ca-90-gesehen-auf-navabi-de-693229_w650.jpg
+baumeln.jpg;baumeln - tabaluoti;http://www.tagesspiegel.de/images/beine-baumeln-lassen/12078118/1-format43.jpg
+lauern.jpg;lauern - tykoti;http://www.anawalls.com/images/animals/cheetah-grass-hunting-pose-lurk-big-cat-spotted.jpg
 
