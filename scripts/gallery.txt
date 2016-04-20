@@ -153,6 +153,8 @@ lauern.jpg;lauern - tykoti;http://www.anawalls.com/images/animals/cheetah-grass-
 begegnung.jpg;die Begegnung - susitikimas;http://www.kunstschule-digital-art.de/kudi-1/images/stories/begegnungen/Slischka_Begeg/Michelangelo_begegnungen.jpg
 dreck.jpg;der Dreck - purvas;https://northmantrader.files.wordpress.com/2015/11/dreck.jpg
 hallen.jpg;hallen - skambėti;https://echofortrello.com/assets/echo-for-trello-logo-623c6ccb10626f2f9cd6c2e601f6aecd6b54b75d39dc1f5652080146fccbfb36.png
+magen.jpg;der Magen - skrandis;http://medienwerkstatt-online.de/lws_wissen/bilder/222-2.gif
+pfad.jpg;der Pfad - takas;http://www.wald-laeufer.de/fotos.bilder/20100613/img_20100613_069/Der-Pfad-windet-sich.jpg
 
 
 
