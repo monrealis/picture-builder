@@ -157,7 +157,8 @@ magen.jpg;der Magen - skrandis;http://medienwerkstatt-online.de/lws_wissen/bilde
 pfad.jpg;der Pfad - takas;http://www.wald-laeufer.de/fotos.bilder/20100613/img_20100613_069/Der-Pfad-windet-sich.jpg
 biegung.png;die Biegung - vingis;http://www.maschinenbau-wissen.de/bilder/skripte/mechanik/biegung-12.PNG
 ufer.jpg;das Ufer - krantas;https://upload.wikimedia.org/wikipedia/commons/8/8a/Dummersdorfer_Ufer_%2812%29.JPG
-
+vorhang.jpg;der Vorhang - užuolaida;http://moxi.gmxhome.de/Vorhang_klein.JPG
+unterirdisch.jpg;unterirdisch - požeminis;http://www.geo.de/reisen/community/bild/regular/455984/UEberirdisch-unterirdisch.jpg
 
 
 
