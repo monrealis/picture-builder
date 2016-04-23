@@ -159,6 +159,8 @@ biegung.png;die Biegung - vingis;http://www.maschinenbau-wissen.de/bilder/skript
 ufer.jpg;das Ufer - krantas;https://upload.wikimedia.org/wikipedia/commons/8/8a/Dummersdorfer_Ufer_%2812%29.JPG
 vorhang.jpg;der Vorhang - užuolaida;http://moxi.gmxhome.de/Vorhang_klein.JPG
 unterirdisch.jpg;unterirdisch - požeminis;http://www.geo.de/reisen/community/bild/regular/455984/UEberirdisch-unterirdisch.jpg
-
+gewaltig.jpg;gewaltig - galingas, didžiulis;http://www.fotolism.us/wp-content/uploads/2009/10/gewaltig-hombre-klein.jpg
+faust.jpg;die Faust - kumštis;http://www.aller-leih.com/static/images/productimage-picture-fotografie-die-faust-im-nacken-3948_JPG_600x600_q85.jpg
+stockwerk.jpg;das Stockwerk - aukštas;https://upload.wikimedia.org/wikipedia/commons/3/38/Stockwerke.png
 
 
