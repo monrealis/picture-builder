@@ -162,5 +162,6 @@ unterirdisch.jpg;unterirdisch - požeminis;http://www.geo.de/reisen/community/bi
 gewaltig.jpg;gewaltig - galingas, didžiulis;http://www.fotolism.us/wp-content/uploads/2009/10/gewaltig-hombre-klein.jpg
 faust.jpg;die Faust - kumštis;http://www.aller-leih.com/static/images/productimage-picture-fotografie-die-faust-im-nacken-3948_JPG_600x600_q85.jpg
 stockwerk.jpg;das Stockwerk - aukštas;https://upload.wikimedia.org/wikipedia/commons/3/38/Stockwerke.png
-
+eng.jpg;eng - ankštas;https://kmbeing.files.wordpress.com/2011/05/narrow.jpg
+drangen.jpg;sich drängen - grūstis;http://thumbs.dreamstime.com/z/die-leute-die-metro-sich-dr%C3%A4ngen-bilden-der-hauptverkehrszeit-paris-frankreich-aus-52314789.jpg
 
