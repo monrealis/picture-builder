@@ -82,7 +82,7 @@ dunn.jpg;dünn - plonas;http://40.media.tumblr.com/309326a5e2ba29333a16b113e23d8
 eindruck.jpg;die Eindruck - įspūdis;http://www.mystery-shopping-info.de/wordpress/wp-content/uploads/2012/07/kundenservice-gross.jpg
 beschleunigen.jpg;beschleunigen - pagreitinti;http://www.zentodone.eu/wp-content/uploads/Fotolia_9393330_XS.jpg   
 aufprall.jpg;der Aufprall\nsusidūrimas;https://data.motor-talk.de/data/galleries/0/179/6551/58657206/schwein-gehabt-7271029621897365427.JPG
-lok.jpg;die Dampflok, die Lok - garvežys;http://www.farmingmods2015.com/wp-content/uploads/2016/01/Dampflok-V-1.0-Mod-4.jpg
+lok.jpg;die Dampflok, die Lok\ngarvežys;http://www.farmingmods2015.com/wp-content/uploads/2016/01/Dampflok-V-1.0-Mod-4.jpg
 streiten.jpg;streiten - kautis;http://www.unternehmer.de/wp-content/uploads/2010/06/Fotolia_4091682_XS-225x225.jpg
 klagen.jpg;klagen - skųstis;http://static0.goedgevoel.be/static/photo/2009/17/5/9/media_xl_809664.jpg
 auflauf.jpg;der Auflauf - susibūrimas;http://www.todayifoundout.com/wp-content/uploads/2014/11/crowd.jpg
@@ -140,7 +140,7 @@ trubselig.jpg;trübselig - liūdnas;http://100-pics.org/data/153/528e51fbd1d9d.j
 lenken.jpg;lenken - vairuoti, nukreipti;http://static.memrise.com/uploads/mems/output/2741909-131003172846.png
 schnurrhaar.jpg;das Schnurrhaar - ūsas;http://www.duden.de/_media_/full/S/Schnurrhaar-201020475060.jpg
 schlagzeile.jpg;die Schlagzeile - antraštė;http://www.uloc.de/screenshots/f/fabf18_32_lisa_liebt_milhouse_schlagzeile.jpg
-erwischen.jpg;erwischen - pagauti;http://www2.joliebilder.de/96729-1606056-3/image768w/bus-gerade-noch-erwischen-400x400-1051025.jpg
+erwischen.jpg;erwischen\npagauti;http://www2.joliebilder.de/96729-1606056-3/image768w/bus-gerade-noch-erwischen-400x400-1051025.jpg
 kriegen.jpg;kriegen - gauti;http://akku-steyr.com/sites/akku-steyr.com/files/imagecache/Full/Foto%20Folder%20Frieden%20kriegen.JPG
 spuren.jpg;spüren - justi;http://www.wildewasser.at/media/img/galerien/schmelzofenrunde-1046_1600px.jpg
 zug.jpg;der Zug - bruožas;https://geekwhisperin.files.wordpress.com/2009/09/bug-vs-feature.jpg
@@ -161,7 +161,7 @@ vorhang.jpg;der Vorhang - užuolaida;http://moxi.gmxhome.de/Vorhang_klein.JPG
 unterirdisch.jpg;unterirdisch - požeminis;http://www.geo.de/reisen/community/bild/regular/455984/UEberirdisch-unterirdisch.jpg
 gewaltig.jpg;gewaltig - galingas, didžiulis;http://www.fotolism.us/wp-content/uploads/2009/10/gewaltig-hombre-klein.jpg
 faust.jpg;die Faust - kumštis;http://www.aller-leih.com/static/images/productimage-picture-fotografie-die-faust-im-nacken-3948_JPG_600x600_q85.jpg
-stockwerk.jpg;das Stockwerk - aukštas;https://upload.wikimedia.org/wikipedia/commons/3/38/Stockwerke.png
+stockwerk.jpg;das Stockwerk\naukštas;https://upload.wikimedia.org/wikipedia/commons/3/38/Stockwerke.png
 eng.jpg;eng - ankštas;https://kmbeing.files.wordpress.com/2011/05/narrow.jpg
 drangen.jpg;sich drängen - grūstis;http://thumbs.dreamstime.com/z/die-leute-die-metro-sich-dr%C3%A4ngen-bilden-der-hauptverkehrszeit-paris-frankreich-aus-52314789.jpg
 
