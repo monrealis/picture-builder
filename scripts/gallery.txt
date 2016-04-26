@@ -166,7 +166,7 @@ eng.jpg;eng - ankštas;https://kmbeing.files.wordpress.com/2011/05/narrow.jpg
 drangen.jpg;sich drängen - grūstis;http://thumbs.dreamstime.com/z/die-leute-die-metro-sich-dr%C3%A4ngen-bilden-der-hauptverkehrszeit-paris-frankreich-aus-52314789.jpg
 verletzen.jpg;verletzen - pažeisti;http://cdn2.spiegel.de/images/image-568869-breitwandaufmacher-fsnb-568869.jpg
 pokal.gif;der Pokal - bokalas;http://parkl.si/wp-content/uploads/2014/01/pokal.gif
-
+weise.jpg;die Weise\nbūdas, maniera;http://www.everyonedresses.com/wp-content/uploads/2016/01/pent.jpg
 
 
 
