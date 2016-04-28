@@ -169,6 +169,7 @@ pokal.gif;der Pokal - bokalas;http://parkl.si/wp-content/uploads/2014/01/pokal.g
 weise.jpg;die Weise\nbūdas, maniera;http://www.everyonedresses.com/wp-content/uploads/2016/01/pent.jpg
 atem.png;der Atem - kvėpavimas;http://www.st-michaelis-karben.de/wordpress/wp-content/uploads/2013/04/atem.png
 streiten2.jpg;streiten - ginčytis;https://bitteeinsteigen.files.wordpress.com/2013/11/streit-24025.jpg
-
+stumm.jpg;stumm - tylus;http://1.cdn.eprofits.com/3adwBIy0mcYXv1Ucz2pvtgAQIqEAuMHau8ukaZx7OzkzOoyDS_9dG3Rrr8T3uvJ3ShGrSRPd84MpgNJaKayXkg/you-can-finally-mute-annoying-users-with-twitters-new-feature-2.jpg
+verruf.jpg;der Verruf - blogas vardas;http://cdn2.img.de.sputniknews.com/images/30869/48/308694879.jpg
 
 
