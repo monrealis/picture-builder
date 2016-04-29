@@ -171,5 +171,7 @@ atem.png;der Atem - kvėpavimas;http://www.st-michaelis-karben.de/wordpress/wp-c
 streiten2.jpg;streiten - ginčytis;https://bitteeinsteigen.files.wordpress.com/2013/11/streit-24025.jpg
 stumm.jpg;stumm - tylus;http://1.cdn.eprofits.com/3adwBIy0mcYXv1Ucz2pvtgAQIqEAuMHau8ukaZx7OzkzOoyDS_9dG3Rrr8T3uvJ3ShGrSRPd84MpgNJaKayXkg/you-can-finally-mute-annoying-users-with-twitters-new-feature-2.jpg
 verruf.jpg;der Verruf - blogas vardas;http://cdn2.img.de.sputniknews.com/images/30869/48/308694879.jpg
-
+reihe.jpg;die Reihe - eilė;http://danielpeter.net/wp-content/uploads/2012/01/punkfuckinrock2.jpg
+blei.jpg;das Blei - švinas;https://upload.wikimedia.org/wikipedia/commons/7/7d/Lead-288819.jpg
+kerze.jpg;die Kerze - žvakė;http://www.lifechannel.ch/images/content/beitrag/kerze_flamme_haende_hoffnung_Fotolia.jpg
 
