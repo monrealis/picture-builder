@@ -174,4 +174,5 @@ verruf.jpg;der Verruf - blogas vardas;http://cdn2.img.de.sputniknews.com/images/
 reihe.jpg;die Reihe - eilė;http://danielpeter.net/wp-content/uploads/2012/01/punkfuckinrock2.jpg
 blei.jpg;das Blei - švinas;https://upload.wikimedia.org/wikipedia/commons/7/7d/Lead-288819.jpg
 kerze.jpg;die Kerze - žvakė;http://www.lifechannel.ch/images/content/beitrag/kerze_flamme_haende_hoffnung_Fotolia.jpg
+laterne.jpg;die Laterne - žibintas;http://media.4teachers.de/images/thumbs/image_thumb.14705.png
 
