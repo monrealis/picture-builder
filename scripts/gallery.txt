@@ -175,4 +175,10 @@ reihe.jpg;die Reihe - eilė;http://danielpeter.net/wp-content/uploads/2012/01/pu
 blei.jpg;das Blei - švinas;https://upload.wikimedia.org/wikipedia/commons/7/7d/Lead-288819.jpg
 kerze.jpg;die Kerze - žvakė;http://www.lifechannel.ch/images/content/beitrag/kerze_flamme_haende_hoffnung_Fotolia.jpg
 laterne.jpg;die Laterne - žibintas;http://media.4teachers.de/images/thumbs/image_thumb.14705.png
+schlau.jpg;schlau - gudrus;https://pbs.twimg.com/profile_images/1110075986/Gl_hbirne_400x400.jpg
+wackeln.jpg;wackeln - klibėti;http://www.geo.de/reisen/community/bild/regular/721158/Bitte-nicht-wackeln.jpg
+
+
+
+
 
