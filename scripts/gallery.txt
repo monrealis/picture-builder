@@ -178,6 +178,8 @@ laterne.jpg;die Laterne - žibintas;http://media.4teachers.de/images/thumbs/imag
 schlau.jpg;schlau - gudrus;https://pbs.twimg.com/profile_images/1110075986/Gl_hbirne_400x400.jpg
 wackeln.jpg;wackeln - klibėti;http://www.geo.de/reisen/community/bild/regular/721158/Bitte-nicht-wackeln.jpg
 schadel.jpg;der Schädel - kaukolė;http://www.wissen-digital.de/images/3/39/Med_3B-Scientific-schaedel-seitlich.jpg
+vertrauen.jpg;das Vertrauen - pasitikėjimas;http://www.jesus.ch/sites/default/files/media/197151-Vertrau-auf-Gott---Auf-ihn-ist-Verlass.jpg
+list.jpg;die List, die Tücke\nklasta;http://img.svz.de/img/kultur/crop10801751/6736399826-cv16_9-w596/23-74164310-23-74164311-1443166458.jpg
 
 
 
