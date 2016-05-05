@@ -181,6 +181,8 @@ schadel.jpg;der Schädel - kaukolė;http://www.wissen-digital.de/images/3/39/Med
 vertrauen.jpg;das Vertrauen - pasitikėjimas;http://www.jesus.ch/sites/default/files/media/197151-Vertrau-auf-Gott---Auf-ihn-ist-Verlass.jpg
 list.jpg;die List, die Tücke\nklasta;http://img.svz.de/img/kultur/crop10801751/6736399826-cv16_9-w596/23-74164310-23-74164311-1443166458.jpg
 rutschen.jpg;rutschen - slysti;http://www.obi.at/at/rat-und-tat/garten-und-freizeit/leben-im-garten/garten-fuer-kinder/rutschen-berater/images/mood_rutschen_berater-.jpg
-
+jubel.jpg;der Jubel - džiūgavimas;http://www.cicero.de/sites/default/files/field/image/brasiliens_neymar_bejubelt_seinen_verwandelten_elfmeter_gegen_kroatien.jpg
+allmahlich.jpg;allmählich - laipsniškas;http://thumbs.dreamstime.com/z/satz-%C3%A4pfel-allm%C3%A4hlich-gegessen-48794730.jpg
+ubel.jpg;übel - blogas;http://cdn.familie.de/bilder/hund-mit-kuehlpack-247281.jpg
 
 
