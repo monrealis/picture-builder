@@ -184,5 +184,7 @@ rutschen.jpg;rutschen - slysti;http://www.obi.at/at/rat-und-tat/garten-und-freiz
 jubel.jpg;der Jubel - džiūgavimas;http://www.cicero.de/sites/default/files/field/image/brasiliens_neymar_bejubelt_seinen_verwandelten_elfmeter_gegen_kroatien.jpg
 allmahlich.jpg;allmählich - laipsniškas;http://thumbs.dreamstime.com/z/satz-%C3%A4pfel-allm%C3%A4hlich-gegessen-48794730.jpg
 ubel.jpg;übel - blogas;http://cdn.familie.de/bilder/hund-mit-kuehlpack-247281.jpg
+aufderstelle.jpg;auf der Stelle - iš karto;http://www.br.de/import/audiovideo/standbilder/neuseeland-tanz-polizeibild-100~_h-360_v-img__16__9__xl_w-640_-6ecbffbf3dd98a5c8156e3adec8a912f72d7fccc.jpg?version=2064e
+verkunde.jpg;verkünden - paskelbti;http://comps.canstockphoto.de/can-stock-photo_csp16180201.jpg
 
 
