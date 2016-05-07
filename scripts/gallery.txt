@@ -186,5 +186,9 @@ allmahlich.jpg;allmählich - laipsniškas;http://thumbs.dreamstime.com/z/satz-%C
 ubel.jpg;übel - blogas;http://cdn.familie.de/bilder/hund-mit-kuehlpack-247281.jpg
 aufderstelle.jpg;auf der Stelle - iš karto;http://www.br.de/import/audiovideo/standbilder/neuseeland-tanz-polizeibild-100~_h-360_v-img__16__9__xl_w-640_-6ecbffbf3dd98a5c8156e3adec8a912f72d7fccc.jpg?version=2064e
 verkunde.jpg;verkünden - paskelbti;http://comps.canstockphoto.de/can-stock-photo_csp16180201.jpg
+ewigkeit.jpg;die Ewigkeit - amžinybė;http://luxus.welt.de/sites/default/files/styles/giant-teaser/public/img/ewigkeit_0.jpeg?itok=mOzPq--5
+irrtum.jpg;der Irrtum - klaida;http://www.beliebte-vornamen.de/wp-content/uploads/Fotolia_42924553_XS.jpg
+
+
 
 
