@@ -188,7 +188,7 @@ aufderstelle.jpg;auf der Stelle - iš karto;http://www.br.de/import/audiovideo/s
 verkunde.jpg;verkünden - paskelbti;http://comps.canstockphoto.de/can-stock-photo_csp16180201.jpg
 ewigkeit.jpg;die Ewigkeit - amžinybė;http://luxus.welt.de/sites/default/files/styles/giant-teaser/public/img/ewigkeit_0.jpeg?itok=mOzPq--5
 irrtum.jpg;der Irrtum - klaida;http://www.beliebte-vornamen.de/wp-content/uploads/Fotolia_42924553_XS.jpg
-
+geflust.jpg;das Geflüster - kuždesys;http://www.augensound.de/l54558-zeichnungen_comic-gefluster.jpg
 
 
 
