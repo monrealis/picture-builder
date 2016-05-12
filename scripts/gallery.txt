@@ -196,3 +196,9 @@ erwidern.jpg;erwidern - atsakyti;http://pad2.whstatic.com/images/thumb/c/cd/Dete
 daumen.jpg;der Daumen - nykštys;http://thumbs.dreamstime.com/x/daumen-oben-8356319.jpg
 eigenartig.jpg;eigenartig -savitas;https://i.ytimg.com/vi/_oigFfj0SdA/maxresdefault.jpg
 strahlen.jpg;strahlen - spindėti;http://www.apotheken-umschau.de/multimedia/31/260/51/10233487377.jpg
+erbse.jpg;die Erbse - žirnis;http://static.myslimcoach.de/img/ll_thumbnails/21.jpg
+
+
+
+
+
