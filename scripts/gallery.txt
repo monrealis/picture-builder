@@ -199,7 +199,7 @@ strahlen.jpg;strahlen - spindėti;http://www.apotheken-umschau.de/multimedia/31/
 erbse.jpg;die Erbse - žirnis;http://static.myslimcoach.de/img/ll_thumbnails/21.jpg
 kostlich.jpg;köstlich - labai skanus;http://www.everyday-feng-shui.de/feng-shui-news/wp-content/uploads/2012/03/kochen-und-geniessen.jpg
 schnitten.jpg;schnitten - pjaustyti;https://i.ytimg.com/vi/aR2ZJkb1Yqg/maxresdefault.jpg
-
-
-
+zuihrendiensten.jpg;zu Ihren Diensten - Jūsų paslaugoms;http://previews.123rf.com/images/sellingpix/sellingpix1003/sellingpix100300148/6689267-Kellner-zu-Ihren-Diensten-3d-isoliert-auf-wei-em-Hintergrund-Zeichen-Serie--Lizenzfreie-Bilder.jpg
+vorziehen.jpg;vorziehen - teikti pirmenybę;http://f.tqn.com/y/german/1/S/i/G/2/how-to-express-your-preferences-in-german-language-GettyImages-175822209.jpg
+verdrossen.jpg;verdrossen - liūdnas;https://farm1.staticflickr.com/8/7340412_2db9809b94.jpg
 
