@@ -202,4 +202,10 @@ schnitten.jpg;schnitten - pjaustyti;https://i.ytimg.com/vi/aR2ZJkb1Yqg/maxresdef
 zuihrendiensten.jpg;zu Ihren Diensten - Jūsų paslaugoms;http://previews.123rf.com/images/sellingpix/sellingpix1003/sellingpix100300148/6689267-Kellner-zu-Ihren-Diensten-3d-isoliert-auf-wei-em-Hintergrund-Zeichen-Serie--Lizenzfreie-Bilder.jpg
 vorziehen.jpg;vorziehen - teikti pirmenybę;http://f.tqn.com/y/german/1/S/i/G/2/how-to-express-your-preferences-in-german-language-GettyImages-175822209.jpg
 verdrossen.jpg;verdrossen - liūdnas;https://farm1.staticflickr.com/8/7340412_2db9809b94.jpg
+husten.jpg;husten - kosėti;http://www.schweizamsonntag.ch/content/1390991876.jpg
+anstrengenjpg;sich anstrengen - stengtis;https://actiftraining.files.wordpress.com/2011/03/anstrengen.jpg
+sieg.jpg;der Sieg - pergalė;http://www.skionline.ch/images/content/maenner/beat_feuz/portrait/2016/feuz_jubelStM_zoom.jpg
+
+
+
 
