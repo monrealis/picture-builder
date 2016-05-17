@@ -206,6 +206,8 @@ husten.jpg;husten - kosėti;http://www.schweizamsonntag.ch/content/1390991876.jp
 anstrengenjpg;sich anstrengen - stengtis;https://actiftraining.files.wordpress.com/2011/03/anstrengen.jpg
 sieg.jpg;der Sieg - pergalė;http://www.skionline.ch/images/content/maenner/beat_feuz/portrait/2016/feuz_jubelStM_zoom.jpg
 funkelnd.jpg;funkelnd - žibėti;http://mein.salzburg.com/fotoblog/heimat/assets_c/2008/12/DSC07211-thumb-1024xauto-17545.jpg
+haut.jpg;die Haut - oda;https://upload.wikimedia.org/wikipedia/commons/a/ae/Menschliche_Haut.jpg
+
 
 
 
