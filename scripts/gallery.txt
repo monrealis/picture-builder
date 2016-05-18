@@ -14,7 +14,7 @@ schachtel.jpg;die Schachtel - dėžė;http://www.duden.de/_media_/full/S/Schacht
 stille.jpg;die Stille - tyla;http://www.enjoy-your-evolution.com/wp-content/uploads/2011/11/Stille-world-at-rest-800x558.jpg
 staub.jpg;der Staub - dulkės;http://www.speed-magazin.de/img/news/1382183887.jpg
 erheben.jpg;sich erheben - pakilti;http://mux.gmxhome.de/malundzeichenkurse/images/oelmalen/wuerth002/figur/DSCF0009.jpg
-blass.jpg;blass - blyškus;http://cdn.trendhunterstatic.com/thumbs/pale-beauty.jpeg
+blass.jpg;blass, fahl - blyškus;http://cdn.trendhunterstatic.com/thumbs/pale-beauty.jpeg
 dusternis.jpg;die Düsternis - tamsuma;http://www.trincerone.com/archive/2010/Carpathia/I/Carpathia_I_47.jpg
 geschmeidig.jpg;geschmeidig, biegsam\nlankstus;http://images.china.cn/attachement/jpg/site1003/20130128/001372acd6f312702c1e01.jpg
 weidenholz.jpg;der Weidenholz - gluosnis;http://www.landes-zeitung.de/cms_media/module_bi/286/143010_0_articledetail_270_008_4196859_feKorbWeid.jpg
@@ -207,7 +207,8 @@ anstrengenjpg;sich anstrengen - stengtis;https://actiftraining.files.wordpress.c
 sieg.jpg;der Sieg - pergalė;http://www.skionline.ch/images/content/maenner/beat_feuz/portrait/2016/feuz_jubelStM_zoom.jpg
 funkelnd.jpg;funkelnd - žibėti;http://mein.salzburg.com/fotoblog/heimat/assets_c/2008/12/DSC07211-thumb-1024xauto-17545.jpg
 haut.jpg;die Haut - oda;https://upload.wikimedia.org/wikipedia/commons/a/ae/Menschliche_Haut.jpg
-
+kelch.jpg;der Kelch - taurė;http://america.pink/images/2/4/0/7/0/9/3/en/1-kelch.jpg
+haken.jpg;der Haken - kablys;http://www.duden.de/_media_/full/H/Haken-201100277856.jpg
 
 
 
