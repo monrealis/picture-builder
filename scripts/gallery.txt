@@ -209,7 +209,7 @@ funkelnd.jpg;funkelnd - žibėti;http://mein.salzburg.com/fotoblog/heimat/assets
 haut.jpg;die Haut - oda;https://upload.wikimedia.org/wikipedia/commons/a/ae/Menschliche_Haut.jpg
 kelch.jpg;der Kelch - taurė;http://america.pink/images/2/4/0/7/0/9/3/en/1-kelch.jpg
 haken.jpg;der Haken - kablys;http://www.duden.de/_media_/full/H/Haken-201100277856.jpg
-
+abklingen.jpg;abklingen - nuslūgti;http://www.spectra-magic.de/Vorlagen/Anwendungen/Lumineszenz/L21_Norm-Lifetime_D1_MR.jpg
 
 
 
