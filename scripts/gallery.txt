@@ -212,5 +212,5 @@ haken.jpg;der Haken - kablys;http://www.duden.de/_media_/full/H/Haken-2011002778
 abklingen.jpg;abklingen - nuslūgti;http://www.spectra-magic.de/Vorlagen/Anwendungen/Lumineszenz/L21_Norm-Lifetime_D1_MR.jpg
 mitteilen.jpg;mitteilen - pranešti;http://www.brixner.info/media/a08b77ea-2dc1-4f92-8300-100948745403/mitteilen-ankuendigen-web.jpg
 fadden.jpg;der Faden - siūlas;https://lauranaima.files.wordpress.com/2014/05/cropped-bildschirmfoto-2013-06-14-um-08-34-08.png
-
+verschweigen.jpg;verschweigen - nutylėti;http://karrierebibel.de/wp-content/uploads/2015/07/Bewerbungstrainer-verschweigen-Bild.jpg
 
