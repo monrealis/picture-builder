@@ -215,7 +215,7 @@ fadden.jpg;der Faden - siūlas;https://lauranaima.files.wordpress.com/2014/05/cr
 verschweigen.jpg;verschweigen - nutylėti;http://karrierebibel.de/wp-content/uploads/2015/07/Bewerbungstrainer-verschweigen-Bild.jpg
 schatten.jpg;der Schatten - šešėlis;http://www.likoli.de/t-shirt-im-schatten-des-hasen-bilder-1115.jpg
 rustung.jpg;die Rüstung - ginkluotė;https://d1ej19d7kwigfi.cloudfront.net/uploads/forum_attachment/file/757/Identity-600x330.jpg
-
+griff.jpg;der Griff - nutvėrimas;http://www.duden.de/_media_/full/G/Griff-201100277505.jpg
 
 
 
