@@ -216,6 +216,6 @@ verschweigen.jpg;verschweigen - nutylėti;http://karrierebibel.de/wp-content/upl
 schatten.jpg;der Schatten - šešėlis;http://www.likoli.de/t-shirt-im-schatten-des-hasen-bilder-1115.jpg
 rustung.jpg;die Rüstung - ginkluotė;https://d1ej19d7kwigfi.cloudfront.net/uploads/forum_attachment/file/757/Identity-600x330.jpg
 griff.jpg;der Griff - nutvėrimas;http://www.duden.de/_media_/full/G/Griff-201100277505.jpg
-
-
+schicksal.jpg;das Schicksal - baldakimas;http://crazy-crow.de/wp-content/uploads/2013/05/Schicksal.jpg
+laken.jpg;das Laken - paklodė;https://cdn.blogger.de/static/antville/rebellmarkt/images/dipicoma.jpg
 
