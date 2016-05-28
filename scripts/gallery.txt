@@ -219,4 +219,4 @@ griff.jpg;der Griff - nutvėrimas;http://www.duden.de/_media_/full/G/Griff-20110
 schicksal.jpg;das Schicksal - baldakimas;http://crazy-crow.de/wp-content/uploads/2013/05/Schicksal.jpg
 laken.jpg;das Laken - paklodė;https://cdn.blogger.de/static/antville/rebellmarkt/images/dipicoma.jpg
 schweiss.jpg;der Schweiß - prakaitas;http://www.runnersworld.de/sixcms/media.php/12/thumbnails/schweiss_460.3001610.jpg.3001617.jpg
-
+zehe.jpg;die Zehe - pirštas;http://www.duden.de/_media_/full/Z/Zeh-201100281687.jpg
