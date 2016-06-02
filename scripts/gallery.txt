@@ -225,6 +225,8 @@ leiden-konnen.jpg;nicht leiden können\nnegalėti pakęsti;http://bilder.bild.de
 bewegung.jpg;die Bewegung - judėjimas;http://s.ndimg.de/image_gallery/new_netdoktor/63/bewegung-gegen-blutgerinnsel-800_id_77754_202763.jpg
 pflanze.jpg;die Pflanze - augalas;http://www.adpic.de/data/picture/detail/Pflanze_in_der_Erde_159054.jpg
 winzig.jpg;winzig - mažytis;http://cdn2.spiegel.de/images/image-314505-galleryV9-fqjr-314505.jpg
+knoblauch.jpg;der Knoblauch - česnakas;http://www.benefit-online.de/fileadmin/content/magazin/gesundheit/Knoblauch.jpg
+ 
 
 
 
