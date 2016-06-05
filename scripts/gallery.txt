@@ -228,8 +228,8 @@ winzig.jpg;winzig - mažytis;http://cdn2.spiegel.de/images/image-314505-galleryV
 knoblauch.jpg;der Knoblauch - česnakas;http://www.benefit-online.de/fileadmin/content/magazin/gesundheit/Knoblauch.jpg
 geruch.jpg;der Geruch - kvapas;http://www.davicii.com/wp-content/uploads/2014/04/frau-geruch-nase-540x304.jpg
 verirren.jpg;sich verirren - paklysti;http://www.dzonline.de/var/storage/images/wn/startseite/welt/kinder/2012/08/kinder-verirrt-im-heckengewirr/31317393-1-ger-DE/Kinder-Verirrt-im-Heckengewirr1_image_630_420f.jpg
-
-
+borgen.jpg;borgen - skolinti;http://blog.selfstorage.com/wp-content/uploads/2014/05/borrow-money.jpg
+schussel.png;die Schüssel - dubuo;http://www.kahla-porzellanshop.de/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/3/7/372903a72605-pronto-schuessel21_01.png
 
 
 
