@@ -233,7 +233,7 @@ schussel.png;die Schüssel - dubuo;http://www.kahla-porzellanshop.de/media/catal
 unheimlich.jpg;unheimlich - kraupus;http://www.ard.de/image/379720/16x9/4788493192577306125/512
 albern.jpg;albern - paikas;http://www.adpic.de/data/picture/detail/Albern_207232.jpg
 hasmisch.jpg;hämisch - piktdžiugiškas;http://www.bronzen-grosshandel.de/images/product_images/popup_images/99_3.jpg
-
+gering.png;gering - menkas;http://cdn.shopify.com/s/files/1/0166/8304/products/iPhone6_clear_1024x1024.png?v=1417240538
 
 
 
