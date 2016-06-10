@@ -234,6 +234,6 @@ unheimlich.jpg;unheimlich - kraupus;http://www.ard.de/image/379720/16x9/47884931
 albern.jpg;albern - paikas;http://www.adpic.de/data/picture/detail/Albern_207232.jpg
 hasmisch.jpg;hämisch - piktdžiugiškas;http://www.bronzen-grosshandel.de/images/product_images/popup_images/99_3.jpg
 gering.png;gering - menkas;http://cdn.shopify.com/s/files/1/0166/8304/products/iPhone6_clear_1024x1024.png?v=1417240538
-
+ziege.jpg;die Ziege - ožka;https://www.aid.de/_data/img/gallery/06_ziege_thueringer_wald_ziege_830x560.jpg
 
 
