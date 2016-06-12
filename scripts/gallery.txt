@@ -236,4 +236,5 @@ hasmisch.jpg;hämisch - piktdžiugiškas;http://www.bronzen-grosshandel.de/image
 gering.png;gering - menkas;http://cdn.shopify.com/s/files/1/0166/8304/products/iPhone6_clear_1024x1024.png?v=1417240538
 ziege.jpg;die Ziege - ožka;https://www.aid.de/_data/img/gallery/06_ziege_thueringer_wald_ziege_830x560.jpg
 larm.jpg;der Lärm - triukšmas;http://www.benefit-online.de/fileadmin/content/magazin/besser_leben/Laerm.jpg
+schutten.jpg;schütten - įberti, įpilti;http://image.shutterstock.com/z/stock-photo-pour-water-from-a-pitcher-into-a-glass-109380863.jpg
 
