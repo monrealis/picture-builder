@@ -238,3 +238,8 @@ ziege.jpg;die Ziege - ožka;https://www.aid.de/_data/img/gallery/06_ziege_thueri
 larm.jpg;der Lärm - triukšmas;http://www.benefit-online.de/fileadmin/content/magazin/besser_leben/Laerm.jpg
 schutten.jpg;schütten - įberti, įpilti;http://image.shutterstock.com/z/stock-photo-pour-water-from-a-pitcher-into-a-glass-109380863.jpg
 rand.png;der Rand - kraštas;https://openclipart.org/image/2400px/svg_to_png/222492/Decorative-Ornamental-Frame-Border-2.png
+spalt.jpg;der Spalt - plyšys;http://residentsmedical.com/sites/default/files/styles/adaptive/public/blog//images/Man%20In%20Suit_GAP_big.jpg
+
+
+
+
