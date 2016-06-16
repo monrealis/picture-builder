@@ -240,6 +240,6 @@ schutten.jpg;schütten - įberti, įpilti;http://image.shutterstock.com/z/stock-
 rand.png;der Rand - kraštas;https://openclipart.org/image/2400px/svg_to_png/222492/Decorative-Ornamental-Frame-Border-2.png
 spalt.jpg;der Spalt - plyšys;http://residentsmedical.com/sites/default/files/styles/adaptive/public/blog//images/Man%20In%20Suit_GAP_big.jpg
 geniessen.jpg;genießen - mėgautis;http://www.preischecker.de/wp-content/uploads/rente-geniessen.jpg
-
+haube.jpg;die Haube - gaubtuvas;https://www.noba-direct.com/273-914-thickbox/noba-op-haube.jpg
 
 
