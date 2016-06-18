@@ -242,4 +242,4 @@ spalt.jpg;der Spalt - plyšys;http://residentsmedical.com/sites/default/files/st
 geniessen.jpg;genießen - mėgautis;http://www.preischecker.de/wp-content/uploads/rente-geniessen.jpg
 haube.jpg;die Haube - gaubtuvas;https://www.noba-direct.com/273-914-thickbox/noba-op-haube.jpg
 einbruch.jpg;der Einbruch - įsilaužimas;http://www.wn.de/var/storage/images/wn/startseite/muensterland/kreis-warendorf/telgte/2012/08/einbruch-in-eine-firma-elektronikgeraete-erbeutet/31349920-1-ger-DE/Einbruch-in-eine-Firma-Elektronikgeraete-erbeutet1_image_630_420f_wn.jpg
-
+ablehnen.jpg;ablehnen - atsisakyti;http://www.adpic.de/data/picture/detail/Geld_ablehnen_285054.jpg
