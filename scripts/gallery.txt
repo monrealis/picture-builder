@@ -246,7 +246,7 @@ ablehnen.jpg;ablehnen - atsisakyti;http://www.adpic.de/data/picture/detail/Geld_
 brett.jpg;das Bret - lenta;https://microle.files.wordpress.com/2012/03/das-brett.jpg
 bewegen.gif;bewegen - judinti;http://www.clever-abnehmen.de/fileadmin/images_abnehmkonzept/clever/Fotolia_5006142_M.gif
 fluggerat.jpg;das Fluggerät - orlaivis;http://www.rc-network.de/magazin/artikel_06/art_06-093/bilder/Gyro03.jpg
-
+genusslich.jpg;genüsslich - mielai;http://www.geo.de/reisen/community/bild/regular/526909/Mich-laust-der-Affe-grunzt-genuesslich-das-Schwein.jpg
 
 
 
