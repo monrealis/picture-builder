@@ -248,6 +248,8 @@ bewegen.gif;bewegen - judinti;http://www.clever-abnehmen.de/fileadmin/images_abn
 fluggerat.jpg;das Fluggerät - orlaivis;http://www.rc-network.de/magazin/artikel_06/art_06-093/bilder/Gyro03.jpg
 genusslich.jpg;genüsslich - mielai;http://www.geo.de/reisen/community/bild/regular/526909/Mich-laust-der-Affe-grunzt-genuesslich-das-Schwein.jpg
 rasen.jpg;der Rasen - veja;http://rasen-info.com/wp-content/uploads/2010/09/rasen1.jpg
+spreizen.jpg;spreizen - išskėsti;http://www.sat1.de/var/sat1/storage/images/media/images/redaktioneller-upload/ratgeber/yoga/yoga-beine-spreizen-11-09-13-amy-sussman-getty-afp/37355-1-ger-DE/yoga-beine-spreizen-11-09-13-amy-sussman-getty-afp_gallery_348.jpg
+
 
 
 
