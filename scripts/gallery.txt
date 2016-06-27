@@ -251,7 +251,7 @@ rasen.jpg;der Rasen - veja;http://rasen-info.com/wp-content/uploads/2010/09/rase
 spreizen.jpg;spreizen - išskėsti;http://www.sat1.de/var/sat1/storage/images/media/images/redaktioneller-upload/ratgeber/yoga/yoga-beine-spreizen-11-09-13-amy-sussman-getty-afp/37355-1-ger-DE/yoga-beine-spreizen-11-09-13-amy-sussman-getty-afp_gallery_348.jpg
 stiel.jpg;der Stiel - stiebas;http://www.geo.de/reisen/community/bild/regular/512825/der-Stiel-vom-Blatt.jpg
 neigen.gif;neigen - lenkti;http://img1.brigitte.de/asset/Image/figur/fitness/locker-bleiben/neigen-1.gif
-
+hinken.jpg;hinken - šlubuoti;https://therevjs.files.wordpress.com/2013/05/crutches.jpg
 
 
 
