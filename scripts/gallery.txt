@@ -252,7 +252,7 @@ spreizen.jpg;spreizen - išskėsti;http://www.sat1.de/var/sat1/storage/images/me
 stiel.jpg;der Stiel - stiebas;http://www.geo.de/reisen/community/bild/regular/512825/der-Stiel-vom-Blatt.jpg
 neigen.gif;neigen - lenkti;http://img1.brigitte.de/asset/Image/figur/fitness/locker-bleiben/neigen-1.gif
 hinken.jpg;hinken - šlubuoti;https://therevjs.files.wordpress.com/2013/05/crutches.jpg
-
+ausgerechnet.jpg;ausgerechnet - kaip tik, iš visų;http://content.deepsilver.com/kochmedia/shop/images/deatch/xl/dvm020122d_3.jpg
 
 
 
