@@ -255,7 +255,7 @@ hinken.jpg;hinken - šlubuoti;https://therevjs.files.wordpress.com/2013/05/crutc
 ausgerechnet.jpg;ausgerechnet - kaip tik, iš visų;http://content.deepsilver.com/kochmedia/shop/images/deatch/xl/dvm020122d_3.jpg
 ast.jpg;der Ast - šaka;http://images.digopaul.com/wp-content/uploads/related_images/2015/09/08/ast_2.jpg
 entgegnen.jpg;entgegnen - atsikirsti;http://www.fm1today.ch/2016/05/20160519115751951-640x480.jpg
-
+waagerecht.gif;waagerecht - horizontalus;http://www.bildung-lsa.de/files/bf455d13f71cd65c0de06607c70b57ec/Vier_gewinnt.gif
 
 
 
