@@ -258,4 +258,5 @@ entgegnen.jpg;entgegnen - atsikirsti;http://www.fm1today.ch/2016/05/201605191157
 waagerecht.gif;waagerecht - horizontalus;http://www.bildung-lsa.de/files/bf455d13f71cd65c0de06607c70b57ec/Vier_gewinnt.gif
 verteidigen.jpg;verteidigen - gintis;http://www.spox.com/de/sport/mehrsport/boxen/1103/Bilder/sebastian-sylvester-514.jpg
 vermasseln.jpg;vermasseln - susimauti;http://www.unternehmer.de/wp-content/uploads/2015/04/traumjob-ade-so-vermasseln-sie-ihre-chancen2-520x358.jpg
-
+weisen.jpg;weisen - parodyti;http://englishharmony.com/wp-content/uploads/2012/01/how-to-point-out-mistakes-made-when-speaking-english.jpg
+herausstellen.jpg;sich herausstellen - paaiškėti;http://edmontonenglishschool-learningenglishonline.com/wp-content/uploads/2011/03/TURN-OUT-Edmonton-English-School.jpg
