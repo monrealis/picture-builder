@@ -264,7 +264,7 @@ mull.jpg;der Müll - šiukšlės;http://www.verkehrswende-muenster.de/wp-content
 fluchen.jpg;fluchen - keiktis;http://cdn.grid.fotosearch.com/CSP/CSP863/k8636729.jpg
 statur.jpg;die Statur - stotas;https://upload.wikimedia.org/wikipedia/commons/7/70/Statue_de_David_%C3%A0_Marseille.jpg
 anstandig.jpg;anständig - padorus;http://sub.maddecent.com/emailz/moombahsmall.jpg
-
+bestrafung.jpg;die Bestrafung - bausmė;https://thumbs.dreamstime.com/z/bestrafung-18418594.jpg
 
 
 
