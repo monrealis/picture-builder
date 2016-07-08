@@ -1,4 +1,4 @@
-barrel.png;das Fass - cask\nstatinė;http://vignette1.wikia.nocookie.net/mario/images/6/6a/DKCR_Artwork_Fass.png/revision/latest?cb=20101008162755&path-prefix=de
+abarrel.png;das Fass - cask\nstatinė;http://vignette1.wikia.nocookie.net/mario/images/6/6a/DKCR_Artwork_Fass.png/revision/latest?cb=20101008162755&path-prefix=de
 schleim.jpg;der Schleim - gleivės;http://media2.giga.de/2013/07/perfekter-Schleim-rcm992x0.jpg
 kraut.jpg;das Kraut - žolė, augalas;http://www.goebbertsgardencenter.com/uploads/2012/07/fresh-herb-basket.jpg
 wurzel.jpg;die Wurzel - šaknis;http://www.duden.de/_media_/full/W/Wurzel-201020526889.jpg
@@ -265,7 +265,7 @@ fluchen.jpg;fluchen - keiktis;http://cdn.grid.fotosearch.com/CSP/CSP863/k8636729
 statur.jpg;die Statur - stotas;https://upload.wikimedia.org/wikipedia/commons/7/70/Statue_de_David_%C3%A0_Marseille.jpg
 anstandig.jpg;anständig - padorus;http://sub.maddecent.com/emailz/moombahsmall.jpg
 bestrafung.jpg;die Bestrafung - bausmė;https://thumbs.dreamstime.com/z/bestrafung-18418594.jpg
-
+schaufeln.jpg;schaufeln - kasti;http://hausbaublog.docma.de/galerie/picture-0271.jpg
 
 
 
