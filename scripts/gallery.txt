@@ -266,8 +266,7 @@ statur.jpg;die Statur - stotas;https://upload.wikimedia.org/wikipedia/commons/7/
 anstandig.jpg;anständig - padorus;http://sub.maddecent.com/emailz/moombahsmall.jpg
 bestrafung.jpg;die Bestrafung - bausmė;https://thumbs.dreamstime.com/z/bestrafung-18418594.jpg
 schaufeln.jpg;schaufeln - kasti;http://hausbaublog.docma.de/galerie/picture-0271.jpg
-
-
+stanbdild.jpg;das Standbild - statula;https://upload.wikimedia.org/wikipedia/commons/e/e0/Standbild_duden_zuse.jpg
 
 
 
