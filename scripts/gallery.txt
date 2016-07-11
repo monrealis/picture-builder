@@ -269,7 +269,7 @@ schaufeln.jpg;schaufeln - kasti;http://hausbaublog.docma.de/galerie/picture-0271
 stanbdild.jpg;das Standbild - statula;https://upload.wikimedia.org/wikipedia/commons/e/e0/Standbild_duden_zuse.jpg
 mahlzeit.jpg;die Mahlzeit - valgis;http://img01.lachschon.de/images/80501_mahlzeit-medium.jpg
 hauen.jpg;hauen - mušti;http://www.elternwissen.com/fileadmin/content/magazin/erziehung/erziehungs-tipps/Aggressive-Kinder.jpg
-
+erwischen.jpg;erwischen - pagauti;http://static.bz-berlin.de/data/uploads/multimedia/archive/00432/erwischt_432400a.jpg
 
 
 
