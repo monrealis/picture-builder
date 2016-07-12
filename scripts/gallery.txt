@@ -270,7 +270,8 @@ stanbdild.jpg;das Standbild - statula;https://upload.wikimedia.org/wikipedia/com
 mahlzeit.jpg;die Mahlzeit - valgis;http://img01.lachschon.de/images/80501_mahlzeit-medium.jpg
 hauen.jpg;hauen - mušti;http://www.elternwissen.com/fileadmin/content/magazin/erziehung/erziehungs-tipps/Aggressive-Kinder.jpg
 erwischen.jpg;erwischen - pagauti;http://static.bz-berlin.de/data/uploads/multimedia/archive/00432/erwischt_432400a.jpg
-
+ratschlag.jpg;der Ratschlag - patarimas;http://www.bernd-slaghuis.de/wp/wp-content/uploads/2015/07/Blog_Ratschlag.jpg
+kamin.jpg;der Kamin - židinys;http://doerfler.com/holzbrennt/wp-content/gallery/kamin-amp-specksteinofen/kamin-speck-08.jpg
 
 
 
