@@ -276,6 +276,9 @@ klettern.jpg;klettern - įlipti;http://www.klettern.de/sixcms/media.php/6/KL_Quo
 scheren.jpg;sich scheren - rūpintis;https://www.colourbox.de/preview/7786830-health-care.jpg
 sperren.jpg;sperren - užrakinti;http://i.computer-bild.de/imgs/5/2/2/5/6/1/2/Unerwuenschte-Webseiten-per-Hosts-Datei-658x370-f4e8d989800fb8c6.jpg
 bestatigen.gif;bestätigen - patvirtinti;https://i-technet.sec.s-msft.com/dynimg/IC227622.gif
+spahen.jpg;spähen nach D - ieškoti akimis;https://thumbs.dreamstime.com/z/sphen-vom-loch-der-wand-10094056.jpg
+kauern.jpg;kauern - tupėti;http://cdn.grid.fotosearch.com/CSP/CSP345/k22692821.jpg
+schnauze.jpg;die Schnauze - snukis;http://www.heiltierarzt.de/bilder/fallbeispiele/schnauze-geschwollen-1-800.jpg
 
 
 
