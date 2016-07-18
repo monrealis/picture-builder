@@ -280,5 +280,6 @@ spahen.jpg;spähen nach D - ieškoti akimis;https://thumbs.dreamstime.com/z/sphe
 kauern.jpg;kauern - tupėti;http://cdn.grid.fotosearch.com/CSP/CSP345/k22692821.jpg
 schnauze.jpg;die Schnauze - snukis;http://www.heiltierarzt.de/bilder/fallbeispiele/schnauze-geschwollen-1-800.jpg
 streifen.jpg;der Streifen - dryžis;http://www.paddy24.de/out/pictures/master/product/1/streifen_100_60.jpg
+kriechen.jpg;kriechen - šliaužti;https://thumbs.dreamstime.com/z/durch-das-kriechen-17304523.jpg
 
 
