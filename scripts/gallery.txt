@@ -283,7 +283,7 @@ streifen.jpg;der Streifen - dryžis;http://www.paddy24.de/out/pictures/master/pr
 kriechen.jpg;kriechen - šliaužti;https://thumbs.dreamstime.com/z/durch-das-kriechen-17304523.jpg
 betreten.jpg;betreten - įeiti;https://upload.wikimedia.org/wikipedia/commons/b/b7/Helmut_Hennig_Betreten_verboten_Die_gefangene_Zeit_Ein_tempor%C3%A4r_angelegtes_Privatgrundst%C3%BCck_im_%C3%B6ffentlichen_Raum_2012_II.jpg
 verstecken.jpg;verstecken - slėptis;https://s3-eu-west-1.amazonaws.com/szphoenix-production/usertext/img/369015.jpg
-
+rasen2.jpg;rasen - nulėkti;http://www.matthewsmithracing.com.au/uploadimg/HM%20Myer%20Classic.jpg
 
 
 
