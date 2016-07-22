@@ -285,5 +285,5 @@ betreten.jpg;betreten - įeiti;https://upload.wikimedia.org/wikipedia/commons/b/
 verstecken.jpg;verstecken - slėptis;https://s3-eu-west-1.amazonaws.com/szphoenix-production/usertext/img/369015.jpg
 rasen2.jpg;rasen - nulėkti;http://www.matthewsmithracing.com.au/uploadimg/HM%20Myer%20Classic.jpg
 reinlegen.jpg;reinlegen - apgauti;https://i.ytimg.com/vi/P8XXwJUCpU0/maxresdefault.jpg
-
+stromern.jpg;stromern - klajoti aplink;http://blogs.jcvi.org/wp-content/uploads/2009/11/Adelie-penguins-wander-into-camp.jpg
 
