@@ -288,6 +288,7 @@ reinlegen.jpg;reinlegen - apgauti;https://i.ytimg.com/vi/P8XXwJUCpU0/maxresdefau
 stromern.jpg;stromern - klajoti aplink;http://blogs.jcvi.org/wp-content/uploads/2009/11/Adelie-penguins-wander-into-camp.jpg
 falle.jpg;die Falle - spąstai;http://www.zephram.de/blog/wp-content/uploads/2008/09/commodity-falle-vermeiden.jpg
 zupfen.jpg;zupfen - timpletėti;http://www.experto.de/fileadmin/assets/user_assets/8/vs/augenbrauen-richtig-zupfen.jpg
+ungeheuer.jpg;das Ungeheuer - monstras;https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Hans_Baldung_-_Stehende_Hexe_mit_Ungeheuer.jpg/539px-Hans_Baldung_-_Stehende_Hexe_mit_Ungeheuer.jpg
 
 
 
