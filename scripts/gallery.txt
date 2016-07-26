@@ -289,7 +289,7 @@ stromern.jpg;stromern - klajoti aplink;http://blogs.jcvi.org/wp-content/uploads/
 falle.jpg;die Falle - spąstai;http://www.zephram.de/blog/wp-content/uploads/2008/09/commodity-falle-vermeiden.jpg
 zupfen.jpg;zupfen - timpletėti;http://www.experto.de/fileadmin/assets/user_assets/8/vs/augenbrauen-richtig-zupfen.jpg
 ungeheuer.jpg;das Ungeheuer - monstras;https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Hans_Baldung_-_Stehende_Hexe_mit_Ungeheuer.jpg/539px-Hans_Baldung_-_Stehende_Hexe_mit_Ungeheuer.jpg
-
+keuchen.jpg;keuchen - sunkiai alsuoti;http://www.aachener-zeitung.de/polopoly_fs/1.890688.1407680503!/httpImage/image.jpg_gen/derivatives/zva_quer_540/image.jpg
 
 
 
