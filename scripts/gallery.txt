@@ -291,6 +291,7 @@ zupfen.jpg;zupfen - timpletėti;http://www.experto.de/fileadmin/assets/user_asse
 ungeheuer.jpg;das Ungeheuer - monstras;https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Hans_Baldung_-_Stehende_Hexe_mit_Ungeheuer.jpg/539px-Hans_Baldung_-_Stehende_Hexe_mit_Ungeheuer.jpg
 keuchen.jpg;keuchen - sunkiai alsuoti;http://www.aachener-zeitung.de/polopoly_fs/1.890688.1407680503!/httpImage/image.jpg_gen/derivatives/zva_quer_540/image.jpg
 einsperren.jpg;einsperren - įkalinti;http://www.berliner-kurier.de/image/4720290/2x1/940/470/431885abc8cee991761f0ff00606b9d/sU/14871c0003276d87-jpg.jpg
+schleifen.jpg;schleifen - vilkti;http://torqueandtread.com/wp-content/uploads/2015/11/deathdefyingmoped-702x336.jpg
 
 
 
