@@ -292,6 +292,8 @@ ungeheuer.jpg;das Ungeheuer - monstras;https://upload.wikimedia.org/wikipedia/co
 keuchen.jpg;keuchen - sunkiai alsuoti;http://www.aachener-zeitung.de/polopoly_fs/1.890688.1407680503!/httpImage/image.jpg_gen/derivatives/zva_quer_540/image.jpg
 einsperren.jpg;einsperren - įkalinti;http://www.berliner-kurier.de/image/4720290/2x1/940/470/431885abc8cee991761f0ff00606b9d/sU/14871c0003276d87-jpg.jpg
 schleifen.jpg;schleifen - vilkti;http://torqueandtread.com/wp-content/uploads/2015/11/deathdefyingmoped-702x336.jpg
+abenteuer.jpg;das Abenteuer - nuotykis;http://image3-cdn.n24.de/image/325414/1/large16x9/ha8/reisen-wird-zum-abenteuer-gallerypicture-1_900x510.jpg
+aufwand.jpg;der Aufwand - kaštai;http://www.gida.de/testcenter/wirtschaft/fdw-dvd047/jpg/aufwand-ertrag.jpg
 
 
 
