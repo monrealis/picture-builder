@@ -294,6 +294,8 @@ einsperren.jpg;einsperren - įkalinti;http://www.berliner-kurier.de/image/472029
 schleifen.jpg;schleifen - vilkti;http://torqueandtread.com/wp-content/uploads/2015/11/deathdefyingmoped-702x336.jpg
 abenteuer.jpg;das Abenteuer - nuotykis;http://image3-cdn.n24.de/image/325414/1/large16x9/ha8/reisen-wird-zum-abenteuer-gallerypicture-1_900x510.jpg
 aufwand.jpg;der Aufwand - kaštai;http://www.gida.de/testcenter/wirtschaft/fdw-dvd047/jpg/aufwand-ertrag.jpg
+weigern.jpg;sich weigern - vengti;http://previews.123rf.com/images/hjalmeida/hjalmeida0811/hjalmeida081100183/3903495-ein-uncorrupt-Gesch-ftsleute-weigern-Geld-von-Bestechungsgeldern-selektive-Fokus--Lizenzfreie-Bilder.jpg
+strecken.jpg;strecken - ištiesti;http://static.livingathome.de/bilder/d4/b3/20634/galleryimage/1.jpg
 
 
 
