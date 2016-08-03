@@ -304,7 +304,7 @@ versperren.jpg;versperren - užtverti;http://static1.hln.be/static/photo/2015/7/
 betasten.jpg;betasten -čiuopti;http://deredactie.be/polopoly_fs/1.1104801!image/2992277546.jpg_gen/derivatives/landscape670/2992277546.jpg
 widerstehen.jpg;widerstehen - atsispirti;http://imworld.aufeminin.com/dossiers/D20121209/plaetzchen-widerstehen-2-102534_L.jpg
 schlendern.jpg;schlendern - slampinėti;https://thumbs.dreamstime.com/x/verbinden-sie-das-schlendern-auf-strand-8117637.jpg
-
+umstand.jpg;der Umstand - aplinkybė;http://l7.alamy.com/zooms/2f36463439b74acda2d26dd2b1549ef1/pregnant-woman-sitting-on-a-bench-f4bebj.jpg
 
 
 
