@@ -307,6 +307,7 @@ schlendern.jpg;schlendern - slampinėti;https://thumbs.dreamstime.com/x/verbinde
 umstand.jpg;der Umstand - aplinkybė;http://l7.alamy.com/zooms/2f36463439b74acda2d26dd2b1549ef1/pregnant-woman-sitting-on-a-bench-f4bebj.jpg
 seufzen.jpg;seufzen - dūsauti;http://www.daserste.de/information/wissen-kultur/wissen-vor-acht-werkstatt/sendung-werkstatt/warum-seufzen-wir-102~_v-facebook1200_e2de6e.jpg
 kiste.jpg;die Kiste - dėžė;http://www.mare-me.de/media/image/thumbnail/1926_0_900x800.jpg
+erzielen.jgp;erzielen - pasiekti;http://www.deutsche-startups.de/wp-content/uploads/2014/04/ds-profit.jpg
 
 
 
