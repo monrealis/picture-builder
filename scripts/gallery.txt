@@ -308,7 +308,8 @@ umstand.jpg;der Umstand - aplinkybė;http://l7.alamy.com/zooms/2f36463439b74acda
 seufzen.jpg;seufzen - dūsauti;http://www.daserste.de/information/wissen-kultur/wissen-vor-acht-werkstatt/sendung-werkstatt/warum-seufzen-wir-102~_v-facebook1200_e2de6e.jpg
 kiste.jpg;die Kiste - dėžė;http://www.mare-me.de/media/image/thumbnail/1926_0_900x800.jpg
 erzielen.jgp;erzielen - pasiekti;http://www.deutsche-startups.de/wp-content/uploads/2014/04/ds-profit.jpg
-
+hüten.jpg;hüten - saugoti;http://www.from-carolyns-home.de/pic_65_3_.jpg
+entkommen.jpg;entkommen - pasprukti;http://assets.cdn.moviepilot.de/files/fc908fb27bc67678756788326fe5e41c47305ae3911f0a881fa486d0a8c0/bunker-es-gibt-kein-entkommen.jpg
 
 
 
