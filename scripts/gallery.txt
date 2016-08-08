@@ -310,6 +310,7 @@ kiste.jpg;die Kiste - dėžė;http://www.mare-me.de/media/image/thumbnail/1926_0
 erzielen.jgp;erzielen - pasiekti;http://www.deutsche-startups.de/wp-content/uploads/2014/04/ds-profit.jpg
 hüten.jpg;hüten - saugoti;http://www.from-carolyns-home.de/pic_65_3_.jpg
 entkommen.jpg;entkommen - pasprukti;http://assets.cdn.moviepilot.de/files/fc908fb27bc67678756788326fe5e41c47305ae3911f0a881fa486d0a8c0/bunker-es-gibt-kein-entkommen.jpg
+bucken.jpg;sich bücken - pasilenkti;http://www.pratscher.at/wp-content/uploads/b%C3%BCcken-heben-tragen.jpg
 
 
 
