@@ -311,6 +311,7 @@ erzielen.jgp;erzielen - pasiekti;http://www.deutsche-startups.de/wp-content/uplo
 hüten.jpg;hüten - saugoti;http://www.from-carolyns-home.de/pic_65_3_.jpg
 entkommen.jpg;entkommen - pasprukti;http://assets.cdn.moviepilot.de/files/fc908fb27bc67678756788326fe5e41c47305ae3911f0a881fa486d0a8c0/bunker-es-gibt-kein-entkommen.jpg
 bucken.jpg;sich bücken - pasilenkti;http://www.pratscher.at/wp-content/uploads/b%C3%BCcken-heben-tragen.jpg
+lassig.jpg;lässig - nerūpestingas;http://babyecochic.com/wp-content/uploads/2014/02/laessig-fashion-green-label.jpg
 
 
 
