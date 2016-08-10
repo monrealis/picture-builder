@@ -312,6 +312,7 @@ hüten.jpg;hüten - saugoti;http://www.from-carolyns-home.de/pic_65_3_.jpg
 entkommen.jpg;entkommen - pasprukti;http://assets.cdn.moviepilot.de/files/fc908fb27bc67678756788326fe5e41c47305ae3911f0a881fa486d0a8c0/bunker-es-gibt-kein-entkommen.jpg
 bucken.jpg;sich bücken - pasilenkti;http://www.pratscher.at/wp-content/uploads/b%C3%BCcken-heben-tragen.jpg
 lassig.jpg;lässig - nerūpestingas;http://babyecochic.com/wp-content/uploads/2014/02/laessig-fashion-green-label.jpg
-
+schlangeln.jpg;schlängeln - vingiuoti;http://footage.framepool.com/shotimg/qf/948524630-wuesten-hornviper-schlaengeln-giftschlange-kriechen.jpg
+zusatzlich.jpg;zusätzlich - papildomai;http://bc02.rp-online.de/polopoly_fs/1.4354458.1404199695!image/347678111.jpg_gen/derivatives/d540x303/347678111.jpg
 
 
