@@ -319,6 +319,7 @@ beherrschen.jpg;beherrschen - dominuoti;http://www.bsmparty.de/img2/pics/gruppen
 flink.gif;flink - vikrus;http://thecontextofthings.com/wp-content/uploads/2015/04/jack-be-nimble.gif
 windmühle.jpg;die Windmühle - malūnas;http://www.windmuehle-auguste.de/images/bild-109.jpg
 beleben.jpg;beleben - atgaivinti;https://beleben.files.wordpress.com/2016/03/beleben-birmingham-new-st-stn-02327.png?w=700
+kerker;der Kerker - kalėjimas;https://upload.wikimedia.org/wikipedia/commons/a/a1/FL_Kerker.jpg
 
 
 
