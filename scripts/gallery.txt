@@ -323,7 +323,8 @@ kerker;der Kerker - kalėjimas;https://upload.wikimedia.org/wikipedia/commons/a/
 offentlich.jpg;öffentlich - viešas;http://d5yj58z7unn8l.cloudfront.net/media/catalog/product/cache/1/image/854x/040ec09b1e35df139433887a97daa66f/f/e/federtier_offentlich_pferd_4.jpg
 gemachlich.jpg;gemächlich - lėtai;http://www.aerztezeitung.de/img.ashx?f=/docs/2015/04/09/Joggen-AH.jpg&w=625
 klinke.jpg;die Klinke - durų rankena;http://www.duden.de/_media_/full/K/Klinke-201100286103.jpg
-
+keule.jpg;die Keule - vėzdas;http://handwerk.com/files/smthumbnaildata/lightboxdetail/2/2/6/1/4/1/Steinzeit.jpg
+rohr.jpg;das Rohr - vamzdis;http://www.kutech.de/oscomerce/catalog/images/alu%20rohr.jpg
 
 
 
