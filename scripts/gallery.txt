@@ -325,6 +325,7 @@ gemachlich.jpg;gemächlich - lėtai;http://www.aerztezeitung.de/img.ashx?f=/docs
 klinke.jpg;die Klinke - durų rankena;http://www.duden.de/_media_/full/K/Klinke-201100286103.jpg
 keule.jpg;die Keule - vėzdas;http://handwerk.com/files/smthumbnaildata/lightboxdetail/2/2/6/1/4/1/Steinzeit.jpg
 rohr.jpg;das Rohr - vamzdis;http://www.kutech.de/oscomerce/catalog/images/alu%20rohr.jpg
+wanken.jpg;wanken - svirduliuoti;http://www.auto-news.de/webcore/data/content/Auto_Article_EXT/20858_1204907068367.jpg
 
 
 
