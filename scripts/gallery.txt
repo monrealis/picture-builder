@@ -327,6 +327,7 @@ keule.jpg;die Keule - vėzdas;http://handwerk.com/files/smthumbnaildata/lightbox
 rohr.jpg;das Rohr - vamzdis;http://www.kutech.de/oscomerce/catalog/images/alu%20rohr.jpg
 wanken.jpg;wanken - svirduliuoti;http://www.auto-news.de/webcore/data/content/Auto_Article_EXT/20858_1204907068367.jpg
 dicht.jpg;dicht - arti;http://l7.alamy.com/zooms/492f787048c9479ebb4516c5a9f17fbe/horse-heads-close-together-g08707.jpg
+umbringen.jpg;umbringen - nužudyti;http://www.nitestar.de/files1/groups/gYJHPnHdvQyQ.jpg
 
 
 
