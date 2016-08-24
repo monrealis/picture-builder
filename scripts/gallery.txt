@@ -330,6 +330,10 @@ dicht.jpg;dicht - arti;http://l7.alamy.com/zooms/492f787048c9479ebb4516c5a9f17fb
 umbringen.jpg;umbringen - nužudyti;http://www.nitestar.de/files1/groups/gYJHPnHdvQyQ.jpg
 retten.jpg;retten - išgelbėti;http://www.feuerwehrleben.de/wp-content/uploads/2012/05/retten-bergen-feuerwehr1.jpg
 leihen.jpg;leihen - skolinti;http://www.kredit-one.de/wp-content/uploads/2011/11/geld-leihen.jpg
+drucken.jpg;drücken - spausti;http://www.willstdubestimmtnichtwissen.de/data/media/75/696ca7fb1e.jpg
+schlucken.jpg;schlucken - praryti;http://i.onmeda.de/gesund/tabletten_6.jpg
+
+
 
 
 
