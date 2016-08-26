@@ -334,7 +334,7 @@ drucken.jpg;drücken - spausti;http://www.willstdubestimmtnichtwissen.de/data/me
 schlucken.jpg;schlucken - praryti;http://i.onmeda.de/gesund/tabletten_6.jpg
 bewachen.jpg;bewachen - saugoti;http://media1.faz.net/ppmedia/aktuell/2912157181/1.3912349/width610x580/soldaten-bewachen-am-samstag.jpg
 bewahren.jpg;bewahren - išsaugoti;http://his-kingdom.de/media/rokgallery/0/004a11fd-a556-45e4-bfa8-2cb317961227/938ec6ed-53f4-4cb2-c363-de9d69dad98c.jpg
-
+elend.jpg;das Elend - bėda;http://static.mahner.org/assets/weblog/elend.jpg
 
 
 
