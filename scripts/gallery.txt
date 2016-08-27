@@ -329,13 +329,13 @@ wanken.jpg;wanken - svirduliuoti;http://www.auto-news.de/webcore/data/content/Au
 dicht.jpg;dicht - arti;http://l7.alamy.com/zooms/492f787048c9479ebb4516c5a9f17fbe/horse-heads-close-together-g08707.jpg
 umbringen.jpg;umbringen - nužudyti;http://www.nitestar.de/files1/groups/gYJHPnHdvQyQ.jpg
 retten.jpg;retten - išgelbėti;http://www.feuerwehrleben.de/wp-content/uploads/2012/05/retten-bergen-feuerwehr1.jpg
-leihen.jpg;leihen - skolinti;http://www.kredit-one.de/wp-content/uploads/2011/11/geld-leihen.jpg
+leihen.jpg;leihen - skolinti;https://sofort-geld.net/wp-content/uploads/geldleihen-300x200.jpg
 drucken.jpg;drücken - spausti;http://www.willstdubestimmtnichtwissen.de/data/media/75/696ca7fb1e.jpg
 schlucken.jpg;schlucken - praryti;http://i.onmeda.de/gesund/tabletten_6.jpg
 bewachen.jpg;bewachen - saugoti;http://media1.faz.net/ppmedia/aktuell/2912157181/1.3912349/width610x580/soldaten-bewachen-am-samstag.jpg
 bewahren.jpg;bewahren - išsaugoti;http://his-kingdom.de/media/rokgallery/0/004a11fd-a556-45e4-bfa8-2cb317961227/938ec6ed-53f4-4cb2-c363-de9d69dad98c.jpg
 elend.jpg;das Elend - bėda;http://static.mahner.org/assets/weblog/elend.jpg
-
+ader.png;die Ader - vena;http://static.memrise.com/uploads/mems/output/6763317-141115115110.png
 
 
 
