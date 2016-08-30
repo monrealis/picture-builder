@@ -339,6 +339,8 @@ ader.png;die Ader - vena;http://static.memrise.com/uploads/mems/output/6763317-1
 hauen.jpg;hauen - trenkti;http://www.elternwissen.com/fileadmin/content/magazin/erziehung/erziehungs-tipps/Aggressive-Kinder.jpg
 fegen.jpg;fegen - šluoti;https://www.grundschulmaterial.de/preview/Deutsch/Klasse%202/Verben/Bilder/farbig/fegen-000025297-1.jpg
 absichtlich.jpg;absichtlich - tyčinis;http://img.welt.de/img/vermischtes/crop155057756/8209734615-ci3x2l-w540/Treckerfahrer-schrottet-absichtlich-zehn-Autos.jpg
+steuern.jpg;steuern - valdyti;http://www.spanienimmobiliencostablanca.de/wp-content/uploads/steuern.jpg
+reiten.jpg;reiten - joti;http://schule-der-leichtigkeit.de/wp-content/uploads/2015/03/Ecole-de-Legerete-Ausbildung-von-Pferd-und-Reiter.jpg
 
 
 
