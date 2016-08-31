@@ -341,7 +341,8 @@ fegen.jpg;fegen - šluoti;https://www.grundschulmaterial.de/preview/Deutsch/Klas
 absichtlich.jpg;absichtlich - tyčinis;http://img.welt.de/img/vermischtes/crop155057756/8209734615-ci3x2l-w540/Treckerfahrer-schrottet-absichtlich-zehn-Autos.jpg
 steuern.jpg;steuern - valdyti;http://www.spanienimmobiliencostablanca.de/wp-content/uploads/steuern.jpg
 reiten.jpg;reiten - joti;http://schule-der-leichtigkeit.de/wp-content/uploads/2015/03/Ecole-de-Legerete-Ausbildung-von-Pferd-und-Reiter.jpg
-
+samtlich.jpg;sämtlich - visi;http://www.museum-digital.de/data/hessen/images/import_1/201312/200w_14192225084.jpg
+entsetzen.jpg;das Entsetzen - siaubas;http://blog.derbund.ch/zumrundenleder/wp-content/blogs.dir/19/files/2011/02/ukraine.jpg
 
 
 
