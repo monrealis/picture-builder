@@ -344,6 +344,8 @@ reiten.jpg;reiten - joti;http://schule-der-leichtigkeit.de/wp-content/uploads/20
 samtlich.jpg;sämtlich - visi;http://www.museum-digital.de/data/hessen/images/import_1/201312/200w_14192225084.jpg
 entsetzen.jpg;das Entsetzen - siaubas;http://blog.derbund.ch/zumrundenleder/wp-content/blogs.dir/19/files/2011/02/ukraine.jpg
 heillos.png;heillos - beviltiškas;http://joemcgeeministries.com/wp-content/uploads/2015/12/Screen-Shot-2015-12-23-at-6.14.36-PM.png
+kerl.jpg;der Kerl - vyrukas;http://images.kino.de/flbilder/max07/auto07/auto19/07190291/b640x600.jpg
+begierig.jpg;begierig - geidžiantis;http://us.123rf.com/450wm/goodshotalan/goodshotalan1009/goodshotalan100900039/7883210-begierig-hund-cartoon.jpg?ver=6
 
 
 
