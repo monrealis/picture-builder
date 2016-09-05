@@ -355,6 +355,8 @@ zweig.jpg;der Zweig - šaka;https://provinzfotos.files.wordpress.com/2010/04/kir
 dehnen.jpg;dehnen - ištęsti;http://images.womenshealth.de/fm/1/thumbnails/sh_stretching_frau_800x462.jpg.26706.jpg
 beleidigen.jpg;beleidigen - įžeisti;http://www.paradisi.de/images_artikel/1/15571_0.jpg
 strebsam.jpg;strebsam - uolus;http://static.zoonar.de/img/www_repository3/f0/48/32/10_4e0fba04e0d0ffe3b09a540a2922e56b.jpg
+erlaubnis.png;die Erlaubnis - leidimas;https://www.impact-group.de/pics/erlaubnis-impactbusiness.png
+verteidigung.jpg;die Verteidigung - gynyba;http://schach-forstenried.de/assets/images/Franzosische_Verteidigung1.jpg
 
 
 
