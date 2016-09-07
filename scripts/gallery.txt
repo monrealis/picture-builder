@@ -359,6 +359,7 @@ erlaubnis.png;die Erlaubnis - leidimas;https://www.impact-group.de/pics/erlaubni
 verteidigung.jpg;die Verteidigung - gynyba;http://schach-forstenried.de/assets/images/Franzosische_Verteidigung1.jpg
 schmieden.jpg;schmieden - kalti;https://i.ytimg.com/vi/E88EP9iLiJo/hqdefault.jpg
 beibringen.jpg;beibringen - išmokyti;http://www.kinder-tipps.com/wp-content/uploads/2014/05/kind-fahrradfahren-beibringen.jpg
+zettel.gif;der Zettel - raštelis;https://yourdailygerman.com/wp-content/uploads/2012/05/zettel.gif
 
 
 
