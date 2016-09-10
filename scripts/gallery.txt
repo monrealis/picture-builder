@@ -361,6 +361,7 @@ schmieden.jpg;schmieden - kalti;https://i.ytimg.com/vi/E88EP9iLiJo/hqdefault.jpg
 beibringen.jpg;beibringen - išmokyti;http://www.kinder-tipps.com/wp-content/uploads/2014/05/kind-fahrradfahren-beibringen.jpg
 zettel.gif;der Zettel - raštelis;https://yourdailygerman.com/wp-content/uploads/2012/05/zettel.gif
 selten.jpg;selten - retas;https://i.ytimg.com/vi/2TMw92_q8Ac/hqdefault.jpg 
+bewundern.jpg;bewundern - gėrėtis;http://fscomps.fotosearch.com/compc/IGS/IGS528/is674-051.jpg
 
 
 
