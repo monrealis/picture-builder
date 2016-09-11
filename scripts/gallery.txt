@@ -363,9 +363,10 @@ zettel.gif;der Zettel - raštelis;https://yourdailygerman.com/wp-content/uploads
 selten.jpg;selten - retas;https://i.ytimg.com/vi/2TMw92_q8Ac/hqdefault.jpg 
 bewundern.jpg;bewundern - gėrėtis;http://fscomps.fotosearch.com/compc/IGS/IGS528/is674-051.jpg
 truthahn.jpg;der Truthahn - kalakutas;http://www.schullandheim-reibitz.de/wp-content/uploads/Bilder2/Truthahn.JPG
-
-
-
+atmen.jpg;atmen - kvėpuoti;http://achtsamkeit-lernen.de/images/atmung.jpg
+klauen.jpg;klauen - nukniaukti;https://www.travelprotect.de/bilder/common/istock-klauen.jpg
+trennen.jpg;trennen - skirti;https://entwickler.de/wp-content/uploads/2014/11/imessage_trennen1.jpg
+bereich.jpg;der Bereich - sritis;http://www.hohenfelde-2006.de/material/docs/Bereich_3_Alster_01.jpg
 
 
 
