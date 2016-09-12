@@ -367,6 +367,9 @@ atmen.jpg;atmen - kvėpuoti;http://achtsamkeit-lernen.de/images/atmung.jpg
 klauen.jpg;klauen - nukniaukti;https://www.travelprotect.de/bilder/common/istock-klauen.jpg
 trennen.jpg;trennen - skirti;https://entwickler.de/wp-content/uploads/2014/11/imessage_trennen1.jpg
 bereich.jpg;der Bereich - sritis;http://www.hohenfelde-2006.de/material/docs/Bereich_3_Alster_01.jpg
+versprechen.jpg;das Versprechen - pažadas;https://avalia-gruenderlounge.de/wp-content/uploads/2013/07/Kundenbindung-Dank-gehaltener-Versprechen.jpg
+mühsam;mühsam - varginantis;https://donaldepaor.files.wordpress.com/2010/05/troublesome_coworkers.jpg
+erstarren;erstarren - sustingti;http://www.20min.ch/diashow/119840/119840-CKJH1lTlzEd2aXu5j0SF2g.jpg
 
 
 
