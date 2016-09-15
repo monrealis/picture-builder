@@ -373,6 +373,7 @@ erstarren.jpg;erstarren - sustingti;http://www.20min.ch/diashow/119840/119840-CK
 wahrnehmen.jpg;wahrnehmen - pastebėti;http://karrierebibel.de/wp-content/uploads/2015/06/Wahrnehmungsst%C3%B6rung-Test-Beispiel-Farben.jpg
 schlank.jpg;schlank - lieknas;http://images.womenshealth.de/fm/1/sh_schlank_800x462.jpg
 knubbelig.jpg;knubbelig - kresnas;http://ichef-1.bbci.co.uk/news/660/cpsprodpb/182D4/production/_88182099_dieselwhoisoverdoublethesizeheshouldbewithpdsavetnursero.jpg
+besinnung;die Besinnung - sąmonė;https://www.allmystery.de/i/ta31483_35kn8cl.jpg
 
 
 
