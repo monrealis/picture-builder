@@ -376,6 +376,11 @@ knubbelig.jpg;knubbelig - kresnas;http://ichef-1.bbci.co.uk/news/660/cpsprodpb/1
 besinnung;die Besinnung - sąmonė;https://www.allmystery.de/i/ta31483_35kn8cl.jpg
 geist.jpg;der Geist - dvasia;http://roxiecards.com/wp-content/uploads/2013/08/strangleroot-geist.jpg
 gleiten.jpg;gleiten - slysti;http://www.familie-sport.de/typo3temp/pics/330b3e95a1.jpg
+schubsen.jpg;schubsen - stumti;http://www.kinderstube-sachsen.de/uploads/pics/Fotolia_25313822_XL.jpg
+wirken.jpg;wirken - veikti;http://blog.presentationload.de/wp-content/uploads/2013/07/Gute_Rhetorik.png
+schmelzen.jpg;schmelzen - tirpti;https://image.freepik.com/vektoren-kostenlos/eiswurfel-schmelzen-wassertropfen_21-84833990.jpg
+unvorsichtig.jpg;unvorsichtig - neatsargus;https://thumbs.dreamstime.com/z/jung-und-unvorsichtig-57446930.jpg
+begegnen.jpg;begegnen - sutikti;http://www.hochzeit-feiern.net/wp-content/uploads/Paar-im-Feld_Fotolia_8891985_XS_%C2%A9-pressmaster.jpg
 
 
 
