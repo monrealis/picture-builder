@@ -374,6 +374,8 @@ wahrnehmen.jpg;wahrnehmen - pastebėti;http://karrierebibel.de/wp-content/upload
 schlank.jpg;schlank - lieknas;http://images.womenshealth.de/fm/1/sh_schlank_800x462.jpg
 knubbelig.jpg;knubbelig - kresnas;http://ichef-1.bbci.co.uk/news/660/cpsprodpb/182D4/production/_88182099_dieselwhoisoverdoublethesizeheshouldbewithpdsavetnursero.jpg
 besinnung;die Besinnung - sąmonė;https://www.allmystery.de/i/ta31483_35kn8cl.jpg
+geist.jpg;der Geist - dvasia;http://roxiecards.com/wp-content/uploads/2013/08/strangleroot-geist.jpg
+gleiten.jpg;gleiten - slysti;http://www.familie-sport.de/typo3temp/pics/330b3e95a1.jpg
 
 
 
