@@ -391,6 +391,11 @@ gelingen.jpg;das Gelingen - sėkmė;http://img.abendblatt.de/img/incoming/crop20
 treiben.jpg;treiben - varyti, ginti;https://media-cdn.tripadvisor.com/media/photo-s/02/2f/3b/0a/rinder-treiben-pushing.jpg
 schwanken.jpg;schwanken - svyruoti;https://thumbs.dreamstime.com/z/spielende-kinder-stndiges-schwanken-68127909.jpg
 fordern.jpg;fordern - reikalauti;https://spielraum.xing.com/wp-content/uploads/2015/01/fuehrung_umfrage_aufmacher.jpg
+schlammig.jpg;schlammig - purvinas;http://media.gettyimages.com/photos/widemouthed-rhinoceros-ceratotherium-simum-south-africa-kragga-kamma-picture-id548993923?k=6&m=548993923&s=594x594&w=0&h=3Nx2RbdFI10cw4AmA0PArVc6EN-RaaSyOvlekdc1lvg=
+unfug.jpg;der Unfug - šunybė;https://s-media-cache-ak0.pinimg.com/736x/96/83/cd/9683cd5c6ed0517ee84b04f089b5f492.jpg
+schiedsrichter.jpg;der Schiedsrichter - teisėjas;http://www.srtg-wil.ch/uploads/2/4/7/6/24762587/4474618_orig.jpg
+ausrede.jpg;die Ausrede - atsikalbinėjimas;http://www.kerstins-nostalgia.de/images/kunde/Bilder%20Lustiges/Ausreden.jpg
+
 
 
 
