@@ -377,10 +377,20 @@ besinnung;die Besinnung - sąmonė;https://www.allmystery.de/i/ta31483_35kn8cl.j
 geist.jpg;der Geist - dvasia;http://roxiecards.com/wp-content/uploads/2013/08/strangleroot-geist.jpg
 gleiten.jpg;gleiten - slysti;http://www.familie-sport.de/typo3temp/pics/330b3e95a1.jpg
 schubsen.jpg;schubsen - stumti;http://www.kinderstube-sachsen.de/uploads/pics/Fotolia_25313822_XL.jpg
-wirken.jpg;wirken - veikti;http://blog.presentationload.de/wp-content/uploads/2013/07/Gute_Rhetorik.png
+wirken.gif;wirken - veikti;https://yourdailygerman.com/wp-content/uploads/2014/04/wirken-german.gif
 schmelzen.jpg;schmelzen - tirpti;https://image.freepik.com/vektoren-kostenlos/eiswurfel-schmelzen-wassertropfen_21-84833990.jpg
 unvorsichtig.jpg;unvorsichtig - neatsargus;https://thumbs.dreamstime.com/z/jung-und-unvorsichtig-57446930.jpg
 begegnen.jpg;begegnen - sutikti;http://www.hochzeit-feiern.net/wp-content/uploads/Paar-im-Feld_Fotolia_8891985_XS_%C2%A9-pressmaster.jpg
+inneres.gif;das Inneres - vidus;http://www.coaching-moenchengladbach.com/images/inneres_team.gif
+wahnsinnig.jpg;wahnsinnig - beprotiškas;https://www.allmystery.de/static/uploads/m5aDJMJd7If0eWe0_28979.jpg
+uberzeugen.jpg;überzeugen - įtikinti;http://images01.asklubo.com/Menschen+%C3%BCberzeugen.jpg/198.270
+tarnung.jpg;die Tarnung - maskuotė;http://polpix.sueddeutsche.com/bild/1.1737839.1375458487/900x600/eule-graham-mcgeorge-national-geographic-traveler-photo-contest.jpg
+falten.jpg;falten - sulankstyti;http://laughingsquid.com/wp-content/uploads/2013/06/how-to-fold-a-shirt-in-under-2-seconds.jpg
+raumen.jpg;räumen - palikti;https://www.financialfirstaid.org.au/wp-content/uploads/2015/05/notice-to-vacate.jpg
+gelingen.jpg;das Gelingen - sėkmė;http://img.abendblatt.de/img/incoming/crop205597181/6202607188-w820-cv16_9-q85/labbadia-980630.jpg
+treiben.jpg;treiben - varyti, ginti;https://media-cdn.tripadvisor.com/media/photo-s/02/2f/3b/0a/rinder-treiben-pushing.jpg
+schwanken.jpg;schwanken - svyruoti;https://thumbs.dreamstime.com/z/spielende-kinder-stndiges-schwanken-68127909.jpg
+fordern.jpg;fordern - reikalauti;https://spielraum.xing.com/wp-content/uploads/2015/01/fuehrung_umfrage_aufmacher.jpg
 
 
 
