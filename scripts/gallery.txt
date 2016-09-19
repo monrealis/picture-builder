@@ -395,6 +395,9 @@ schlammig.jpg;schlammig - purvinas;http://media.gettyimages.com/photos/widemouth
 unfug.jpg;der Unfug - šunybė;https://s-media-cache-ak0.pinimg.com/736x/96/83/cd/9683cd5c6ed0517ee84b04f089b5f492.jpg
 schiedsrichter.jpg;der Schiedsrichter - teisėjas;http://www.srtg-wil.ch/uploads/2/4/7/6/24762587/4474618_orig.jpg
 ausrede.jpg;die Ausrede - atsikalbinėjimas;http://www.kerstins-nostalgia.de/images/kunde/Bilder%20Lustiges/Ausreden.jpg
+sturzen.jpg;stürzen - nuvirsti;http://bewegungstherapie.at/wordpress/wp-content/uploads/2015/10/neu_subscription_l_c_thorstenschmitt_-_fotolia_com_.jpg
+klemmen.jpg;klemmen - sugnybti;http://www.gereedschapcentrum.nl/media/catalog/product/cache/1/image/265x265/17f82f742ffe127f42dca9de82fb58b1/c/b/cb30e8f996f244c406c33e6ee4b879ce.jpg
+wehren.jpg;sich wehren - gintis;http://media05.regionaut.meinbezirk.at/2016/01/25/9910712_web.jpg
 
 
 
