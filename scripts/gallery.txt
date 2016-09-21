@@ -401,6 +401,15 @@ wehren.jpg;sich wehren - gintis;http://media05.regionaut.meinbezirk.at/2016/01/2
 wühlen.jpg;wühlen - knisti;http://www.natur-portrait.de/images/upload/orig/IY3gkp.jpg
 beruhen.jpg;beruhen - remtis;http://cdn2-www.comingsoon.net/assets/uploads/2016/09/buffythevampireslayer.jpg
 ratlos.jpg;ratlos - bejėgis;http://www.adpic.de/data/picture/detail/Ratlos_die_Schultern_zucken_279383.jpg
+erlauben.jpg;erlauben - leisti;http://www.cybercd.de/wp-content/uploads/2011/03/Online-Kinderspiele-unbegrenzt-erlauben.jpg
+herstellen.jpg;herstellen - gaminti;http://www.labbe.de/zzzebra/malen/strassenkreide_herstellen2.gif
+wirkung.jpg;die Wirkung - poveikis;http://www.hermetik-international.com/wp-content/uploads/2014/11/ursache-und-wirkung.jpg
+befassen.jpg;sich befassen - užsiimti;http://diepresse.com/images/uploads/6/a/0/4781728/0407C7E9-199C-4D3B-8760-1A7233A737092_1437490985944167.jpg
+sagenhaft.jpg;sagenhaft - legendinis;http://www.mdr.de/tv/sagenhaft-unstrut-100-resimage_v-variantSmall16x9_w-320.jpg?version=15502
+rein.jpg;rein - grynas;http://www.lovejmusic.com/wp-content/uploads/2015/08/pure.jpg
+zeugen.jpg;zeugen - gimdyti;http://morganrauscher.com/morganrauscher/wp-content/uploads/2012/12/c.jpg
+bericht.gif;der Bericht - pranešimas;http://emk-gfs.de/wp-content/uploads/2014/07/Bericht.gif
+beten.jpg;beten - melstis;http://www.livenet.ch/sites/default/files/media/224579-beten.jpg
 
 
 
