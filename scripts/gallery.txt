@@ -410,6 +410,8 @@ rein.jpg;rein - grynas;http://www.lovejmusic.com/wp-content/uploads/2015/08/pure
 zeugen.jpg;zeugen - gimdyti;http://morganrauscher.com/morganrauscher/wp-content/uploads/2012/12/c.jpg
 bericht.gif;der Bericht - pranešimas;http://emk-gfs.de/wp-content/uploads/2014/07/Bericht.gif
 beten.jpg;beten - melstis;http://www.livenet.ch/sites/default/files/media/224579-beten.jpg
+einfallen.jpg;einfallen - ateiti į galvą;https://www.uni-duesseldorf.de/home/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Bilder_2013/Visuals_Gluehlampe_600x400-4_reimport.jpg
+folter.jpg;die Folter - kančia;http://folter.org/wp-content/uploads/2013/03/folter-in-der-heutigen-zeit.jpg
 
 
 
