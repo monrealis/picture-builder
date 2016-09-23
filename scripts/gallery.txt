@@ -412,6 +412,8 @@ bericht.gif;der Bericht - pranešimas;http://emk-gfs.de/wp-content/uploads/2014/
 beten.jpg;beten - melstis;http://www.livenet.ch/sites/default/files/media/224579-beten.jpg
 einfallen.jpg;einfallen - ateiti į galvą;https://www.uni-duesseldorf.de/home/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Bilder_2013/Visuals_Gluehlampe_600x400-4_reimport.jpg
 folter.jpg;die Folter - kančia;http://folter.org/wp-content/uploads/2013/03/folter-in-der-heutigen-zeit.jpg
+trosten.jpg;trösten - paguosti;http://img.fotocommunity.com/kleinen-bruder-troesten-f48f7766-54b3-43f3-a9a7-cb927e86739f.jpg?height=1000
+grimmig.jpg;grimmig - nuožmus;http://img.fotocommunity.com/lana-kuemmerling-grimmig-2-424dbc41-a0f4-46b4-a25d-f01437a205a4.jpg?width=1000
 
 
 
