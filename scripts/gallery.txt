@@ -414,6 +414,9 @@ einfallen.jpg;einfallen - ateiti į galvą;https://www.uni-duesseldorf.de/home/f
 folter.jpg;die Folter - kančia;http://folter.org/wp-content/uploads/2013/03/folter-in-der-heutigen-zeit.jpg
 trosten.jpg;trösten - paguosti;http://img.fotocommunity.com/kleinen-bruder-troesten-f48f7766-54b3-43f3-a9a7-cb927e86739f.jpg?height=1000
 grimmig.jpg;grimmig - nuožmus;http://img.fotocommunity.com/lana-kuemmerling-grimmig-2-424dbc41-a0f4-46b4-a25d-f01437a205a4.jpg?width=1000
+wutend.jpg;wütend - įniršęs;https://www.colourbox.de/preview/4043349-furious-emoticon.jpg
+hirn.jpg;das Hirn - smegenys;http://www.wfasser.ch/wp-content/uploads/hirn.jpg
+stammeln.jpg;stammeln - mikčioti;http://www.labbe.de/mellvil/klarkommen/lebenswichtig/stottern_stammeln.jpg
 
 
 
