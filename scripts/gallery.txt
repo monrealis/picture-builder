@@ -420,10 +420,10 @@ stammeln.jpg;stammeln - mikčioti;http://www.labbe.de/mellvil/klarkommen/lebensw
 wenden.jpg;wenden - sukti;https://dynamodonau.files.wordpress.com/2014/05/wenden_350.jpg
 wagen.jpg;wagen - drįsti;http://picture-cdn.wheretoget.it/0bjpw2-i.jpg
 toben.jpg;toben - siautėti;http://www.fitforfun.de/files/images/200809/0/fettkiller_15_kinder-toben,20977_m_n.jpg
-vortrefflich.jpg;vortrefflich - puikus;
-spucken.jpg;spucken - spjauti;
-riechen.jpg;riechen - kvepėti;
-gestalt.jpg;die Gestalt - figūra;
+vortrefflich.jpg;vortrefflich - puikus;https://s-media-cache-ak0.pinimg.com/736x/1a/b7/e5/1ab7e58464b06d535c08a86324b338fa.jpg
+spucken.jpg;spucken - spjauti;http://images.mtvnn.com/7858eb304f34bab4297bec8e6171a14c/630x354%3E
+riechen.jpg;riechen - kvepėti;http://www.benefit-online.de/fileadmin/content/magazin/gesundheit/Riechen.jpg
+gestalt.jpg;die Gestalt - figūra;http://mediad.publicbroadcasting.net/p/kut/files/201510/gestalt-therapie_0.jpg
 buche.jpg;die Buche - bukas (beech);https://upload.wikimedia.org/wikipedia/commons/0/0f/Buche-fruchtansatz.jpg
 ausdruck.jpg;der Ausdruck - išraiška;http://www.kunstkopie.de/kunst/silvia_larbig/augen_-_ausdruck_der_seele_hi.jpg
 untier.jpg;das Untier - pabaisa;http://www.herpetofauna.at/forum/userpix/193_Gatorfrog_1.jpg
