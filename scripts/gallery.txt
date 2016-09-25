@@ -373,7 +373,7 @@ erstarren.jpg;erstarren - sustingti;http://www.20min.ch/diashow/119840/119840-CK
 wahrnehmen.jpg;wahrnehmen - pastebėti;http://karrierebibel.de/wp-content/uploads/2015/06/Wahrnehmungsst%C3%B6rung-Test-Beispiel-Farben.jpg
 schlank.jpg;schlank - lieknas;http://images.womenshealth.de/fm/1/sh_schlank_800x462.jpg
 knubbelig.jpg;knubbelig - kresnas;http://ichef-1.bbci.co.uk/news/660/cpsprodpb/182D4/production/_88182099_dieselwhoisoverdoublethesizeheshouldbewithpdsavetnursero.jpg
-besinnung;die Besinnung - sąmonė;https://www.allmystery.de/i/ta31483_35kn8cl.jpg
+besinnung.jpg;die Besinnung - sąmonė;https://www.allmystery.de/i/ta31483_35kn8cl.jpg
 geist.jpg;der Geist - dvasia;http://roxiecards.com/wp-content/uploads/2013/08/strangleroot-geist.jpg
 gleiten.jpg;gleiten - slysti;http://www.familie-sport.de/typo3temp/pics/330b3e95a1.jpg
 schubsen.jpg;schubsen - stumti;http://www.kinderstube-sachsen.de/uploads/pics/Fotolia_25313822_XL.jpg
@@ -406,7 +406,7 @@ herstellen.jpg;herstellen - gaminti;http://www.labbe.de/zzzebra/malen/strassenkr
 wirkung.jpg;die Wirkung - poveikis;http://www.hermetik-international.com/wp-content/uploads/2014/11/ursache-und-wirkung.jpg
 befassen.jpg;sich befassen - užsiimti;http://diepresse.com/images/uploads/6/a/0/4781728/0407C7E9-199C-4D3B-8760-1A7233A737092_1437490985944167.jpg
 sagenhaft.jpg;sagenhaft - legendinis;http://www.mdr.de/tv/sagenhaft-unstrut-100-resimage_v-variantSmall16x9_w-320.jpg?version=15502
-rein.jpg;rein - grynas;http://www.lovejmusic.com/wp-content/uploads/2015/08/pure.jpg
+rein.jpg;rein - grynas;http://cha-ahse.org/store/product_images/w/220/reinaid__47406_zoom.jpg
 zeugen.jpg;zeugen - gimdyti;http://morganrauscher.com/morganrauscher/wp-content/uploads/2012/12/c.jpg
 bericht.gif;der Bericht - pranešimas;http://emk-gfs.de/wp-content/uploads/2014/07/Bericht.gif
 beten.jpg;beten - melstis;http://www.livenet.ch/sites/default/files/media/224579-beten.jpg
