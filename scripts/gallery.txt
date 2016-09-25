@@ -420,6 +420,10 @@ stammeln.jpg;stammeln - mikčioti;http://www.labbe.de/mellvil/klarkommen/lebensw
 wenden.jpg;wenden - sukti;https://dynamodonau.files.wordpress.com/2014/05/wenden_350.jpg
 wagen.jpg;wagen - drįsti;http://picture-cdn.wheretoget.it/0bjpw2-i.jpg
 toben.jpg;toben - siautėti;http://www.fitforfun.de/files/images/200809/0/fettkiller_15_kinder-toben,20977_m_n.jpg
+vortrefflich.jpg;vortrefflich - puikus;
+spucken.jpg;spucken - spjauti;
+riechen.jpg;riechen - kvepėti;
+gestalt.jpg;die Gestalt - figūra;
 
 
 
