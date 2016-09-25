@@ -424,6 +424,11 @@ vortrefflich.jpg;vortrefflich - puikus;
 spucken.jpg;spucken - spjauti;
 riechen.jpg;riechen - kvepėti;
 gestalt.jpg;die Gestalt - figūra;
+buche.jpg;die Buche - bukas (beech);https://upload.wikimedia.org/wikipedia/commons/0/0f/Buche-fruchtansatz.jpg
+ausdruck.jpg;der Ausdruck - išraiška;http://www.kunstkopie.de/kunst/silvia_larbig/augen_-_ausdruck_der_seele_hi.jpg
+untier.jpg;das Untier - pabaisa;http://www.herpetofauna.at/forum/userpix/193_Gatorfrog_1.jpg
+feind.jpg;der Feind - priešas;https://www.dasgehirn.info/entdecken/moral-und-schuld/der-feind-in-meinem-kopf-8025/image_large
+
 
 
 
