@@ -416,7 +416,7 @@ trosten.jpg;trösten - paguosti;http://img.fotocommunity.com/kleinen-bruder-troe
 grimmig.jpg;grimmig - nuožmus;http://img.fotocommunity.com/lana-kuemmerling-grimmig-2-424dbc41-a0f4-46b4-a25d-f01437a205a4.jpg?width=1000
 wutend.jpg;wütend - įniršęs;https://www.colourbox.de/preview/4043349-furious-emoticon.jpg
 hirn.jpg;das Hirn - smegenys;http://www.wfasser.ch/wp-content/uploads/hirn.jpg
-stammeln.jpg;stammeln - mikčioti;http://www.labbe.de/mellvil/klarkommen/lebenswichtig/stottern_stammeln.jpg
+stammeln.jpg;stottern, stammeln - mikčioti;http://www.labbe.de/mellvil/klarkommen/lebenswichtig/stottern_stammeln.jpg
 wenden.jpg;wenden - sukti;https://dynamodonau.files.wordpress.com/2014/05/wenden_350.jpg
 wagen.jpg;wagen - drįsti;http://picture-cdn.wheretoget.it/0bjpw2-i.jpg
 toben.jpg;toben - siautėti;http://www.fitforfun.de/files/images/200809/0/fettkiller_15_kinder-toben,20977_m_n.jpg
@@ -434,7 +434,8 @@ unbeweglich.jpg;unbeweglich - nejudantis;http://www.apotheken-umschau.de/multime
 zwingen.jpg;zwingen - versti;http://lowres.cartoonstock.com/death-gun_control-guns-user-point_and_click-kill-mban1468_low.jpg
 brechen.jpg;brechen - laužti;https://audiosaul.de/wp-content/uploads/2015/09/lanze-brechen.jpg
 ruckgrat.jpg;der Rückgrat - stuburas;https://contentpool.wirtschaftsverlag.at/files/uploads/images/2014/07/07/rueckgrat.jpg
-
+tadeln.jpg;tadeln - peikti;https://thumbs.dreamstime.com/z/tadeln-sie-sie-auf-angestelltem-10850989.jpg
+anwenden.jpg;anwenden - vartoti, pritaikyti;http://www.businessplan-easy.ch/images/businessplan-on.jpg
 
 
 
