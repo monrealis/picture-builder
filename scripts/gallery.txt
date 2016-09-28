@@ -436,7 +436,8 @@ brechen.jpg;brechen - laužti;https://audiosaul.de/wp-content/uploads/2015/09/la
 ruckgrat.jpg;der Rückgrat - stuburas;https://contentpool.wirtschaftsverlag.at/files/uploads/images/2014/07/07/rueckgrat.jpg
 tadeln.jpg;tadeln - peikti;https://thumbs.dreamstime.com/z/tadeln-sie-sie-auf-angestelltem-10850989.jpg
 anwenden.jpg;anwenden - vartoti, pritaikyti;http://www.businessplan-easy.ch/images/businessplan-on.jpg
-
+merken.jpg;merken - įsiminti;http://pad1.whstatic.com/images/thumb/c/c4/Remember-All-50-States-of-USA-Step-3-Version-2.jpg/728px-Remember-All-50-States-of-USA-Step-3-Version-2.jpg
+schweifen.jpg;schweifen - klaidžioti;http://legasthenie-byebye.de/wp-content/uploads/2016/07/Blick-fokussieren.jpg
 
 
 
