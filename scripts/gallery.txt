@@ -438,6 +438,9 @@ tadeln.jpg;tadeln - peikti;https://thumbs.dreamstime.com/z/tadeln-sie-sie-auf-an
 anwenden.jpg;anwenden - vartoti, pritaikyti;http://www.businessplan-easy.ch/images/businessplan-on.jpg
 merken.jpg;merken - įsiminti;http://pad1.whstatic.com/images/thumb/c/c4/Remember-All-50-States-of-USA-Step-3-Version-2.jpg/728px-Remember-All-50-States-of-USA-Step-3-Version-2.jpg
 schweifen.jpg;schweifen - klaidžioti;http://legasthenie-byebye.de/wp-content/uploads/2016/07/Blick-fokussieren.jpg
+stapel.jpg;der Stapel - krūva;https://thumbs.dreamstime.com/x/stapel-tijdschriften-7763064.jpg
+gesetz.jpg;das Gesetz - įstatymas;http://res.cloudinary.com/hxmj4muxr/image/upload/v1/6/2013/11/Schneeraeumen-Gesetz.jpg
+zahmen.jpg;zähmen - prijaukinti;http://static.cosmiq.de/data/de/e18/21/e18215997cb0d468864a9b18879add44_1_orig.jpg
 
 
 
