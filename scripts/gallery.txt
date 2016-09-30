@@ -441,6 +441,9 @@ schweifen.jpg;schweifen - klaidžioti;http://legasthenie-byebye.de/wp-content/up
 stapel.jpg;der Stapel - krūva;https://thumbs.dreamstime.com/x/stapel-tijdschriften-7763064.jpg
 gesetz.jpg;das Gesetz - įstatymas;http://res.cloudinary.com/hxmj4muxr/image/upload/v1/6/2013/11/Schneeraeumen-Gesetz.jpg
 zahmen.jpg;zähmen - prijaukinti;http://static.cosmiq.de/data/de/e18/21/e18215997cb0d468864a9b18879add44_1_orig.jpg
+lodern.jpg;lodern - liepsnoti;http://m.muensterschezeitung.de/var/storage/images/wn/startseite/muensterland/kreis-steinfurt/saerbeck/1933365-saerbeck-vier-osterfeuer-lodern-in-saerbeck/58444449-1-ger-DE/Saerbeck-Vier-Osterfeuer-lodern-in-Saerbeck_image_1024_width.jpg
+brei.jpg;der Brei - košė;http://a.ctimg.net/wZZcR3HISDC0OxDwhiThHw/lemon-ricotta-matzo-brei-recipe.jpg
+verantwortlich.jpg;verantwortlich - atsakingas;http://blog.setzwein.com/wp-content/uploads/2012/05/Setzling-in-Hand-300x300.jpg
 
 
 
