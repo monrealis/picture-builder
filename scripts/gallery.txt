@@ -447,6 +447,10 @@ verantwortlich.jpg;verantwortlich - atsakingas;http://blog.setzwein.com/wp-conte
 bann.jg;der Bann - užkeikimas;https://thumbs.dreamstime.com/z/wizard-spell-book-11790609.jpg
 umgeben.jpg;umgeben - apsupti;http://sprechblasen.blogsport.de/images/surroundedbyidiots.jpg
 umkommen.jpg;umkommen - žūti;http://www.passco.de/uploads/pics/14_luechenscluss_1.jpg
+zocken.jpg;zocken - lošti;http://www.lachkunst.com/pdata/t/l-727.jpg
+schlupfen.jpg;schlüpfen - ristis;http://bilder.augsburger-allgemeine.de/img/incoming/crop31008777/7197219193-ctopTeaser/SchildkroetenschlupfRosenheim1.jpg
+vergnugen.jpg;das Vergnügen - malonumas;http://www.duden.de/_media_/full/V/Vergnuegen-201100282716.jpg
+qualen.jpg;quälen - kankinti;http://quälen.net/wp-content/uploads/2013/05/cropped-qu%C3%A4len.net_.jpg
 
 
 
