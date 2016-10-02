@@ -453,6 +453,9 @@ vergnugen.jpg;das Vergnügen - malonumas;http://www.duden.de/_media_/full/V/Verg
 qualen.jpg;quälen - kankinti;http://quälen.net/wp-content/uploads/2013/05/cropped-qu%C3%A4len.net_.jpg
 arger.jpg;der Ärger - pyktis, bėda;http://www.smi-seminare.de/wp-content/uploads/2014/01/w%C3%BCtender-chef.jpg
 vernunft.jpg;die Vernunft - protas;http://scienceblogs.de/zoonpolitikon/wp-content/blogs.dir/22/files/2012/10/i-eb4e9222be273d32bfc4b361418934ac-KomplementKampa1.jpg
+feucht.jpg;feucht - drėgnas;https://imgaf.s3.eu-central-1.amazonaws.com/public/artwork/products/1391821/poster/sw-blaetter-feucht.jpg?1393938975
+forscher.jpg;der Forscher - tyrinėtojas;https://thumbs.dreamstime.com/x/forscher-17914486.jpg
+verschlingen.jpg;verschlingen - praryti;https://thumbs.dreamstime.com/t/eine-verschlingen-das-kleine-18697902.jpg
 
 
 
