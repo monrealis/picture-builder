@@ -456,6 +456,10 @@ vernunft.jpg;die Vernunft - protas;http://scienceblogs.de/zoonpolitikon/wp-conte
 feucht.jpg;feucht - drėgnas;https://imgaf.s3.eu-central-1.amazonaws.com/public/artwork/products/1391821/poster/sw-blaetter-feucht.jpg?1393938975
 forscher.jpg;der Forscher - tyrinėtojas;https://thumbs.dreamstime.com/x/forscher-17914486.jpg
 verschlingen.jpg;verschlingen - praryti;https://thumbs.dreamstime.com/t/eine-verschlingen-das-kleine-18697902.jpg
+niedlich.jpg;niedlich - meilutis;http://www.fotos.sc/img2/u/adriana77/n/Maus_Muse_Tiere_niedlich_Nager_Nahaufnahme.jpg
+vorwerfen.jpg;vorwerfen - prikišti;http://ais.badische-zeitung.de/piece/00/45/8c/4a/4557898.jpg
+zustimmen.jpg;zustimmet - pritarti;http://www.adpic.de/data/picture/detail/Zustimmen_365384.jpg
+schwellen.jpg;schwellen - tinti;https://cambraskade.files.wordpress.com/2011/06/blog204.jpg
 
 
 
