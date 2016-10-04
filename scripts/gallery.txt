@@ -460,6 +460,9 @@ niedlich.jpg;niedlich - meilutis;http://www.fotos.sc/img2/u/adriana77/n/Maus_Mus
 vorwerfen.jpg;vorwerfen - prikišti;http://ais.badische-zeitung.de/piece/00/45/8c/4a/4557898.jpg
 zustimmen.jpg;zustimmet - pritarti;http://www.adpic.de/data/picture/detail/Zustimmen_365384.jpg
 schwellen.jpg;schwellen - tinti;https://cambraskade.files.wordpress.com/2011/06/blog204.jpg
+drohen.jpg;drohen - grąsinti;http://www.adpic.de/data/picture/detail/Mit_der_Faust_drohen_198250.jpg
+prugeln.jpg;prügeln - mušti;http://bilder.t-online.de/b/66/31/78/16/id_66317816/610/tid_da/vincent-lecavalier-von-den-philadelphia-flyers-pruegelt-sich-mit-steve-oleksy-von-den-washington-capitals-.jpg
+gegenteil.jpg;das Gegenteil - priešingybė;http://www.photaq.com/media/fmf/Image/image/30943/scalex/1024/scaley/683;gegenteil_freude_leid_freud_und_leid_httpwwwshutterstockcomd.jpg
 
 
 
