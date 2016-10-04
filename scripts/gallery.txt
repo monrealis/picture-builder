@@ -462,7 +462,7 @@ zustimmen.jpg;zustimmet - pritarti;http://www.adpic.de/data/picture/detail/Zusti
 schwellen.jpg;schwellen - tinti;https://cambraskade.files.wordpress.com/2011/06/blog204.jpg
 drohen.jpg;drohen - grąsinti;http://www.adpic.de/data/picture/detail/Mit_der_Faust_drohen_198250.jpg
 prugeln.jpg;prügeln - mušti;http://bilder.t-online.de/b/66/31/78/16/id_66317816/610/tid_da/vincent-lecavalier-von-den-philadelphia-flyers-pruegelt-sich-mit-steve-oleksy-von-den-washington-capitals-.jpg
-gegenteil.jpg;das Gegenteil - priešingybė;http://www.photaq.com/media/fmf/Image/image/30943/scalex/1024/scaley/683;gegenteil_freude_leid_freud_und_leid_httpwwwshutterstockcomd.jpg
+gegenteil.jpg;das Gegenteil - priešingybė;https://www.grundschulmaterial.de/preview/Deutsch/Klasse%203/Grammatik/Adjektive/Gegenteil/Bild-Wort-Karten-Adjektive-Gegenteil-1-20-000130748-1.jpg
 
 
 
