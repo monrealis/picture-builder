@@ -465,6 +465,8 @@ prugeln.jpg;prügeln - mušti;http://bilder.t-online.de/b/66/31/78/16/id_6631781
 gegenteil.jpg;das Gegenteil - priešingybė;https://www.grundschulmaterial.de/preview/Deutsch/Klasse%203/Grammatik/Adjektive/Gegenteil/Bild-Wort-Karten-Adjektive-Gegenteil-1-20-000130748-1.jpg
 stiefel.jpg;der Stiefel - auliniai batai;https://s-media-cache-ak0.pinimg.com/236x/13/e3/78/13e3781685111176f96cab420c44ae99.jpg
 bedecken.jpg;bedecken, decken - dengti;http://www.oztorah.com/wp-content/uploads/2008/06/bedecken.jpg
+strafarbeit.jpg;die Strafarbeit -bausmė;http://trithemius.de/wp-content/uploads/2012/01/sch%C3%B6ner-quatsch1.jpg
+basteln.jpg;basteln - meistrauti;https://www.frag-mutti.de/images/uploads/de/head/40868/xFische_basteln.jpg.pagespeed.ic.57XVa1OR2i.jpg
 
 
 
