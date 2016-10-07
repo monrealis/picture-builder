@@ -467,6 +467,8 @@ stiefel.jpg;der Stiefel - auliniai batai;https://s-media-cache-ak0.pinimg.com/23
 bedecken.jpg;bedecken, decken - dengti;http://www.oztorah.com/wp-content/uploads/2008/06/bedecken.jpg
 strafarbeit.jpg;die Strafarbeit -bausmė;http://trithemius.de/wp-content/uploads/2012/01/sch%C3%B6ner-quatsch1.jpg
 basteln.jpg;basteln - meistrauti;https://www.frag-mutti.de/images/uploads/de/head/40868/xFische_basteln.jpg.pagespeed.ic.57XVa1OR2i.jpg
+klaglich.jpg;kläglich - apgailėtinas;http://www.tt.com/csp/cms/sites/dt.common.streams.StreamServer.cls?STREAMOID=w3LSnVfTtmpD2mcNoAQlgM$daE2N3K4ZzOUsqbU5sYt9biYtLF3X$5J_t9o7LBWVWCsjLu883Ygn4B49Lvm9bPe2QeMKQdVeZmXF$9l$4uCZ8QDXhaHEp3rvzXRJFdy0KqPHLoMevcTLo3h8xh70Y6N_U_CryOsw6FTOdKL_jpQ-&CONTENTTYPE=image/jpeg
+winden.jpg;winden - vynioti;http://image.shutterstock.com/display_pic_with_logo/507229/507229,1294566414,2/stock-photo-wind-spinner-spiral-over-black-68638744.jpg
 
 
 
