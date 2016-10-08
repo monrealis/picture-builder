@@ -469,6 +469,10 @@ strafarbeit.jpg;die Strafarbeit -bausmė;http://trithemius.de/wp-content/uploads
 basteln.jpg;basteln - meistrauti;https://www.frag-mutti.de/images/uploads/de/head/40868/xFische_basteln.jpg.pagespeed.ic.57XVa1OR2i.jpg
 klaglich.jpg;kläglich - apgailėtinas;http://www.tt.com/csp/cms/sites/dt.common.streams.StreamServer.cls?STREAMOID=w3LSnVfTtmpD2mcNoAQlgM$daE2N3K4ZzOUsqbU5sYt9biYtLF3X$5J_t9o7LBWVWCsjLu883Ygn4B49Lvm9bPe2QeMKQdVeZmXF$9l$4uCZ8QDXhaHEp3rvzXRJFdy0KqPHLoMevcTLo3h8xh70Y6N_U_CryOsw6FTOdKL_jpQ-&CONTENTTYPE=image/jpeg
 winden.jpg;winden - vynioti;http://image.shutterstock.com/display_pic_with_logo/507229/507229,1294566414,2/stock-photo-wind-spinner-spiral-over-black-68638744.jpg
+tollpatschig.gif;tollspatchig - nerangus;http://2.bp.blogspot.com/-6x1p_mLDKJU/T_StRb7PpxI/AAAAAAAAAnA/Aayfsny79bE/s1600/goofy_b4.gif
+vernünftig.jpg;vernünftig - išmintingas;http://cdn.webfail.com/upl/img/d77c62c7ee1/post2.jpg
+erobern.jpg;erobern - užkariauti;http://www.karriere.de/media/Karriere/3/Erobern-A-Dudarev-Mikhail-F.jpg
+
 
 
 
