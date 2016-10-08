@@ -472,6 +472,12 @@ winden.jpg;winden - vynioti;http://image.shutterstock.com/display_pic_with_logo/
 tollpatschig.gif;tollspatchig - nerangus;http://2.bp.blogspot.com/-6x1p_mLDKJU/T_StRb7PpxI/AAAAAAAAAnA/Aayfsny79bE/s1600/goofy_b4.gif
 vernünftig.jpg;vernünftig - išmintingas;http://cdn.webfail.com/upl/img/d77c62c7ee1/post2.jpg
 erobern.jpg;erobern - užkariauti;http://www.karriere.de/media/Karriere/3/Erobern-A-Dudarev-Mikhail-F.jpg
+schluchzen.jpg;schluchzen - raudoti;http://www.20min.ch/diashow/113048/113048-PGkxUXIp8uqgMUqkSGBSQw.jpg
+trosten.jpg;trösten - guosti;https://rosanerpanda09.files.wordpress.com/2010/06/trost-nicht-traurig-sein.jpg
+held.jpg;der Held - didvyris;http://www.charlotteobserver.com/sports/spt-columns-blogs/scott-fowler/lbe60q/picture94316882/ALTERNATES/FREE_640/Ryan-Held(3)
+erringen.jpg;erringen - pasiekti;http://img.fifa.com/mm/photo/tournament/competition/01/60/57/22/1605722_full-lnd.jpg
+auftauchen.jpg;auftauchen - išdygti;http://fscomps.fotosearch.com/compc/FSD/FSD036/x10644171.jpg
+johlen.jpg;johlen - šūkauti;http://s.hswstatic.com/gif/wolves-howling-at-moon-2.jpg
 
 
 
