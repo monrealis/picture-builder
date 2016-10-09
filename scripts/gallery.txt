@@ -478,6 +478,9 @@ held.jpg;der Held - didvyris;http://www.charlotteobserver.com/sports/spt-columns
 erringen.jpg;erringen - pasiekti;http://img.fifa.com/mm/photo/tournament/competition/01/60/57/22/1605722_full-lnd.jpg
 auftauchen.jpg;auftauchen - išdygti;http://fscomps.fotosearch.com/compc/FSD/FSD036/x10644171.jpg
 johlen.jpg;johlen - šūkauti;http://s.hswstatic.com/gif/wolves-howling-at-moon-2.jpg
+rucktritt.jpg;der Rücktritt - atsistatydinimas;http://bilder.t-online.de/b/74/23/28/18/id_74232818/610/tid_da/sein-schwerster-gang-fifa-boss-sepp-blatter-bei-seinem-angekuendigten-ruecktritt-.jpg
+zutaten.jpg;die Zutaten - ingredientai;https://jessiliciouskitchen.files.wordpress.com/2014/01/zutaten.jpg
+aufstand.jpg;der Aufstand - sukilimas;https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Aufstand_in_Rendsburg_1848_01.jpg/1280px-Aufstand_in_Rendsburg_1848_01.jpg
 
 
 
