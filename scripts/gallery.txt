@@ -482,6 +482,9 @@ rucktritt.jpg;der Rücktritt - atsistatydinimas;http://bilder.t-online.de/b/74/2
 zutaten.jpg;die Zutaten - ingredientai;https://jessiliciouskitchen.files.wordpress.com/2014/01/zutaten.jpg
 aufstand.jpg;der Aufstand - sukilimas;https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Aufstand_in_Rendsburg_1848_01.jpg/1280px-Aufstand_in_Rendsburg_1848_01.jpg
 angelegenheit.jpg;die Angelegenheit - dalykas;http://www.frisuren-magazin.de/wp-content/uploads/2016/05/Verdrehte-Angelegenheit-%E2%80%93-Flecht-frisuren.jpg
+beweis.jpg;der Beweis - įrodymas;http://img.fotocommunity.com/der-beweis-8dc1845c-8801-4991-acc1-a4261e4adfbf.jpg?height=1080
+behaupten.jpg;behaupten - teigti;http://bc02.rp-online.de/polopoly_fs/sibylle-wanders-leitet-kinder-aktion-gewaltfrei-1.4743171.1418676329!httpImage/2798826026.jpg_gen/derivatives/d540x303/2798826026.jpg
+stobern.jpg;stöbern - ieškoti;http://www.wn.de/var/storage/images/wn/startseite/muenster/stadtteile/handorf/1792864-grosser-basar-fuer-bangladesch-stoebern-und-lichtbruecken-bauen/55064424-1-ger-DE/Grosser-Basar-fuer-Bangladesch-Stoebern-und-Lichtbruecken-bauen_image_630_420f_wn.jpg
 
 
 
