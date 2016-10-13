@@ -488,6 +488,9 @@ stobern.jpg;stöbern - ieškoti;http://www.wn.de/var/storage/images/wn/startseit
 vorschrift.jpg;die Vorschrift - potvarkis;http://www.sicherheitstechnik-wuelfrath.de/images/rahner/fotolia_21298013_xs.jpg
 handschellen.png;die Handschellen - antrankiai;http://vignette3.wikia.nocookie.net/thewalkingdeadtv/images/7/73/Handschellen.png/revision/latest?cb=20130508214912&path-prefix=de
 kette.jpg;die Kette - grandinė;https://cdn1.thehunt.com/app/public/system/note_images/1270035/original/1ca2796f24a6c6269cefd9fb4a3c791e.jpg
+ersticken.jpg;ersticken - uždusinti;http://bilder.wanted.de/b/77/42/99/24/id_77429924/1000_60/tid_da/die-liebste-droht-zu-ersticken-was-nun-.jpg
+armbrust.jpg;die Armbrust - arbaletas;http://www.arrowinapple.com/photos/crossbow/xl/armbrust-stealth_ss-2142.jpg
+pfeil.jpg;der Pfeil - strėlė;https://t4.ftcdn.net/jpg/00/54/50/47/500_F_54504713_Pt1Myoh1EElhQvLNl7yanMzecKWF2VbH.jpg
 
 
 
