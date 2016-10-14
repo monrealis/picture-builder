@@ -491,8 +491,10 @@ kette.jpg;die Kette - grandinė;https://cdn1.thehunt.com/app/public/system/note_
 ersticken.jpg;ersticken - uždusinti;http://bilder.wanted.de/b/77/42/99/24/id_77429924/1000_60/tid_da/die-liebste-droht-zu-ersticken-was-nun-.jpg
 armbrust.jpg;die Armbrust - arbaletas;http://www.arrowinapple.com/photos/crossbow/xl/armbrust-stealth_ss-2142.jpg
 pfeil.jpg;der Pfeil - strėlė;https://t4.ftcdn.net/jpg/00/54/50/47/500_F_54504713_Pt1Myoh1EElhQvLNl7yanMzecKWF2VbH.jpg
-
-
+verweisen.jpg;verweisen - išvaryti;http://s.weltsport.net/picmon/72/mxa_13fZv_l.jpg
+senken.jpg;senken - nudelbti;http://pad3.whstatic.com/images/thumb/3/30/Eat-to-Lower-Blood-Pressure-Step-1.jpg/728px-Eat-to-Lower-Blood-Pressure-Step-1.jpg
+zeug.jpg;das Zeug - šlamštas;http://www.quickfit-dresden.de/wp-content/uploads/67.jpg
+leiden.jpg;das Leiden - kančia;http://c8.alamy.com/comp/FFA1AB/goethe-werther-ndas-leiden-des-jungen-werthers-the-sorrows-of-young-FFA1AB.jpg
 
 
 
