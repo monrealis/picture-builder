@@ -495,6 +495,9 @@ verweisen.jpg;verweisen - išvaryti;http://s.weltsport.net/picmon/72/mxa_13fZv_l
 senken.jpg;senken - nudelbti;http://pad3.whstatic.com/images/thumb/3/30/Eat-to-Lower-Blood-Pressure-Step-1.jpg/728px-Eat-to-Lower-Blood-Pressure-Step-1.jpg
 zeug.jpg;das Zeug - šlamštas;http://www.quickfit-dresden.de/wp-content/uploads/67.jpg
 leiden.jpg;das Leiden - kančia;http://c8.alamy.com/comp/FFA1AB/goethe-werther-ndas-leiden-des-jungen-werthers-the-sorrows-of-young-FFA1AB.jpg
+feigling.jpg;der Feigling - bailys;http://thekish-experience.com/page/wp-content/uploads/2014/03/Fotolia_56852996_S-e1413806450500-772x430.jpg
+schopfen.jpg;schöpfen - semti;http://www.fasten-haus.at/fileadmin/bilder/heilfastenkuren/kraftschoepfen.jpg
+bach.jpg;der Bach - upelis;http://capl.washjeff.edu/1/m/1429.jpg
 
 
 
