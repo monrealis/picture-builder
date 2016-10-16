@@ -498,6 +498,20 @@ leiden.jpg;das Leiden - kančia;http://c8.alamy.com/comp/FFA1AB/goethe-werther-n
 feigling.jpg;der Feigling - bailys;http://thekish-experience.com/page/wp-content/uploads/2014/03/Fotolia_56852996_S-e1413806450500-772x430.jpg
 schopfen.jpg;schöpfen - semti;http://www.fasten-haus.at/fileadmin/bilder/heilfastenkuren/kraftschoepfen.jpg
 bach.jpg;der Bach - upelis;http://capl.washjeff.edu/1/m/1429.jpg
+spannen.jpg;spannen - įtempti;http://www.pfeilschuss.de/assets/images/Spannenschnur.jpg
+hufte.jpg;die Hüfte - klubas;http://www.operation.de/tl_files/userdata/koerperbilder/Einzelne%20Koerperregionen/roentgenaufnahme_huefte_becken_operation.de.jpg
+schuchtern.jpg;schüchtern - gąsdinti;drovus;http://www.schuechtern.eu/wp-content/uploads/2012/05/bin-ich-sch%C3%BCchtern1.jpg
+
+
+
+
+
+
+
+
+
+
+
 
 
 
