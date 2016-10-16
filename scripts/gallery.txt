@@ -501,6 +501,10 @@ bach.jpg;der Bach - upelis;http://capl.washjeff.edu/1/m/1429.jpg
 spannen.jpg;spannen - įtempti;http://www.pfeilschuss.de/assets/images/Spannenschnur.jpg
 hufte.jpg;die Hüfte - klubas;http://www.operation.de/tl_files/userdata/koerperbilder/Einzelne%20Koerperregionen/roentgenaufnahme_huefte_becken_operation.de.jpg
 schuchtern.jpg;schüchtern - gąsdinti;drovus;http://www.schuechtern.eu/wp-content/uploads/2012/05/bin-ich-sch%C3%BCchtern1.jpg
+unschuldig.jpg;unschuldig - nekaltas;http://f1.fsc.szene1.at/fijn/143089/fijn_143089.jpg
+opfer.jpg;das Opfer - auka;http://www.beobachter.ch/fileadmin/dateien/bilder-editionen/2011/17/Opfer.jpg
+ungeduldig.jpg;ungeduldig - nekantrus;http://static.zoonar.de/img/www_repository2/9d/12/d9/10_d394c160e09dae3993395fb7cf505b5b.jpg
+bergen.jpg;bergen - slėpti;http://johnkuypers.com/wp-content/uploads/2015/04/something-to-hide.jpg
 
 
 
