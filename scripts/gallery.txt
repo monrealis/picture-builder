@@ -509,6 +509,8 @@ entlocken.jpg;entlocken - išvilioti;http://pad3.whstatic.com/images/thumb/7/71/
 huf.jpg;der Huf - kanopa;https://thumbs.dreamstime.com/z/der-huf-der-kuh-30864102.jpg
 aufruhr.jpg;der Aufruhr - maištas, susijaudinimas;http://diepresse.com/images/uploads/4/e/5/734437/aufruhr_nach_koranverbrennung_afghanistan20120222193649.jpg
 veranstalten.jpg;veranstalten - organizuoti;http://www.ln-online.de/var/storage/images/ln/lokales/luebeck/studenten-veranstalten-internationale-forschungstagung/58060925-2-ger-DE/Studenten-veranstalten-internationale-Forschungstagung_pdaArticleWide.jpg
+busch.jpg;der Busch - krūmas;http://www.duden.de/_media_/full/B/Busch-201100284159.jpg
+ferse.jpg;die Ferse - kulnas;https://images.gutefrage.net/media/fragen-antworten/bilder/218829003/2_original.jpg?v=1471839418000
 
 
 
