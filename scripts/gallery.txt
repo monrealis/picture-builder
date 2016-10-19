@@ -507,6 +507,8 @@ ungeduldig.jpg;ungeduldig - nekantrus;http://static.zoonar.de/img/www_repository
 bergen.jpg;bergen - slėpti;http://johnkuypers.com/wp-content/uploads/2015/04/something-to-hide.jpg
 entlocken.jpg;entlocken - išvilioti;http://pad3.whstatic.com/images/thumb/7/71/Elicit-a-Confession-Step-2.jpg/aid62114-728px-Elicit-a-Confession-Step-2.jpg
 huf.jpg;der Huf - kanopa;https://thumbs.dreamstime.com/z/der-huf-der-kuh-30864102.jpg
+aufruhr.jpg;der Aufruhr - maištas, susijaudinimas;http://diepresse.com/images/uploads/4/e/5/734437/aufruhr_nach_koranverbrennung_afghanistan20120222193649.jpg
+veranstalten.jpg;veranstalten - organizuoti;http://www.ln-online.de/var/storage/images/ln/lokales/luebeck/studenten-veranstalten-internationale-forschungstagung/58060925-2-ger-DE/Studenten-veranstalten-internationale-Forschungstagung_pdaArticleWide.jpg
 
 
 
