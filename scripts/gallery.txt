@@ -516,6 +516,8 @@ Maultier.jpg;das Maultier - mulas;http://www.muli.org/Bilder/Bilder_Muli_Eupen/P
 eid.jpg;der Eid - priesaika;http://www.oel-bild.de/Bilder/Der-Eid-der-Horatier.jpg
 esel.jpg;der Esel - asilas;http://www.eselbegegnung.at/wp-content/gallery/trainingspartner/dscf6098.jpg
 verraten.jpg;verraten - išduoti paslaptį;http://verraten.net/wp-content/uploads/2013/09/das-gr%C3%B6%C3%9Fte-%C3%BCbel-der-verrat-300x198.jpg
+wirbeln.jpg;wirblen - sūkuriuoti;https://www.kunst-fuer-alle.de/media_kunst/img/37/m/37_157946.jpg
+ermahnen.jpg;ermahnen - raginti;http://www.tipps.net/wp-content/uploads/2012/06/kind-ermahnen.jpg
 
 
 
