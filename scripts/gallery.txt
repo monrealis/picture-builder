@@ -518,6 +518,8 @@ esel.jpg;der Esel - asilas;http://www.eselbegegnung.at/wp-content/gallery/traini
 verraten.jpg;verraten - išduoti paslaptį;http://verraten.net/wp-content/uploads/2013/09/das-gr%C3%B6%C3%9Fte-%C3%BCbel-der-verrat-300x198.jpg
 wirbeln.jpg;wirblen - sūkuriuoti;https://www.kunst-fuer-alle.de/media_kunst/img/37/m/37_157946.jpg
 ermahnen.jpg;ermahnen - raginti;http://www.tipps.net/wp-content/uploads/2012/06/kind-ermahnen.jpg
+bewirken.jpg;bewirken - sukelti;https://cdn.psychologytoday.com/sites/default/files/field_blog_entry_images/Cause-Effect.jpg
+stuss.gif;der Stuss - nesąmonė;http://www.bencourtney.com/ebooks/lear/images/383.gif
 
 
 
