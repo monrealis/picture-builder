@@ -520,6 +520,8 @@ wirbeln.jpg;wirblen - sūkuriuoti;https://www.kunst-fuer-alle.de/media_kunst/img
 ermahnen.jpg;ermahnen - raginti;http://www.tipps.net/wp-content/uploads/2012/06/kind-ermahnen.jpg
 bewirken.jpg;bewirken - sukelti;https://cdn.psychologytoday.com/sites/default/files/field_blog_entry_images/Cause-Effect.jpg
 stuss.gif;der Stuss - nesąmonė;http://www.bencourtney.com/ebooks/lear/images/383.gif
+belauschen.jpg;belauschen - slapta klausytis;https://img.posterlounge.de/images/wbig/poster-belauschen-174138.jpg
+hindern.jpg;hindern - trukdyti;http://www.dw.com/image/16083534_303.jpg
 
 
 
