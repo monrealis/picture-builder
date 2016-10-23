@@ -522,6 +522,8 @@ bewirken.jpg;bewirken - sukelti;https://cdn.psychologytoday.com/sites/default/fi
 stuss.gif;der Stuss - nesąmonė;http://www.bencourtney.com/ebooks/lear/images/383.gif
 belauschen.jpg;belauschen - slapta klausytis;https://img.posterlounge.de/images/wbig/poster-belauschen-174138.jpg
 hindern.jpg;hindern - trukdyti;http://www.dw.com/image/16083534_303.jpg
+schummeln.jpg;schummeln - sukčiauti;http://www.hilfreich.de/sites/default/files/imagecache/article_image/images/fotolia_27571365_subscription_l.jpg
+stechen.jpg;stechen - durti;http://bc01.rp-online.de/polopoly_fs/1.4357631.1404283312!image/956818281.jpg_gen/derivatives/d540x303/956818281.jpg
 
 
 
