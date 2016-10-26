@@ -527,6 +527,9 @@ stechen.jpg;stechen - durti;http://bc01.rp-online.de/polopoly_fs/1.4357631.14042
 schrullig.jpg;schrullig - kaprizingas;http://pad1.whstatic.com/images/thumb/3/3a/Be-Quirky-Step-10.jpg/728px-Be-Quirky-Step-10.jpg
 schnabel.jpg;der Schnabel - snapas;http://kids.t-online.de/b/75/68/72/94/id_75687294/tid_da/der-schnabel-der-flamingos-ist-besonders-gebogen-.jpg
 sehnen.jpg;sich sehnen - ilgėtis;http://i.123g.us/c/love_iloveyou_couples/card/301370.jpg
+verdutzt.jpg;verdutzt - suglumęs;http://www.vttechniker.de/images/kino/iceage3.jpg
+eber.jpg;der Eber - kuilys;http://fleckvieh.bayern/eber/fileadmin/user_upload/eber03.jpg
+erwahnen.jpg;erwähnen - minėti;http://www.parship.at/pics/pictures/de_AT/panorama/fot_singleleben_krankheitsangabe-im-profil282x172.jpg
 
 
 
