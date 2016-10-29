@@ -537,8 +537,8 @@ haufig.jpg;häufig - dažnas;https://www.mpimf-heidelberg.mpg.de/114524/header_i
 lage.jpg;die Lage - padėtis;https://upload.wikimedia.org/wikipedia/commons/9/9f/Die_Lage_der_Bauern.png
 barsch.jpg;der Barsch - ešerys;http://www.angelshop-zoohandlung.de/images/product_images/popup_images/3356_1_Barsch.jpg
 vorschlagen.jpg;vorschlagen - siūlyti;https://thumbs.dreamstime.com/z/vorschlagen-des-jungen-mannes-28702061.jpg
-
-
+schmeissen.jpg;schmeißen - mesti;http://static.zoonar.de/img/www_repository2/a6/60/07/10_8c854cdba3d043c96c1631faf6ace3a0.jpg
+begreifen.jpg;begreifen - suprasti;http://img.fotocommunity.com/begreifen-d834ffe9-c572-4551-8674-7882a7f2b9e8.jpg?height=1080
 
 
 
