@@ -534,6 +534,9 @@ gebieten.jpg;gebieten - įsakyti;https://i.ytimg.com/vi/KXJGFL_HrMg/0.jpg
 bereuten.jpg;bereuten - gailėtis;http://hoangascht.at/wp-content/uploads/2014/10/Reue.jpg
 erhalten.jpg;erhalten - gauti;http://kanzlei-kramarz.de/wp-content/uploads/2014/12/Kanzlei-Kramarz_Abmahnung-erhalten-300x300.jpg
 haufig.jpg;häufig - dažnas;https://www.mpimf-heidelberg.mpg.de/114524/header_image-1314209796.jpg
+lage.jpg;die Lage - padėtis;https://upload.wikimedia.org/wikipedia/commons/9/9f/Die_Lage_der_Bauern.png
+barsch.jpg;der Barsch - ešerys;http://www.angelshop-zoohandlung.de/images/product_images/popup_images/3356_1_Barsch.jpg
+vorschlagen.jpg;vorschlagen - siūlyti;https://thumbs.dreamstime.com/z/vorschlagen-des-jungen-mannes-28702061.jpg
 
 
 
