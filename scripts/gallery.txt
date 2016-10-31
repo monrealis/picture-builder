@@ -544,6 +544,12 @@ entgegen.jpg;entgegen - priešingai;http://media.gettyimages.com/photos/the-weak
 gleichmut.jpg;der Gleichmut - abejingumas;http://www.wiechova.de/images/illu_gleichmut2.jpg
 eisern.jpg;eisern - geležinis;https://upload.wikimedia.org/wikipedia/commons/a/ad/Iron_electrolytic_and_1cm3_cube.jpg
 mut.jpg;der Mut - drąsa;http://www.teamworkandleadership.com/wp-content/uploads/2013/07/having-courage-doesnt-mean-you-arent-afraid.jpg
+verengen.jpg;verengen - susiaurėti;http://media.kunst-fuer-alle.de/img/37/m/37_1593368.jpg
+gespenst.jpg;das Gespenst - vaiduoklis; http://www.peppauf.de/WebRoot/Store2/Shops/62361801/4D02/27CC/82AF/1597/7AF6/C0A8/28B8/834B/9394_0.jpg
+schleichen.jpg;schleichen - sėlinti;http://fscomps.fotosearch.com/compc/TBZ/TBZ174/dog01x024.jpg
+belastingen.jpg;belästigen - įkyrėti;http://www.berlinjournal.biz/wp-content/uploads/2016/01/Margarete-Stokowski.jpg
+bescherung.jpg;die Bescherung - dovana;http://www.raffini-kinderevents.de/wp-content/uploads/Nikolaus-Weihnachtsmann-Bescherung-4.jpg
+vorwurf.jpg;der Vorwurf - priekaištas;http://previews.123rf.com/images/ostill/ostill1301/ostill130100339/17419673-ein-caucasian-Familie-Vater-Mutter-Tochter-Mann-Streit-Vorwurf-in-der-Silhouette-Studio-isoliert-auf-Lizenzfreie-Bilder.jpg
 
 
 
