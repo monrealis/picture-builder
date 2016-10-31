@@ -550,7 +550,10 @@ schleichen.jpg;schleichen - sėlinti;http://fscomps.fotosearch.com/compc/TBZ/TBZ
 belastingen.jpg;belästigen - įkyrėti;http://www.berlinjournal.biz/wp-content/uploads/2016/01/Margarete-Stokowski.jpg
 bescherung.jpg;die Bescherung - dovana;http://www.raffini-kinderevents.de/wp-content/uploads/Nikolaus-Weihnachtsmann-Bescherung-4.jpg
 vorwurf.jpg;der Vorwurf - priekaištas;http://previews.123rf.com/images/ostill/ostill1301/ostill130100339/17419673-ein-caucasian-Familie-Vater-Mutter-Tochter-Mann-Streit-Vorwurf-in-der-Silhouette-Studio-isoliert-auf-Lizenzfreie-Bilder.jpg
-
+schwach.jpg;schwach - silpnas;http://t2.ftcdn.net/jpg/00/56/78/55/400_F_56785572_hQU96DWV9JsMD2ei90UVzKAez1pBQNwy.jpg
+pfote.jpg;die Pfote - letena;https://upload.wikimedia.org/wikipedia/commons/6/6a/2010-03-14-Mangos_Pfote.JPG
+weich.jpg;weich - minkštas;http://creoflick.net/images/Rachel-Weich-748.jpg
+zogern.jpg;zögern - abejoti;https://thumbs.dreamstime.com/z/pro-und-betrug-zgern-37063981.jpg
 
 
 
