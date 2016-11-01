@@ -558,6 +558,7 @@ schlinge.jpg;die Schlinge - kilpa;http://www.duden.de/_media_/full/S/Schlinge-20
 scheuchen.jpg;scheuchen - nubaidyti;http://view.stern.de/de/picture/1515937/junge-spass-barcelona-fun-tauben-platz-placa-940.jpg
 lockern.jpg;lockern - atpalaiduoti;http://www.fitforfun.de/files/images/201307/0/sportmassage,42792_m_n.jpg
 gruft.jpg;die Gruft - kapas;http://static.panoramio.com/photos/original/41577746.jpg
+beschadigen.jpg;beschädigen - gadinti;http://www.wochenblatt.de/storage/scl/nachrichten/straubing/330739_m3w592h309q75v53031_aussenspiegel-auto.jpg
 
 
 
