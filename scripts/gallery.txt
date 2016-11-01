@@ -554,6 +554,10 @@ schwach.jpg;schwach - silpnas;http://t2.ftcdn.net/jpg/00/56/78/55/400_F_56785572
 pfote.jpg;die Pfote - letena;https://upload.wikimedia.org/wikipedia/commons/6/6a/2010-03-14-Mangos_Pfote.JPG
 weich.jpg;weich - minkštas;http://creoflick.net/images/Rachel-Weich-748.jpg
 zogern.jpg;zögern - abejoti;https://thumbs.dreamstime.com/z/pro-und-betrug-zgern-37063981.jpg
+schlinge.jpg;die Schlinge - kilpa;http://www.duden.de/_media_/full/S/Schlinge-201020471348.jpg
+scheuchen.jpg;scheuchen - nubaidyti;http://view.stern.de/de/picture/1515937/junge-spass-barcelona-fun-tauben-platz-placa-940.jpg
+lockern.jpg;lockern - atpalaiduoti;http://www.fitforfun.de/files/images/201307/0/sportmassage,42792_m_n.jpg
+gruft.jpg;die Gruft - kapas;http://static.panoramio.com/photos/original/41577746.jpg
 
 
 
