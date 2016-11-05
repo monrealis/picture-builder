@@ -564,9 +564,11 @@ krummen.jpg;krümmen - sulenkti;http://www.dlr.de/next/Portaldata/69/Resources/i
 opfern.jpg;opfern - paaukoti;http://www.stupidedia.org/images/thumb/0/0c/Strand.jpg/400px-Strand.jpg?filetimestamp=20070624150054
 sparen.jpg;sparen - taupyti;http://artikel.nl/uploads/images/WcBjAEErvCma.jpg
 nessel.jpg;die Nessel - dilgėlė;https://upload.wikimedia.org/wikipedia/commons/2/28/Veronica_urticifolia_(Nessel-Ehrenpreis)_IMG_9911.jpg
-
-
-
+zittern.jpg;zittern - drebėti;http://img.abendblatt.de/img/wissen/crop107941653/8422605628-w820-cv16_9-q85/hand-HA-Bilder-Fotogalerien-HAmburg.jpg
+fledermaus.jpg;die Fledermaus - šikšnosparnis;https://upload.wikimedia.org/wikipedia/commons/7/77/Big-eared-townsend-fledermaus.jpg
+versehentlich.png;versehentlich - netyčia;http://images.codingforcharity.org/dmp/20101213/I-Accidentally_20101213045407_reg.png
+unbeliebt.jpg;unbeliebt - nepopuliarus;http://bilder.bild.de/fotos-skaliert/10-gruende-warum-sie-unbeliebt-sind-21298173-24286632/2,w=650,c=0.bild.jpg
+seil.jpg;das Seil - virvė;http://static7.depositphotos.com/1241729/733/i/950/depositphotos_7337725-Hanf-seil.jpg
 
 
 
