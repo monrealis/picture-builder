@@ -569,6 +569,13 @@ fledermaus.jpg;die Fledermaus - šikšnosparnis;https://upload.wikimedia.org/wik
 versehentlich.png;versehentlich - netyčia;http://images.codingforcharity.org/dmp/20101213/I-Accidentally_20101213045407_reg.png
 unbeliebt.jpg;unbeliebt - nepopuliarus;http://bilder.bild.de/fotos-skaliert/10-gruende-warum-sie-unbeliebt-sind-21298173-24286632/2,w=650,c=0.bild.jpg
 seil.jpg;das Seil - virvė;http://static7.depositphotos.com/1241729/733/i/950/depositphotos_7337725-Hanf-seil.jpg
+verdacht.jpg;der Verdacht - įtarimas;https://i.vimeocdn.com/video/573135690.jpg?mw=1920&mh=1080&q=70
+ablenken.jpg;ablenken - nukreipti;https://data.motor-talk.de/data/galleries/0/130/5741/49469859/nicht-ablenken-lassen-4293127367441899225.jpg
+widmen.jpg;widmen - pašvęsti;http://i.dailymail.co.uk/i/pix/2010/05/19/article-0-06C15204000005DC-342_468x650.jpg
+anweisung.png;die Anweisung - instrukcija;http://www.java-programmieren.com/bilder/Struktogramm-if-else-Anweisung.png
+diener.jpg;der Diener - tarnas;https://t3.ftcdn.net/jpg/00/17/07/08/500_F_17070887_iDOLEEWXfnf6BP4b4hdvcXCTf1MpD69m.jpg
+
+
 
 
 
