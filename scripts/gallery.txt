@@ -575,6 +575,9 @@ widmen.jpg;widmen - pašvęsti;http://i.dailymail.co.uk/i/pix/2010/05/19/article
 anweisung.png;die Anweisung - instrukcija;http://www.java-programmieren.com/bilder/Struktogramm-if-else-Anweisung.png
 diener.jpg;der Diener - tarnas;https://t3.ftcdn.net/jpg/00/17/07/08/500_F_17070887_iDOLEEWXfnf6BP4b4hdvcXCTf1MpD69m.jpg
 fliehen.jpg;fliehen - pabėgti;http://bilder.t-online.de/b/71/10/58/48/id_71105848/610/tid_da/nahe-der-stadt-suruc-in-der-tuerkischen-provinz-sanliurfa-fliehen-syrische-kurden-ueber-die-grenze-.jpg
+heftig.jpg;heftig - smarkus;http://www.haz.de/var/storage/images/haz/nachrichten/politik/deutschland-welt/das-daenische-parlament-zieht-wahlwerbespot-nach-protesten-zurueck/103901350-1-ger-DE/Sex-und-Gewalt-sind-zu-heftig-fuer-Wahlwerbung_pdaArticleWide.png
+ereignis.jpg;das Ereignis - įvykis;http://www.paz-online.de/var/storage/images/paz/peiner-land/lokalnachrichten/ilsede/ein-ergreifendes-ereignis!/2636809-1-ger-DE/Ein-ergreifendes-Ereignis!_ArtikelQuer.jpg
+leintuch;das Leintuch - paklodė;http://f.kyburz-bfb.ch/upload/img/p42_1.jpg
 
 
 
