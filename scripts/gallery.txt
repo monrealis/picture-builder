@@ -216,7 +216,7 @@ verschweigen.jpg;verschweigen - nutylėti;http://karrierebibel.de/wp-content/upl
 schatten.jpg;der Schatten - šešėlis;http://www.likoli.de/t-shirt-im-schatten-des-hasen-bilder-1115.jpg
 rustung.jpg;die Rüstung - ginkluotė;https://d1ej19d7kwigfi.cloudfront.net/uploads/forum_attachment/file/757/Identity-600x330.jpg
 griff.jpg;der Griff - nutvėrimas;http://www.duden.de/_media_/full/G/Griff-201100277505.jpg
-schicksal.jpg;das Schicksal - baldakimas;http://crazy-crow.de/wp-content/uploads/2013/05/Schicksal.jpg
+schicksal.jpg;das Schicksal - likimas;http://crazy-crow.de/wp-content/uploads/2013/05/Schicksal.jpg
 laken.jpg;das Laken - paklodė;https://cdn.blogger.de/static/antville/rebellmarkt/images/dipicoma.jpg
 schweiss.jpg;der Schweiß - prakaitas;http://www.runnersworld.de/sixcms/media.php/12/thumbnails/schweiss_460.3001610.jpg.3001617.jpg
 zehe.jpg;die Zehe - pirštas;http://www.duden.de/_media_/full/Z/Zeh-201100281687.jpg
@@ -574,8 +574,7 @@ ablenken.jpg;ablenken - nukreipti;https://data.motor-talk.de/data/galleries/0/13
 widmen.jpg;widmen - pašvęsti;http://i.dailymail.co.uk/i/pix/2010/05/19/article-0-06C15204000005DC-342_468x650.jpg
 anweisung.png;die Anweisung - instrukcija;http://www.java-programmieren.com/bilder/Struktogramm-if-else-Anweisung.png
 diener.jpg;der Diener - tarnas;https://t3.ftcdn.net/jpg/00/17/07/08/500_F_17070887_iDOLEEWXfnf6BP4b4hdvcXCTf1MpD69m.jpg
-
-
+fliehen.jpg;fliehen - pabėgti;http://bilder.t-online.de/b/71/10/58/48/id_71105848/610/tid_da/nahe-der-stadt-suruc-in-der-tuerkischen-provinz-sanliurfa-fliehen-syrische-kurden-ueber-die-grenze-.jpg
 
 
 
