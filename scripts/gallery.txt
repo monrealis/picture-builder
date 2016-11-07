@@ -578,7 +578,7 @@ fliehen.jpg;fliehen - pabėgti;http://bilder.t-online.de/b/71/10/58/48/id_711058
 heftig.jpg;heftig - smarkus;http://www.haz.de/var/storage/images/haz/nachrichten/politik/deutschland-welt/das-daenische-parlament-zieht-wahlwerbespot-nach-protesten-zurueck/103901350-1-ger-DE/Sex-und-Gewalt-sind-zu-heftig-fuer-Wahlwerbung_pdaArticleWide.png
 ereignis.jpg;das Ereignis - įvykis;http://www.paz-online.de/var/storage/images/paz/peiner-land/lokalnachrichten/ilsede/ein-ergreifendes-ereignis!/2636809-1-ger-DE/Ein-ergreifendes-Ereignis!_ArtikelQuer.jpg
 leintuch;das Leintuch - paklodė;http://f.kyburz-bfb.ch/upload/img/p42_1.jpg
-
+vorrätig.jpg;vorrätig - turėti atsargų;http://images.derstandard.at/t/12/2016/08/24/nudel800.jpg
 
 
 
