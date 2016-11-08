@@ -578,11 +578,13 @@ fliehen.jpg;fliehen - pabėgti;http://bilder.t-online.de/b/71/10/58/48/id_711058
 heftig.jpg;heftig - smarkus;http://www.haz.de/var/storage/images/haz/nachrichten/politik/deutschland-welt/das-daenische-parlament-zieht-wahlwerbespot-nach-protesten-zurueck/103901350-1-ger-DE/Sex-und-Gewalt-sind-zu-heftig-fuer-Wahlwerbung_pdaArticleWide.png
 ereignis.jpg;das Ereignis - įvykis;http://www.paz-online.de/var/storage/images/paz/peiner-land/lokalnachrichten/ilsede/ein-ergreifendes-ereignis!/2636809-1-ger-DE/Ein-ergreifendes-Ereignis!_ArtikelQuer.jpg
 leintuch;das Leintuch - paklodė;http://f.kyburz-bfb.ch/upload/img/p42_1.jpg
-vorrätig.jpg;vorrätig - turėti atsargų;http://images.derstandard.at/t/12/2016/08/24/nudel800.jpg
-
-
-
-
+vorratig.jpg;vorrätig - turėti atsargų;http://images.derstandard.at/t/12/2016/08/24/nudel800.jpg
+umsicht.jpg;die Umsicht - apdairumas;https://www.fraunhofer.de/en/press/research-news/2013/march/redox-flow-battery/_jcr_content/contentPar/pressarticle/pressArticleParsys/textblockwithpics/imageComponent1/image.img.large.jpg/1446802470120_pi16-redox-flow-gumsicht.jpg
+nachsicht.jpg;die Nachsicht - atlaidumas;http://static4.akpool.de/images/cards/20/204130.jpg
+zweck.jpg;der Zweck - tikslas;http://www.medi-geno.de/fileadmin/images/Header/zweck.jpg
+hocken.jpg;hocken - tupėti;https://thumbs.dreamstime.com/z/hocken-auf-lchelnder-junger-frau-der-skala-17832600.jpg
+bemuhen.jpg;bemühen - varginti;http://wiki.yoga-vidya.de/images/thumb/e/ed/Muskeln.jpg/250px-Muskeln.jpg
+betteln.jpg;betteln - maldauti;http://www.update-seele.de/typo3temp/pics/f20586b9e7.jpg
 
 
 
