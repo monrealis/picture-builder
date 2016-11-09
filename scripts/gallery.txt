@@ -585,6 +585,8 @@ zweck.jpg;der Zweck - tikslas;http://www.medi-geno.de/fileadmin/images/Header/zw
 hocken.jpg;hocken - tupėti;https://thumbs.dreamstime.com/z/hocken-auf-lchelnder-junger-frau-der-skala-17832600.jpg
 bemuhen.jpg;bemühen - varginti;http://wiki.yoga-vidya.de/images/thumb/e/ed/Muskeln.jpg/250px-Muskeln.jpg
 betteln.jpg;betteln - maldauti;http://www.update-seele.de/typo3temp/pics/f20586b9e7.jpg
+gerucht.jpg;das Gerücht - gandas;http://www.telecom-handel.de/img/5/0/5/4/2/6/Geruecht-Fluestern-Geheim_w424_h283.jpg
+vernichten.jpg;vernichten - sunaikinti;https://www.reisswolf-sachsen.de/fileadmin/_migrated/pics/vernichten_von_akten_Chemnitz.jpg
 
 
 
