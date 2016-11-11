@@ -589,6 +589,8 @@ gerucht.jpg;das Gerücht - gandas;http://www.telecom-handel.de/img/5/0/5/4/2/6/G
 vernichten.jpg;vernichten - sunaikinti;https://www.reisswolf-sachsen.de/fileadmin/_migrated/pics/vernichten_von_akten_Chemnitz.jpg
 schmucken.jpg;schmücken - puošti;http://www.weihnachtswelt.org/_img/weihnachtsbaum-schmuecken-dekorieren.jpg
 radieschen.jpg;das Radieschen - ridikas;http://www.essen-gesundheit.de/wp-content/uploads/2013/08/radieschen.jpg
+zeugnis.png;das Zeugnis - pažymėjimas;https://schulkartei.com/wp-content/uploads/2014/06/SK-Zeugnis.png
+schwatzen.jpg;schwatzen - plepėti;http://l7.alamy.com/zooms/e2df1b7bc06247bfb054b36916e258fb/four-people-or-friends-in-the-sauna-gk9ba7.jpg
 
 
 
