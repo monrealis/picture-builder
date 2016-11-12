@@ -199,7 +199,7 @@ strahlen.jpg;strahlen - spindėti;http://www.apotheken-umschau.de/multimedia/31/
 erbse.jpg;die Erbse - žirnis;http://static.myslimcoach.de/img/ll_thumbnails/21.jpg
 kostlich.jpg;köstlich - labai skanus;http://www.everyday-feng-shui.de/feng-shui-news/wp-content/uploads/2012/03/kochen-und-geniessen.jpg
 schnitten.jpg;schnitten - pjaustyti;https://i.ytimg.com/vi/aR2ZJkb1Yqg/maxresdefault.jpg
-zuihrendiensten.jpg;zu Ihren Diensten - Jūsų paslaugoms;http://previews.123rf.com/images/sellingpix/sellingpix1003/sellingpix100300148/6689267-Kellner-zu-Ihren-Diensten-3d-isoliert-auf-wei-em-Hintergrund-Zeichen-Serie--Lizenzfreie-Bilder.jpg
+zuihrendiensten.jpg;zu Ihren Diensten\nJūsų paslaugoms;http://previews.123rf.com/images/sellingpix/sellingpix1003/sellingpix100300148/6689267-Kellner-zu-Ihren-Diensten-3d-isoliert-auf-wei-em-Hintergrund-Zeichen-Serie--Lizenzfreie-Bilder.jpg
 vorziehen.jpg;vorziehen - teikti pirmenybę;http://f.tqn.com/y/german/1/S/i/G/2/how-to-express-your-preferences-in-german-language-GettyImages-175822209.jpg
 verdrossen.jpg;verdrossen - liūdnas;https://farm1.staticflickr.com/8/7340412_2db9809b94.jpg
 husten.jpg;husten - kosėti;http://www.schweizamsonntag.ch/content/1390991876.jpg
@@ -237,7 +237,7 @@ gering.png;gering - menkas;http://cdn.shopify.com/s/files/1/0166/8304/products/i
 ziege.jpg;die Ziege - ožka;https://www.aid.de/_data/img/gallery/06_ziege_thueringer_wald_ziege_830x560.jpg
 larm.jpg;der Lärm - triukšmas;http://www.benefit-online.de/fileadmin/content/magazin/besser_leben/Laerm.jpg
 schutten.jpg;schütten - įberti, įpilti;http://image.shutterstock.com/z/stock-photo-pour-water-from-a-pitcher-into-a-glass-109380863.jpg
-rand.png;der Rand - kraštas;https://openclipart.org/image/2400px/svg_to_png/222492/Decorative-Ornamental-Frame-Border-2.png
+rand.jpg;der Rand - kraštas;https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Randschrift_rijksdaalder.jpg/440px-Randschrift_rijksdaalder.jpg
 spalt.jpg;der Spalt - plyšys;http://residentsmedical.com/sites/default/files/styles/adaptive/public/blog//images/Man%20In%20Suit_GAP_big.jpg
 geniessen.jpg;genießen - mėgautis;http://www.preischecker.de/wp-content/uploads/rente-geniessen.jpg
 haube.jpg;die Haube - gaubtuvas;https://www.noba-direct.com/273-914-thickbox/noba-op-haube.jpg
@@ -262,7 +262,7 @@ weisen.jpg;weisen - parodyti;http://englishharmony.com/wp-content/uploads/2012/0
 herausstellen.jpg;sich herausstellen - paaiškėti;http://edmontonenglishschool-learningenglishonline.com/wp-content/uploads/2011/03/TURN-OUT-Edmonton-English-School.jpg
 mull.jpg;der Müll - šiukšlės;http://www.verkehrswende-muenster.de/wp-content/uploads/2011/07/483608_R_by_Andrea-Kusajda_pixelio.de1_.jpg 
 fluchen.jpg;fluchen - keiktis;http://cdn.grid.fotosearch.com/CSP/CSP863/k8636729.jpg
-statur.jpg;die Statur - stotas;https://upload.wikimedia.org/wikipedia/commons/7/70/Statue_de_David_%C3%A0_Marseille.jpg
+statur.jpg;die Statur\nstotas;https://upload.wikimedia.org/wikipedia/commons/7/70/Statue_de_David_%C3%A0_Marseille.jpg
 anstandig.jpg;anständig - padorus;http://sub.maddecent.com/emailz/moombahsmall.jpg
 bestrafung.jpg;die Bestrafung - bausmė;https://thumbs.dreamstime.com/z/bestrafung-18418594.jpg
 schaufeln.jpg;schaufeln - kasti;http://hausbaublog.docma.de/galerie/picture-0271.jpg
@@ -288,7 +288,7 @@ reinlegen.jpg;reinlegen - apgauti;https://i.ytimg.com/vi/P8XXwJUCpU0/maxresdefau
 stromern.jpg;stromern - klajoti aplink;http://blogs.jcvi.org/wp-content/uploads/2009/11/Adelie-penguins-wander-into-camp.jpg
 falle.jpg;die Falle - spąstai;http://www.zephram.de/blog/wp-content/uploads/2008/09/commodity-falle-vermeiden.jpg
 zupfen.jpg;zupfen - timpletėti;http://www.experto.de/fileadmin/assets/user_assets/8/vs/augenbrauen-richtig-zupfen.jpg
-ungeheuer.jpg;das Ungeheuer - monstras;https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Hans_Baldung_-_Stehende_Hexe_mit_Ungeheuer.jpg/539px-Hans_Baldung_-_Stehende_Hexe_mit_Ungeheuer.jpg
+ungeheuer.jpg;das Ungeheuer\nmonstras;https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Hans_Baldung_-_Stehende_Hexe_mit_Ungeheuer.jpg/539px-Hans_Baldung_-_Stehende_Hexe_mit_Ungeheuer.jpg
 keuchen.jpg;keuchen - sunkiai alsuoti;http://www.aachener-zeitung.de/polopoly_fs/1.890688.1407680503!/httpImage/image.jpg_gen/derivatives/zva_quer_540/image.jpg
 einsperren.jpg;einsperren - įkalinti;http://www.berliner-kurier.de/image/4720290/2x1/940/470/431885abc8cee991761f0ff00606b9d/sU/14871c0003276d87-jpg.jpg
 schleifen.jpg;schleifen - vilkti;http://torqueandtread.com/wp-content/uploads/2015/11/deathdefyingmoped-702x336.jpg
@@ -299,7 +299,7 @@ strecken.jpg;strecken - ištiesti;http://static.livingathome.de/bilder/d4/b3/206
 enthalten.jpg;enthalten - turėti savyje;http://www.makemuscles.de/wp-content/uploads/2014/11/vitamin-b-alles-was-du-darueber-wissen-musst-und-in-welchen-lebensmitteln-vitamin-b-enthalten-ist.jpg
 genugtuung.jpg;die Genugtuung\npasitenkinimas;http://www.watson.ch/imgdb/b745/Qx,E,0,41,1509,849,627,416,250,185/2026832125656224
 neidisch.jpg;neidisch - pavydus; http://previews.123rf.com/images/kzenon/kzenon1312/kzenon131200013/24283624-D-nne-und-dicke-Frau-Messung-Taille-mit-Ma-band-eine-Frau-die-ungl-cklich-oder-neidisch-Studio-gedre-Lizenzfreie-Bilder.jpg
-verbergen.jpg;verbergen - slėpti;https://thumbs.dreamstime.com/x/het-aziatische-bedrijfsmens-verbergen-achter-masker-5549867.jpg
+verbergen.jpg;verbergen\nslėpti;https://thumbs.dreamstime.com/x/het-aziatische-bedrijfsmens-verbergen-achter-masker-5549867.jpg
 versperren.jpg;versperren - užtverti;http://static1.hln.be/static/photo/2015/7/11/13/20150715194843/album_large_7871878.jpg
 betasten.jpg;betasten -čiuopti;http://deredactie.be/polopoly_fs/1.1104801!image/2992277546.jpg_gen/derivatives/landscape670/2992277546.jpg
 widerstehen.jpg;widerstehen - atsispirti;http://imworld.aufeminin.com/dossiers/D20121209/plaetzchen-widerstehen-2-102534_L.jpg
@@ -307,7 +307,7 @@ schlendern.jpg;schlendern - slampinėti;https://thumbs.dreamstime.com/x/verbinde
 umstand.jpg;der Umstand - aplinkybė;http://l7.alamy.com/zooms/2f36463439b74acda2d26dd2b1549ef1/pregnant-woman-sitting-on-a-bench-f4bebj.jpg
 seufzen.jpg;seufzen - dūsauti;http://www.daserste.de/information/wissen-kultur/wissen-vor-acht-werkstatt/sendung-werkstatt/warum-seufzen-wir-102~_v-facebook1200_e2de6e.jpg
 kiste.jpg;die Kiste - dėžė;http://www.mare-me.de/media/image/thumbnail/1926_0_900x800.jpg
-erzielen.jgp;erzielen - pasiekti;http://www.deutsche-startups.de/wp-content/uploads/2014/04/ds-profit.jpg
+erzielen.jpg;erzielen - pasiekti;http://www.deutsche-startups.de/wp-content/uploads/2014/04/ds-profit.jpg
 hüten.jpg;hüten - saugoti;http://www.from-carolyns-home.de/pic_65_3_.jpg
 entkommen.jpg;entkommen - pasprukti;http://assets.cdn.moviepilot.de/files/fc908fb27bc67678756788326fe5e41c47305ae3911f0a881fa486d0a8c0/bunker-es-gibt-kein-entkommen.jpg
 bucken.jpg;sich bücken - pasilenkti;http://www.pratscher.at/wp-content/uploads/b%C3%BCcken-heben-tragen.jpg
@@ -348,7 +348,7 @@ kerl.jpg;der Kerl - vyrukas;http://images.kino.de/flbilder/max07/auto07/auto19/0
 begierig.jpg;begierig - geidžiantis;http://us.123rf.com/450wm/goodshotalan/goodshotalan1009/goodshotalan100900039/7883210-begierig-hund-cartoon.jpg?ver=6
 hullen.jpg;hüllen - apgaubti;http://media2.giga.de/2013/07/25-skurrile-iphone-huellen-teaser.jpg
 pflegen.jpg;pflegen - slaugyti;http://www.pflegeinfos-pflegeversicherung.com/wp-content/uploads/2013/09/Selber-pflegen1.jpg
-schleier.jpg;der Schleier - šydas;https://www.ja.de/media/app/bildgalerie/bilder/728/Veil_10077-068.jpg
+schleier.jpg;der Schleier\nšydas;https://www.ja.de/media/app/bildgalerie/bilder/728/Veil_10077-068.jpg
 wiegen.jpg;wiegen - sverti;http://www.haustiere-wissen.de/images/pics/meerschweinchen-gewicht.jpg
 beeindrucken.jpg;beeindrucken\npadaryti įspūdį;http://www.wie-bekomme-ich-eine-freundin.de/wp-content/uploads/2011/08/88.jpg
 zweig.jpg;der Zweig - šaka;https://provinzfotos.files.wordpress.com/2010/04/kirsche_1.jpg
@@ -356,7 +356,7 @@ dehnen.jpg;dehnen - ištęsti;http://images.womenshealth.de/fm/1/thumbnails/sh_s
 beleidigen.jpg;beleidigen - įžeisti;http://www.paradisi.de/images_artikel/1/15571_0.jpg
 strebsam.jpg;strebsam - uolus;http://static.zoonar.de/img/www_repository3/f0/48/32/10_4e0fba04e0d0ffe3b09a540a2922e56b.jpg
 erlaubnis.png;die Erlaubnis\nleidimas;https://www.impact-group.de/pics/erlaubnis-impactbusiness.png
-verteidigung.jpg;die Verteidigung - gynyba;http://schach-forstenried.de/assets/images/Franzosische_Verteidigung1.jpg
+verteidigung.jpg;die Verteidigung\ngynyba;http://schach-forstenried.de/assets/images/Franzosische_Verteidigung1.jpg
 schmieden.jpg;schmieden - kalti;https://i.ytimg.com/vi/E88EP9iLiJo/hqdefault.jpg
 beibringen.jpg;beibringen - išmokyti;http://www.kinder-tipps.com/wp-content/uploads/2014/05/kind-fahrradfahren-beibringen.jpg
 zettel.gif;der Zettel - raštelis;https://yourdailygerman.com/wp-content/uploads/2012/05/zettel.gif
@@ -397,7 +397,7 @@ schiedsrichter.jpg;der Schiedsrichter - teisėjas;http://www.srtg-wil.ch/uploads
 ausrede.jpg;die Ausrede - atsikalbinėjimas;http://www.kerstins-nostalgia.de/images/kunde/Bilder%20Lustiges/Ausreden.jpg
 sturzen.jpg;stürzen - nuvirsti;http://bewegungstherapie.at/wordpress/wp-content/uploads/2015/10/neu_subscription_l_c_thorstenschmitt_-_fotolia_com_.jpg
 klemmen.jpg;klemmen - sugnybti;http://www.gereedschapcentrum.nl/media/catalog/product/cache/1/image/265x265/17f82f742ffe127f42dca9de82fb58b1/c/b/cb30e8f996f244c406c33e6ee4b879ce.jpg
-wehren.jpg;sich wehren - gintis;http://media05.regionaut.meinbezirk.at/2016/01/25/9910712_web.jpg
+wehren.jpg;sich wehren\ngintis;http://media05.regionaut.meinbezirk.at/2016/01/25/9910712_web.jpg
 wühlen.jpg;wühlen - knisti;http://www.natur-portrait.de/images/upload/orig/IY3gkp.jpg
 beruhen.jpg;beruhen - remtis;http://cdn2-www.comingsoon.net/assets/uploads/2016/09/buffythevampireslayer.jpg
 ratlos.jpg;ratlos - bejėgis;http://www.adpic.de/data/picture/detail/Ratlos_die_Schultern_zucken_279383.jpg
@@ -433,23 +433,23 @@ kapuze.jpg;kapuze;die Kapuze - gaubtas;http://bz-fotografie.de/wp-content/upload
 unbeweglich.jpg;unbeweglich - nejudantis;http://www.apotheken-umschau.de/multimedia/105/279/156/36236951569.jpg
 zwingen.jpg;zwingen - versti;http://lowres.cartoonstock.com/death-gun_control-guns-user-point_and_click-kill-mban1468_low.jpg
 brechen.jpg;brechen - laužti;https://audiosaul.de/wp-content/uploads/2015/09/lanze-brechen.jpg
-ruckgrat.jpg;der Rückgrat - stuburas;https://contentpool.wirtschaftsverlag.at/files/uploads/images/2014/07/07/rueckgrat.jpg
+ruckgrat.jpg;der Rückgrat\nstuburas;https://contentpool.wirtschaftsverlag.at/files/uploads/images/2014/07/07/rueckgrat.jpg
 tadeln.jpg;tadeln - peikti;https://thumbs.dreamstime.com/z/tadeln-sie-sie-auf-angestelltem-10850989.jpg
 anwenden.jpg;anwenden\nvartoti, pritaikyti;http://www.businessplan-easy.ch/images/businessplan-on.jpg
 merken.jpg;merken - įsiminti;http://pad1.whstatic.com/images/thumb/c/c4/Remember-All-50-States-of-USA-Step-3-Version-2.jpg/728px-Remember-All-50-States-of-USA-Step-3-Version-2.jpg
 schweifen.jpg;schweifen - klaidžioti;http://legasthenie-byebye.de/wp-content/uploads/2016/07/Blick-fokussieren.jpg
-stapel.jpg;der Stapel - krūva;https://thumbs.dreamstime.com/x/stapel-tijdschriften-7763064.jpg
+stapel.jpg;der Stapel\nkrūva;https://thumbs.dreamstime.com/x/stapel-tijdschriften-7763064.jpg
 gesetz.jpg;das Gesetz - įstatymas;http://res.cloudinary.com/hxmj4muxr/image/upload/v1/6/2013/11/Schneeraeumen-Gesetz.jpg
 zahmen.jpg;zähmen - prijaukinti;http://static.cosmiq.de/data/de/e18/21/e18215997cb0d468864a9b18879add44_1_orig.jpg
 lodern.jpg;lodern - liepsnoti;http://m.muensterschezeitung.de/var/storage/images/wn/startseite/muensterland/kreis-steinfurt/saerbeck/1933365-saerbeck-vier-osterfeuer-lodern-in-saerbeck/58444449-1-ger-DE/Saerbeck-Vier-Osterfeuer-lodern-in-Saerbeck_image_1024_width.jpg
 brei.jpg;der Brei - košė;http://a.ctimg.net/wZZcR3HISDC0OxDwhiThHw/lemon-ricotta-matzo-brei-recipe.jpg
-verantwortlich.jpg;verantwortlich - atsakingas;http://blog.setzwein.com/wp-content/uploads/2012/05/Setzling-in-Hand-300x300.jpg
+verantwortlich.jpg;verantwortlich\natsakingas;http://blog.setzwein.com/wp-content/uploads/2012/05/Setzling-in-Hand-300x300.jpg
 bann.jg;der Bann - užkeikimas;https://thumbs.dreamstime.com/z/wizard-spell-book-11790609.jpg
 umgeben.jpg;umgeben - apsupti;http://sprechblasen.blogsport.de/images/surroundedbyidiots.jpg
 umkommen.jpg;umkommen - žūti;http://www.passco.de/uploads/pics/14_luechenscluss_1.jpg
 zocken.jpg;zocken - lošti;http://www.lachkunst.com/pdata/t/l-727.jpg
 schlupfen.jpg;schlüpfen - ristis;http://bilder.augsburger-allgemeine.de/img/incoming/crop31008777/7197219193-ctopTeaser/SchildkroetenschlupfRosenheim1.jpg
-vergnugen.jpg;das Vergnügen - malonumas;http://www.duden.de/_media_/full/V/Vergnuegen-201100282716.jpg
+vergnugen.jpg;das Vergnügen\nmalonumas;http://www.duden.de/_media_/full/V/Vergnuegen-201100282716.jpg
 qualen.jpg;quälen - kankinti;http://quälen.net/wp-content/uploads/2013/05/cropped-qu%C3%A4len.net_.jpg
 arger.jpg;der Ärger - pyktis, bėda;http://www.smi-seminare.de/wp-content/uploads/2014/01/w%C3%BCtender-chef.jpg
 vernunft.jpg;die Vernunft - protas;http://scienceblogs.de/zoonpolitikon/wp-content/blogs.dir/22/files/2012/10/i-eb4e9222be273d32bfc4b361418934ac-KomplementKampa1.jpg
@@ -463,7 +463,7 @@ schwellen.jpg;schwellen - tinti;https://cambraskade.files.wordpress.com/2011/06/
 drohen.jpg;drohen - grąsinti;http://www.adpic.de/data/picture/detail/Mit_der_Faust_drohen_198250.jpg
 prugeln.jpg;prügeln - mušti;http://bilder.t-online.de/b/66/31/78/16/id_66317816/610/tid_da/vincent-lecavalier-von-den-philadelphia-flyers-pruegelt-sich-mit-steve-oleksy-von-den-washington-capitals-.jpg
 gegenteil.jpg;das Gegenteil - priešingybė;https://www.grundschulmaterial.de/preview/Deutsch/Klasse%203/Grammatik/Adjektive/Gegenteil/Bild-Wort-Karten-Adjektive-Gegenteil-1-20-000130748-1.jpg
-stiefel.jpg;der Stiefel - auliniai batai;https://s-media-cache-ak0.pinimg.com/236x/13/e3/78/13e3781685111176f96cab420c44ae99.jpg
+stiefel.jpg;der Stiefel\nauliniai batai;https://s-media-cache-ak0.pinimg.com/236x/13/e3/78/13e3781685111176f96cab420c44ae99.jpg
 bedecken.jpg;bedecken, decken - dengti;http://www.oztorah.com/wp-content/uploads/2008/06/bedecken.jpg
 strafarbeit.jpg;die Strafarbeit -bausmė;http://trithemius.de/wp-content/uploads/2012/01/sch%C3%B6ner-quatsch1.jpg
 basteln.jpg;basteln - meistrauti;https://www.frag-mutti.de/images/uploads/de/head/40868/xFische_basteln.jpg.pagespeed.ic.57XVa1OR2i.jpg
@@ -519,7 +519,7 @@ verraten.jpg;verraten - išduoti paslaptį;http://verraten.net/wp-content/upload
 wirbeln.jpg;wirblen - sūkuriuoti;https://www.kunst-fuer-alle.de/media_kunst/img/37/m/37_157946.jpg
 ermahnen.jpg;ermahnen - raginti;http://www.tipps.net/wp-content/uploads/2012/06/kind-ermahnen.jpg
 bewirken.jpg;bewirken - sukelti;https://cdn.psychologytoday.com/sites/default/files/field_blog_entry_images/Cause-Effect.jpg
-stuss.gif;der Stuss - nesąmonė;http://www.bencourtney.com/ebooks/lear/images/383.gif
+stuss.gif;der Stuss\nnesąmonė;http://www.bencourtney.com/ebooks/lear/images/383.gif
 belauschen.jpg;belauschen\nslapta klausytis;https://img.posterlounge.de/images/wbig/poster-belauschen-174138.jpg
 hindern.jpg;hindern - trukdyti;http://www.dw.com/image/16083534_303.jpg
 schummeln.jpg;schummeln - sukčiauti;http://www.hilfreich.de/sites/default/files/imagecache/article_image/images/fotolia_27571365_subscription_l.jpg
@@ -571,7 +571,7 @@ unbeliebt.jpg;unbeliebt - nepopuliarus;http://bilder.bild.de/fotos-skaliert/10-g
 seil.jpg;das Seil - virvė;http://static7.depositphotos.com/1241729/733/i/950/depositphotos_7337725-Hanf-seil.jpg
 verdacht.jpg;der Verdacht - įtarimas;https://i.vimeocdn.com/video/573135690.jpg?mw=1920&mh=1080&q=70
 ablenken.jpg;ablenken - nukreipti;https://data.motor-talk.de/data/galleries/0/130/5741/49469859/nicht-ablenken-lassen-4293127367441899225.jpg
-widmen.jpg;widmen - pašvęsti;http://i.dailymail.co.uk/i/pix/2010/05/19/article-0-06C15204000005DC-342_468x650.jpg
+widmen.jpg;widmen\npašvęsti;http://i.dailymail.co.uk/i/pix/2010/05/19/article-0-06C15204000005DC-342_468x650.jpg
 anweisung.png;die Anweisung - instrukcija;http://www.java-programmieren.com/bilder/Struktogramm-if-else-Anweisung.png
 diener.jpg;der Diener - tarnas;https://t3.ftcdn.net/jpg/00/17/07/08/500_F_17070887_iDOLEEWXfnf6BP4b4hdvcXCTf1MpD69m.jpg
 fliehen.jpg;fliehen - pabėgti;http://bilder.t-online.de/b/71/10/58/48/id_71105848/610/tid_da/nahe-der-stadt-suruc-in-der-tuerkischen-provinz-sanliurfa-fliehen-syrische-kurden-ueber-die-grenze-.jpg
@@ -589,7 +589,7 @@ gerucht.jpg;das Gerücht - gandas;http://www.telecom-handel.de/img/5/0/5/4/2/6/G
 vernichten.jpg;vernichten - sunaikinti;https://www.reisswolf-sachsen.de/fileadmin/_migrated/pics/vernichten_von_akten_Chemnitz.jpg
 schmucken.jpg;schmücken - puošti;http://www.weihnachtswelt.org/_img/weihnachtsbaum-schmuecken-dekorieren.jpg
 radieschen.jpg;das Radieschen - ridikas;http://www.essen-gesundheit.de/wp-content/uploads/2013/08/radieschen.jpg
-zeugnis.png;das Zeugnis - pažymėjimas;https://schulkartei.com/wp-content/uploads/2014/06/SK-Zeugnis.png
+zeugnis.png;das Zeugnis\npažymėjimas;https://schulkartei.com/wp-content/uploads/2014/06/SK-Zeugnis.png
 schwatzen.jpg;schwatzen - plepėti;http://l7.alamy.com/zooms/e2df1b7bc06247bfb054b36916e258fb/four-people-or-friends-in-the-sauna-gk9ba7.jpg
 
 
