@@ -14,7 +14,7 @@ schachtel.jpg;die Schachtel - dėžė;http://www.duden.de/_media_/full/S/Schacht
 stille.jpg;die Stille - tyla;http://www.enjoy-your-evolution.com/wp-content/uploads/2011/11/Stille-world-at-rest-800x558.jpg
 staub.jpg;der Staub - dulkės;http://www.speed-magazin.de/img/news/1382183887.jpg
 erheben.jpg;sich erheben - pakilti;http://mux.gmxhome.de/malundzeichenkurse/images/oelmalen/wuerth002/figur/DSCF0009.jpg
-blass.jpg;blass, fahl - blyškus;http://cdn.trendhunterstatic.com/thumbs/pale-beauty.jpeg
+blass.jpg;blass, fahl\nblyškus;http://cdn.trendhunterstatic.com/thumbs/pale-beauty.jpeg
 dusternis.jpg;die Düsternis - tamsuma;http://www.trincerone.com/archive/2010/Carpathia/I/Carpathia_I_47.jpg
 geschmeidig.jpg;geschmeidig, biegsam\nlankstus;http://images.china.cn/attachement/jpg/site1003/20130128/001372acd6f312702c1e01.jpg
 weidenholz.jpg;der Weidenholz - gluosnis;http://www.landes-zeitung.de/cms_media/module_bi/286/143010_0_articledetail_270_008_4196859_feKorbWeid.jpg
@@ -252,7 +252,7 @@ spreizen.jpg;spreizen - išskėsti;http://www.sat1.de/var/sat1/storage/images/me
 stiel.jpg;der Stiel - stiebas;http://www.geo.de/reisen/community/bild/regular/512825/der-Stiel-vom-Blatt.jpg
 neigen.gif;neigen - lenkti;http://img1.brigitte.de/asset/Image/figur/fitness/locker-bleiben/neigen-1.gif
 hinken.jpg;hinken - šlubuoti;https://therevjs.files.wordpress.com/2013/05/crutches.jpg
-ausgerechnet.jpg;ausgerechnet - kaip tik, iš visų;http://content.deepsilver.com/kochmedia/shop/images/deatch/xl/dvm020122d_3.jpg
+ausgerechnet.jpg;ausgerechnet\nkaip tik, iš visų;http://content.deepsilver.com/kochmedia/shop/images/deatch/xl/dvm020122d_3.jpg
 ast.jpg;der Ast - šaka;http://images.digopaul.com/wp-content/uploads/related_images/2015/09/08/ast_2.jpg
 entgegnen.jpg;entgegnen - atsikirsti;http://www.fm1today.ch/2016/05/20160519115751951-640x480.jpg
 waagerecht.gif;waagerecht - horizontalus;http://www.bildung-lsa.de/files/bf455d13f71cd65c0de06607c70b57ec/Vier_gewinnt.gif
@@ -269,7 +269,7 @@ schaufeln.jpg;schaufeln - kasti;http://hausbaublog.docma.de/galerie/picture-0271
 stanbdild.jpg;das Standbild - statula;https://upload.wikimedia.org/wikipedia/commons/e/e0/Standbild_duden_zuse.jpg
 mahlzeit.jpg;die Mahlzeit - valgis;http://img01.lachschon.de/images/80501_mahlzeit-medium.jpg
 hauen.jpg;hauen - mušti;http://www.elternwissen.com/fileadmin/content/magazin/erziehung/erziehungs-tipps/Aggressive-Kinder.jpg
-erwischen.jpg;erwischen - pagauti;http://static.bz-berlin.de/data/uploads/multimedia/archive/00432/erwischt_432400a.jpg
+erwischen2.jpg;erwischen\npagauti;http://static.bz-berlin.de/data/uploads/multimedia/archive/00432/erwischt_432400a.jpg
 ratschlag.jpg;der Ratschlag - patarimas;http://www.bernd-slaghuis.de/wp/wp-content/uploads/2015/07/Blog_Ratschlag.jpg
 kamin.jpg;der Kamin - židinys;http://doerfler.com/holzbrennt/wp-content/gallery/kamin-amp-specksteinofen/kamin-speck-08.jpg
 klettern.jpg;klettern - įlipti;http://www.klettern.de/sixcms/media.php/6/KL_Quotable_Jack_DavePickford_Silhouette_Ormes154875.jpg
@@ -297,7 +297,7 @@ aufwand.jpg;der Aufwand - kaštai;http://www.gida.de/testcenter/wirtschaft/fdw-d
 weigern.jpg;sich weigern - vengti;http://previews.123rf.com/images/hjalmeida/hjalmeida0811/hjalmeida081100183/3903495-ein-uncorrupt-Gesch-ftsleute-weigern-Geld-von-Bestechungsgeldern-selektive-Fokus--Lizenzfreie-Bilder.jpg
 strecken.jpg;strecken - ištiesti;http://static.livingathome.de/bilder/d4/b3/20634/galleryimage/1.jpg
 enthalten.jpg;enthalten - turėti savyje;http://www.makemuscles.de/wp-content/uploads/2014/11/vitamin-b-alles-was-du-darueber-wissen-musst-und-in-welchen-lebensmitteln-vitamin-b-enthalten-ist.jpg
-genugtuung.jpg;die Genugtuung - pasitenkinimas;http://www.watson.ch/imgdb/b745/Qx,E,0,41,1509,849,627,416,250,185/2026832125656224
+genugtuung.jpg;die Genugtuung\npasitenkinimas;http://www.watson.ch/imgdb/b745/Qx,E,0,41,1509,849,627,416,250,185/2026832125656224
 neidisch.jpg;neidisch - pavydus; http://previews.123rf.com/images/kzenon/kzenon1312/kzenon131200013/24283624-D-nne-und-dicke-Frau-Messung-Taille-mit-Ma-band-eine-Frau-die-ungl-cklich-oder-neidisch-Studio-gedre-Lizenzfreie-Bilder.jpg
 verbergen.jpg;verbergen - slėpti;https://thumbs.dreamstime.com/x/het-aziatische-bedrijfsmens-verbergen-achter-masker-5549867.jpg
 versperren.jpg;versperren - užtverti;http://static1.hln.be/static/photo/2015/7/11/13/20150715194843/album_large_7871878.jpg
@@ -315,7 +315,7 @@ lassig.jpg;lässig - nerūpestingas;http://babyecochic.com/wp-content/uploads/20
 schlangeln.jpg;schlängeln - vingiuoti;http://footage.framepool.com/shotimg/qf/948524630-wuesten-hornviper-schlaengeln-giftschlange-kriechen.jpg
 zusatzlich.jpg;zusätzlich - papildomai;http://bc02.rp-online.de/polopoly_fs/1.4354458.1404199695!image/347678111.jpg_gen/derivatives/d540x303/347678111.jpg
 beutel.jpg;der Beutel - maišelis;http://www.andracor.com/out/pictures/z1/sol_mittelalter-beutel-abenteurer-hellbraun_1_z1.jpg
-beherrschen.jpg;beherrschen - dominuoti;http://www.bsmparty.de/img2/pics/gruppen/21954_lo.jpg
+beherrschen.jpg;beherrschen\ndominuoti;http://www.bsmparty.de/img2/pics/gruppen/21954_lo.jpg
 flink.gif;flink - vikrus;http://thecontextofthings.com/wp-content/uploads/2015/04/jack-be-nimble.gif
 windmühle.jpg;die Windmühle - malūnas;http://www.windmuehle-auguste.de/images/bild-109.jpg
 beleben.jpg;beleben - atgaivinti;https://beleben.files.wordpress.com/2016/03/beleben-birmingham-new-st-stn-02327.png?w=700
@@ -355,7 +355,7 @@ zweig.jpg;der Zweig - šaka;https://provinzfotos.files.wordpress.com/2010/04/kir
 dehnen.jpg;dehnen - ištęsti;http://images.womenshealth.de/fm/1/thumbnails/sh_stretching_frau_800x462.jpg.26706.jpg
 beleidigen.jpg;beleidigen - įžeisti;http://www.paradisi.de/images_artikel/1/15571_0.jpg
 strebsam.jpg;strebsam - uolus;http://static.zoonar.de/img/www_repository3/f0/48/32/10_4e0fba04e0d0ffe3b09a540a2922e56b.jpg
-erlaubnis.png;die Erlaubnis - leidimas;https://www.impact-group.de/pics/erlaubnis-impactbusiness.png
+erlaubnis.png;die Erlaubnis\nleidimas;https://www.impact-group.de/pics/erlaubnis-impactbusiness.png
 verteidigung.jpg;die Verteidigung - gynyba;http://schach-forstenried.de/assets/images/Franzosische_Verteidigung1.jpg
 schmieden.jpg;schmieden - kalti;https://i.ytimg.com/vi/E88EP9iLiJo/hqdefault.jpg
 beibringen.jpg;beibringen - išmokyti;http://www.kinder-tipps.com/wp-content/uploads/2014/05/kind-fahrradfahren-beibringen.jpg
@@ -408,7 +408,7 @@ befassen.jpg;sich befassen - užsiimti;http://diepresse.com/images/uploads/6/a/0
 sagenhaft.jpg;sagenhaft - legendinis;http://www.mdr.de/tv/sagenhaft-unstrut-100-resimage_v-variantSmall16x9_w-320.jpg?version=15502
 rein.jpg;rein - grynas;http://cha-ahse.org/store/product_images/w/220/reinaid__47406_zoom.jpg
 zeugen.jpg;zeugen - gimdyti;http://morganrauscher.com/morganrauscher/wp-content/uploads/2012/12/c.jpg
-bericht.gif;der Bericht - pranešimas;http://emk-gfs.de/wp-content/uploads/2014/07/Bericht.gif
+bericht.gif;der Bericht\npranešimas;http://emk-gfs.de/wp-content/uploads/2014/07/Bericht.gif
 beten.jpg;beten - melstis;http://www.livenet.ch/sites/default/files/media/224579-beten.jpg
 einfallen.jpg;einfallen - ateiti į galvą;https://www.uni-duesseldorf.de/home/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Bilder_2013/Visuals_Gluehlampe_600x400-4_reimport.jpg
 folter.jpg;die Folter - kančia;http://folter.org/wp-content/uploads/2013/03/folter-in-der-heutigen-zeit.jpg
@@ -476,7 +476,7 @@ schluchzen.jpg;schluchzen - raudoti;http://www.20min.ch/diashow/113048/113048-PG
 trosten.jpg;trösten - guosti;https://rosanerpanda09.files.wordpress.com/2010/06/trost-nicht-traurig-sein.jpg
 held.jpg;der Held - didvyris;http://www.charlotteobserver.com/sports/spt-columns-blogs/scott-fowler/lbe60q/picture94316882/ALTERNATES/FREE_640/Ryan-Held(3)
 erringen.jpg;erringen - pasiekti;http://img.fifa.com/mm/photo/tournament/competition/01/60/57/22/1605722_full-lnd.jpg
-auftauchen.jpg;auftauchen - išdygti;http://fscomps.fotosearch.com/compc/FSD/FSD036/x10644171.jpg
+auftauchen.jpg;auftauchen\nišdygti;http://fscomps.fotosearch.com/compc/FSD/FSD036/x10644171.jpg
 johlen.jpg;johlen - šūkauti;http://s.hswstatic.com/gif/wolves-howling-at-moon-2.jpg
 rucktritt.jpg;der Rücktritt - atsistatydinimas;http://bilder.t-online.de/b/74/23/28/18/id_74232818/610/tid_da/sein-schwerster-gang-fifa-boss-sepp-blatter-bei-seinem-angekuendigten-ruecktritt-.jpg
 zutaten.jpg;die Zutaten - ingredientai;https://jessiliciouskitchen.files.wordpress.com/2014/01/zutaten.jpg
@@ -507,7 +507,7 @@ ungeduldig.jpg;ungeduldig - nekantrus;http://static.zoonar.de/img/www_repository
 bergen.jpg;bergen - slėpti;http://johnkuypers.com/wp-content/uploads/2015/04/something-to-hide.jpg
 entlocken.jpg;entlocken - išvilioti;http://pad3.whstatic.com/images/thumb/7/71/Elicit-a-Confession-Step-2.jpg/aid62114-728px-Elicit-a-Confession-Step-2.jpg
 huf.jpg;der Huf - kanopa;https://thumbs.dreamstime.com/z/der-huf-der-kuh-30864102.jpg
-aufruhr.jpg;der Aufruhr - maištas, susijaudinimas;http://diepresse.com/images/uploads/4/e/5/734437/aufruhr_nach_koranverbrennung_afghanistan20120222193649.jpg
+aufruhr.jpg;der Aufruhr\nmaištas, susijaudinimas;http://diepresse.com/images/uploads/4/e/5/734437/aufruhr_nach_koranverbrennung_afghanistan20120222193649.jpg
 veranstalten.jpg;veranstalten - organizuoti;http://www.ln-online.de/var/storage/images/ln/lokales/luebeck/studenten-veranstalten-internationale-forschungstagung/58060925-2-ger-DE/Studenten-veranstalten-internationale-Forschungstagung_pdaArticleWide.jpg
 busch.jpg;der Busch - krūmas;http://www.duden.de/_media_/full/B/Busch-201100284159.jpg
 ferse.jpg;die Ferse - kulnas;https://images.gutefrage.net/media/fragen-antworten/bilder/218829003/2_original.jpg?v=1471839418000
@@ -520,7 +520,7 @@ wirbeln.jpg;wirblen - sūkuriuoti;https://www.kunst-fuer-alle.de/media_kunst/img
 ermahnen.jpg;ermahnen - raginti;http://www.tipps.net/wp-content/uploads/2012/06/kind-ermahnen.jpg
 bewirken.jpg;bewirken - sukelti;https://cdn.psychologytoday.com/sites/default/files/field_blog_entry_images/Cause-Effect.jpg
 stuss.gif;der Stuss - nesąmonė;http://www.bencourtney.com/ebooks/lear/images/383.gif
-belauschen.jpg;belauschen - slapta klausytis;https://img.posterlounge.de/images/wbig/poster-belauschen-174138.jpg
+belauschen.jpg;belauschen\nslapta klausytis;https://img.posterlounge.de/images/wbig/poster-belauschen-174138.jpg
 hindern.jpg;hindern - trukdyti;http://www.dw.com/image/16083534_303.jpg
 schummeln.jpg;schummeln - sukčiauti;http://www.hilfreich.de/sites/default/files/imagecache/article_image/images/fotolia_27571365_subscription_l.jpg
 stechen.jpg;stechen - durti;http://bc01.rp-online.de/polopoly_fs/1.4357631.1404283312!image/956818281.jpg_gen/derivatives/d540x303/956818281.jpg
@@ -541,15 +541,15 @@ schmeissen.jpg;schmeißen - mesti;http://static.zoonar.de/img/www_repository2/a6
 begreifen.jpg;begreifen - suprasti;http://img.fotocommunity.com/begreifen-d834ffe9-c572-4551-8674-7882a7f2b9e8.jpg?height=1080
 vornehmen.jpg;sich vornehmen - imtis, pasiryžti;https://scontent.cdninstagram.com/t51.2885-15/s750x750/sh0.08/e35/14280503_917365628395375_595853327_n.jpg?ig_cache_key=MTM0MjY3NDE3NjU2MTI1NDA5NQ%3D%3D.2
 entgegen.jpg;entgegen - priešingai;http://media.gettyimages.com/photos/the-weaker-sex-women-body-builders-offer-a-strong-argument-to-the-as-picture-id97296582
-gleichmut.jpg;der Gleichmut - abejingumas;http://www.wiechova.de/images/illu_gleichmut2.jpg
+gleichmut.jpg;der Gleichmut\nabejingumas;http://www.wiechova.de/images/illu_gleichmut2.jpg
 eisern.jpg;eisern - geležinis;https://upload.wikimedia.org/wikipedia/commons/a/ad/Iron_electrolytic_and_1cm3_cube.jpg
 mut.jpg;der Mut - drąsa;http://www.teamworkandleadership.com/wp-content/uploads/2013/07/having-courage-doesnt-mean-you-arent-afraid.jpg
 verengen.jpg;verengen - susiaurėti;http://media.kunst-fuer-alle.de/img/37/m/37_1593368.jpg
-gespenst.jpg;das Gespenst - vaiduoklis; http://www.peppauf.de/WebRoot/Store2/Shops/62361801/4D02/27CC/82AF/1597/7AF6/C0A8/28B8/834B/9394_0.jpg
+gespenst.jpg;das Gespenst\nvaiduoklis; http://www.peppauf.de/WebRoot/Store2/Shops/62361801/4D02/27CC/82AF/1597/7AF6/C0A8/28B8/834B/9394_0.jpg
 schleichen.jpg;schleichen - sėlinti;http://fscomps.fotosearch.com/compc/TBZ/TBZ174/dog01x024.jpg
 belastingen.jpg;belästigen - įkyrėti;http://www.berlinjournal.biz/wp-content/uploads/2016/01/Margarete-Stokowski.jpg
 bescherung.jpg;die Bescherung - dovana;http://www.raffini-kinderevents.de/wp-content/uploads/Nikolaus-Weihnachtsmann-Bescherung-4.jpg
-vorwurf.jpg;der Vorwurf - priekaištas;http://previews.123rf.com/images/ostill/ostill1301/ostill130100339/17419673-ein-caucasian-Familie-Vater-Mutter-Tochter-Mann-Streit-Vorwurf-in-der-Silhouette-Studio-isoliert-auf-Lizenzfreie-Bilder.jpg
+vorwurf.jpg;der Vorwurf\npriekaištas;http://previews.123rf.com/images/ostill/ostill1301/ostill130100339/17419673-ein-caucasian-Familie-Vater-Mutter-Tochter-Mann-Streit-Vorwurf-in-der-Silhouette-Studio-isoliert-auf-Lizenzfreie-Bilder.jpg
 schwach.jpg;schwach - silpnas;http://t2.ftcdn.net/jpg/00/56/78/55/400_F_56785572_hQU96DWV9JsMD2ei90UVzKAez1pBQNwy.jpg
 pfote.jpg;die Pfote - letena;https://upload.wikimedia.org/wikipedia/commons/6/6a/2010-03-14-Mangos_Pfote.JPG
 weich.jpg;weich - minkštas;http://creoflick.net/images/Rachel-Weich-748.jpg
@@ -565,7 +565,7 @@ opfern.jpg;opfern - paaukoti;http://www.stupidedia.org/images/thumb/0/0c/Strand.
 sparen.jpg;sparen - taupyti;http://artikel.nl/uploads/images/WcBjAEErvCma.jpg
 nessel.jpg;die Nessel - dilgėlė;https://upload.wikimedia.org/wikipedia/commons/2/28/Veronica_urticifolia_(Nessel-Ehrenpreis)_IMG_9911.jpg
 zittern.jpg;zittern - drebėti;http://img.abendblatt.de/img/wissen/crop107941653/8422605628-w820-cv16_9-q85/hand-HA-Bilder-Fotogalerien-HAmburg.jpg
-fledermaus.jpg;die Fledermaus - šikšnosparnis;https://upload.wikimedia.org/wikipedia/commons/7/77/Big-eared-townsend-fledermaus.jpg
+fledermaus.jpg;die Fledermaus\nšikšnosparnis;https://upload.wikimedia.org/wikipedia/commons/7/77/Big-eared-townsend-fledermaus.jpg
 versehentlich.png;versehentlich - netyčia;http://images.codingforcharity.org/dmp/20101213/I-Accidentally_20101213045407_reg.png
 unbeliebt.jpg;unbeliebt - nepopuliarus;http://bilder.bild.de/fotos-skaliert/10-gruende-warum-sie-unbeliebt-sind-21298173-24286632/2,w=650,c=0.bild.jpg
 seil.jpg;das Seil - virvė;http://static7.depositphotos.com/1241729/733/i/950/depositphotos_7337725-Hanf-seil.jpg
