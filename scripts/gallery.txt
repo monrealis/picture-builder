@@ -29,7 +29,7 @@ schutteln.jpg;schütteln - purtyti;http://cdn1.spiegel.de/images/image-567584-ga
 erleichterung.jpg;die Erleichterung\npalengvėjimas;http://www.praxisvita.de/sites/default/files/styles/upright/public/morbus-crohn-diagnose-erleichterung.jpg
 eiche.jpg;die Eiche - ąžuolas;http://www.lauftext.de/naturkosmetik/images/eiche.jpg
 ernst.jpg;ernst - rimtas;http://us.cdn281.fansshare.com/photos/arnoldschwarzenegger/arnold-serious-1470498074.jpg
-umklammern.jpg;umklammern - įsikibti;http://thumbs.dreamstime.com/z/umklammern-der-h%C3%A4nde-7609169.jpg
+umklammern.jpg;umklammern - įsikibti;https://thumbs.dreamstime.com/x/clasping-bracelet-bridesmaid-bride-s-hand-42327148.jpg
 bandmass.jpg;das Bandmaß - metras;http://gk-photogalerie.de/galerie0054/bilder/gelbesBandmass.jpg
 gelenk.jpg;das Gelenk\nsąnarys;https://www.body-attack.de/bilder/statisches/gelenknaehrstoffe.jpg
 bogen.jpg;der Bogen - lankas;http://www.sportwaffen-schneider.de/images/4003150.jpg
@@ -62,7 +62,7 @@ gesellschaft.png;die Gesellschaft\ndraugija, visuomenė;http://www.meinrad-betz.
 flattern.jpg;flattern - skraidyti;http://www.natur-portrait.de/images/upload/orig/JainRM.jpg
 teppich.jpg;der Teppich - kilimas;http://www.alleszumteppich.de/images/Ein_turkmenischer_Teppich_vom_Typ_Jamut_Yamut-26833.jpg
 loch.jpg;das Loch - skylė;http://ais.badische-zeitung.de/piece/00/a8/f6/ff/11073279.jpg
-zeichen.jpg;das Zeichen\nženklas;http://thumbs.dreamstime.com/z/keine-hunde-zeichen-erlaubt-28048370.jpg
+zeichen.jpg;das Zeichen\nženklas;http://previews.123rf.com/images/cbenjasuwan/cbenjasuwan1203/cbenjasuwan120300033/12745370-Das-Zeichen-der-Video-berwachung-Zeichen-auf-wei-em-Hintergrund-Lizenzfreie-Bilder.jpg
 muhe.jpg;die Mühe - pastangos;http://3.bp.blogspot.com/-GGgQX0Eqfbo/T9j1DXBHinI/AAAAAAAAAVY/65_BKqUhlak/s1600/effort-rock.jpg
 gestalten.jpg;gestalten - formuoti;https://bonniediazdance.files.wordpress.com/2011/05/blog_shaping.jpg
 hasslich.jpg;hässlich - bjaurus;http://media.npr.org/assets/img/2015/02/27/mutant-carrot-eb1e9b11da5b3e4d4f16522d0886ab5b84f9851d-s900-c85.jpg
@@ -173,7 +173,7 @@ stumm.jpg;stumm - tylus;http://1.cdn.eprofits.com/3adwBIy0mcYXv1Ucz2pvtgAQIqEAuM
 verruf.jpg;der Verruf - blogas vardas;http://cdn2.img.de.sputniknews.com/images/30869/48/308694879.jpg
 reihe.jpg;die Reihe - eilė;http://danielpeter.net/wp-content/uploads/2012/01/punkfuckinrock2.jpg
 blei.jpg;das Blei - švinas;https://upload.wikimedia.org/wikipedia/commons/7/7d/Lead-288819.jpg
-kerze.jpg;die Kerze - žvakė;http://www.lifechannel.ch/images/content/beitrag/kerze_flamme_haende_hoffnung_Fotolia.jpg
+kerze.jpg;die Kerze - žvakė;http://view.stern.de/de/picture/1774073/kerzenlicht-romantische-stimmung-kerzenschein-jazzy78-kerze-erleuchtung-940.jpg
 laterne.jpg;die Laterne - žibintas;http://media.4teachers.de/images/thumbs/image_thumb.14705.png
 schlau.jpg;schlau - gudrus;https://pbs.twimg.com/profile_images/1110075986/Gl_hbirne_400x400.jpg
 wackeln.jpg;wackeln - klibėti;http://www.geo.de/reisen/community/bild/regular/721158/Bitte-nicht-wackeln.jpg
@@ -220,7 +220,7 @@ schicksal.jpg;das Schicksal - likimas;http://crazy-crow.de/wp-content/uploads/20
 laken.jpg;das Laken - paklodė;https://cdn.blogger.de/static/antville/rebellmarkt/images/dipicoma.jpg
 schweiss.jpg;der Schweiß - prakaitas;http://www.runnersworld.de/sixcms/media.php/12/thumbnails/schweiss_460.3001610.jpg.3001617.jpg
 zehe.jpg;die Zehe - pirštas;http://www.duden.de/_media_/full/Z/Zeh-201100281687.jpg
-korb.jpg;der Korb - krepšys;http://america.pink/images/2/4/7/1/3/9/8/en/3-korb.jpg
+korb.jpg;der Korb - krepšys;http://static.memrise.com/uploads/mems/output/2746696-141121193057.png
 leiden-konnen.jpg;nicht leiden können\nnegalėti pakęsti;http://bilder.bild.de/fotos-skaliert/frau-am-schreibtisch-haelt-sich-die-hand-wie-eine-pistole-an-den-kopf-40048137-37764540/4,w=559,c=0.bild.jpg
 bewegung.jpg;die Bewegung - judėjimas;http://s.ndimg.de/image_gallery/new_netdoktor/63/bewegung-gegen-blutgerinnsel-800_id_77754_202763.jpg
 pflanze.jpg;die Pflanze - augalas;http://www.adpic.de/data/picture/detail/Pflanze_in_der_Erde_159054.jpg
@@ -323,7 +323,7 @@ kerker;der Kerker - kalėjimas;https://upload.wikimedia.org/wikipedia/commons/a/
 offentlich.jpg;öffentlich - viešas;http://d5yj58z7unn8l.cloudfront.net/media/catalog/product/cache/1/image/854x/040ec09b1e35df139433887a97daa66f/f/e/federtier_offentlich_pferd_4.jpg
 gemachlich.jpg;gemächlich - lėtai;http://www.aerztezeitung.de/img.ashx?f=/docs/2015/04/09/Joggen-AH.jpg&w=625
 klinke.jpg;die Klinke - durų rankena;http://www.duden.de/_media_/full/K/Klinke-201100286103.jpg
-keule.jpg;die Keule - vėzdas;http://handwerk.com/files/smthumbnaildata/lightboxdetail/2/2/6/1/4/1/Steinzeit.jpg
+keule.jpg;die Keule - vėzdas;https://static.boker.de/images/zoom/09uc3015.jpg
 rohr.jpg;das Rohr - vamzdis;http://www.kutech.de/oscomerce/catalog/images/alu%20rohr.jpg
 wanken.jpg;wanken - svirduliuoti;http://www.auto-news.de/webcore/data/content/Auto_Article_EXT/20858_1204907068367.jpg
 dicht.jpg;dicht - arti;http://l7.alamy.com/zooms/492f787048c9479ebb4516c5a9f17fbe/horse-heads-close-together-g08707.jpg
