@@ -7,7 +7,7 @@ glocke.jpg;die Glocke - varpas;https://upload.wikimedia.org/wikipedia/commons/f/
 kafig.jpg;der Käfig - narvas;http://www.wackelnasen.net/text-Bilder/kaefig.jpg
 flugel.jpg;der Flügel - sparnas;http://www.brendanbody.co.uk/flight_tutorial/images/owl_wing_position_small.jpg
 krallen.gif;die Krallen - nagai;http://www.thp-foren.de/_media/katze/zeichnung-krallenschneiden-hand.gif
-krote.jpg;die Kröte - rupūžė;http://www.saarland-lese.de/files_saarland_lese/bufo_terrestris3_pd.jpg
+krote.jpg;die Kröte - rupūžė;https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Bufo_terrestris3.jpg/300px-Bufo_terrestris3.jpg
 ausnahme.jpg;die Ausnahme - išimtis;http://www.cash-online.de/wp-content/uploads/2010/07/nische-ausnahme.jpg
 aufsicht.png;die Aufsicht\nkontrolė, priežiūra;http://www.publicus-boorberg.de/sixcms/media.php/1199/2012-3_Oeffentliche%20Unternehmen_Herrlinger.png
 schachtel.jpg;die Schachtel - dėžė;http://www.duden.de/_media_/full/S/Schachtel-201100282395.jpg
@@ -17,7 +17,7 @@ erheben.jpg;sich erheben - pakilti;http://mux.gmxhome.de/malundzeichenkurse/imag
 blass.jpg;blass, fahl\nblyškus;http://cdn.trendhunterstatic.com/thumbs/pale-beauty.jpeg
 dusternis.jpg;die Düsternis - tamsuma;http://www.trincerone.com/archive/2010/Carpathia/I/Carpathia_I_47.jpg
 geschmeidig.jpg;geschmeidig, biegsam\nlankstus;http://images.china.cn/attachement/jpg/site1003/20130128/001372acd6f312702c1e01.jpg
-weidenholz.jpg;der Weidenholz - gluosnis;http://www.landes-zeitung.de/cms_media/module_bi/286/143010_0_articledetail_270_008_4196859_feKorbWeid.jpg
+weidenholz.jpg;der Weidenholz - gluosnis;https://www.aktiv-vital.com/images/weide600x600.jpg
 stab.png;der Stab - lazda;http://vignette2.wikia.nocookie.net/harrypotter/images/0/0d/George_Weasley%27s_wand.png/revision/latest?cb=20141014212826&path-prefix=de
 gruselig.jpg;gruselig - šiurpus, baisus;http://bilder.bild.de/fotos-skaliert/gruselig-schaurige-rufe-hinter-grab-frau-auf-friedhof-gefesselt-symbolfoto-29118764-40389940/3,w=650,c=0.bild.jpg
 mahagoni.jpg;das Mahagoni - raudonmedis;http://static1.schoener-wohnen.de/thumbnails/galleryImage/0001/00000000001/36/43/36432_landeseite-mahagoni.jpg
@@ -116,7 +116,7 @@ grubchen.jpg;das Grübchen\nduobutė;http://view.stern.de/de/picture/126550/port
 bohne.jpg;die Bohne - pupa;http://i.ebayimg.com/00/s/NTY2WDg0OQ==/z/PjMAAOSwGzlTw~4M/$_32.JPG?set_id=880000500F
 kurbis.jpg;der Kürbis - moliūgas; http://www.fressbox.at/wordpress/wp-content/uploads/2012/09/fressbox_gelber_zentner.jpg
 pastete.jpg;die Pastete\npaštetas, pyragas;http://s1.srfcdn.ch/images/auftritte/unterhaltung/bilder/node_3582314/53753058-2-ger-DE/bild_s8.jpg
-tauschen.png;tauschen - keistis;https://www.exchange-me.de/images/step03.png?1445794392
+tauschen.png;tauschen - keistis;https://leseoase.files.wordpress.com/2013/05/p1040389.jpg
 futtern.jpg;füttern - maitinti;http://www.adpic.de/data/picture/detail/Eichhoernchen_fuettern_338864.jpg
 verfassen.jpg;verfassen - sukurti;https://www.trauer.de/data/64/editor/image/Fotolia_29049788_S.jpg
 verblufft.jpg;verblüfft - sumišęs;https://frankzio.files.wordpress.com/2011/12/verblfft.jpg
@@ -207,7 +207,7 @@ anstrengenjpg;sich anstrengen - stengtis;https://actiftraining.files.wordpress.c
 sieg.jpg;der Sieg - pergalė;http://www.skionline.ch/images/content/maenner/beat_feuz/portrait/2016/feuz_jubelStM_zoom.jpg
 funkelnd.jpg;funkelnd - žibėti;http://mein.salzburg.com/fotoblog/heimat/assets_c/2008/12/DSC07211-thumb-1024xauto-17545.jpg
 haut.jpg;die Haut - oda;https://upload.wikimedia.org/wikipedia/commons/a/ae/Menschliche_Haut.jpg
-kelch.jpg;der Kelch - taurė;http://america.pink/images/2/4/0/7/0/9/3/en/1-kelch.jpg
+kelch.jpg;der Kelch - taurė;https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Ardagh_chalice.jpg/290px-Ardagh_chalice.jpg
 haken.jpg;der Haken - kablys;http://www.duden.de/_media_/full/H/Haken-201100277856.jpg
 abklingen.jpg;abklingen - nuslūgti;http://www.spectra-magic.de/Vorlagen/Anwendungen/Lumineszenz/L21_Norm-Lifetime_D1_MR.jpg
 mitteilen.jpg;mitteilen - pranešti;http://www.brixner.info/media/a08b77ea-2dc1-4f92-8300-100948745403/mitteilen-ankuendigen-web.jpg
@@ -374,7 +374,7 @@ wahrnehmen.jpg;wahrnehmen - pastebėti;http://karrierebibel.de/wp-content/upload
 schlank.jpg;schlank - lieknas;http://images.womenshealth.de/fm/1/sh_schlank_800x462.jpg
 knubbelig.jpg;knubbelig - kresnas;http://ichef-1.bbci.co.uk/news/660/cpsprodpb/182D4/production/_88182099_dieselwhoisoverdoublethesizeheshouldbewithpdsavetnursero.jpg
 besinnung.jpg;die Besinnung - sąmonė;https://www.allmystery.de/i/ta31483_35kn8cl.jpg
-geist.jpg;der Geist - dvasia;http://roxiecards.com/wp-content/uploads/2013/08/strangleroot-geist.jpg
+geist.jpg;der Geist - dvasia;http://www.schlummerlicht24.de/WebRoot/StoreLDE/Shops/64337956/53E1/D502/8C04/5F1E/A4C9/C0A8/2BB9/41A5/geist2.jpg
 gleiten.jpg;gleiten - slysti;http://www.familie-sport.de/typo3temp/pics/330b3e95a1.jpg
 schubsen.jpg;schubsen - stumti;http://www.kinderstube-sachsen.de/uploads/pics/Fotolia_25313822_XL.jpg
 wirken.gif;wirken - veikti;https://yourdailygerman.com/wp-content/uploads/2014/04/wirken-german.gif
