@@ -135,7 +135,7 @@ verlegen.jpg;verlegen - sumišęs;http://cdn.nsmbl.nl/wp-content/uploads/2012/11
 geschwindigkeit.jpg;die Geschwindigkeit - greitis;http://www.go-handl.at/webseite/wp-content/uploads/2013/03/geschwindigkeit-1.jpg
 aufstieg.jpg;der Aufstieg, der Niedergang;http://www.kinderzeitmaschine.de/uploads/tx_sgkzm/stufenleiter.jpg
 schleppen.jpg;schleppen - tempti;http://thumbs.dreamstime.com/x/schleppen-sie-die-zeile-15775632.jpg
-blod.jpg;blöd - kvailas;http://www.allmystery.de/dateien/pr57674,1258411955,schwein-lachend.jpg
+blod.jpg;blöd - kvailas;http://www.stupidedia.org/images/thumb/8/83/Mario-bloed.jpg/420px-Mario-bloed.jpg?filetimestamp=20100525143703
 trubselig.jpg;trübselig - liūdnas;http://100-pics.org/data/153/528e51fbd1d9d.jpg
 lenken.jpg;lenken - vairuoti, nukreipti;http://static.memrise.com/uploads/mems/output/2741909-131003172846.png
 schnurrhaar.jpg;das Schnurrhaar - ūsas;http://www.duden.de/_media_/full/S/Schnurrhaar-201020475060.jpg
@@ -150,7 +150,7 @@ gesindel.jpg;das Gesindel - valkatos;https://stoeckls.files.wordpress.com/2012/0
 kraftig.jpg;kräftig - stiprus;http://imworld.aufeminin.com/story/20150618/bh-und-slip-mit-strumpfhaltern-von-ashley-graham-im-set-ca-90-gesehen-auf-navabi-de-693229_w650.jpg
 baumeln.jpg;baumeln - tabaluoti;http://www.tagesspiegel.de/images/beine-baumeln-lassen/12078118/1-format43.jpg
 lauern.jpg;lauern - tykoti;http://www.anawalls.com/images/animals/cheetah-grass-hunting-pose-lurk-big-cat-spotted.jpg
-begegnung.jpg;die Begegnung - susitikimas;http://www.kunstschule-digital-art.de/kudi-1/images/stories/begegnungen/Slischka_Begeg/Michelangelo_begegnungen.jpg
+begegnung.jpg;die Begegnung - susitikimas;http://img.fotocommunity.com/begegnung-51246a20-a968-4680-b095-31c5b17cb480.jpg?height=1080
 dreck.jpg;der Dreck - purvas;https://northmantrader.files.wordpress.com/2015/11/dreck.jpg
 hallen.jpg;hallen - skambėti;https://echofortrello.com/assets/echo-for-trello-logo-623c6ccb10626f2f9cd6c2e601f6aecd6b54b75d39dc1f5652080146fccbfb36.png
 magen.jpg;der Magen - skrandis;http://medienwerkstatt-online.de/lws_wissen/bilder/222-2.gif
@@ -182,7 +182,7 @@ vertrauen.jpg;das Vertrauen - pasitikėjimas;http://www.jesus.ch/sites/default/f
 list.jpg;die List, die Tücke\nklasta;http://img.svz.de/img/kultur/crop10801751/6736399826-cv16_9-w596/23-74164310-23-74164311-1443166458.jpg
 rutschen.jpg;rutschen - slysti;http://www.obi.at/at/rat-und-tat/garten-und-freizeit/leben-im-garten/garten-fuer-kinder/rutschen-berater/images/mood_rutschen_berater-.jpg
 jubel.jpg;der Jubel - džiūgavimas;http://www.cicero.de/sites/default/files/field/image/brasiliens_neymar_bejubelt_seinen_verwandelten_elfmeter_gegen_kroatien.jpg
-allmahlich.jpg;allmählich - laipsniškas;http://thumbs.dreamstime.com/z/satz-%C3%A4pfel-allm%C3%A4hlich-gegessen-48794730.jpg
+allmahlich.jpg;allmählich - laipsniškas;https://thumbs.dreamstime.com/z/satz-pfel-allmhlich-gegessen-48794730.jpg
 ubel.jpg;übel - blogas;http://cdn.familie.de/bilder/hund-mit-kuehlpack-247281.jpg
 aufderstelle.jpg;auf der Stelle - iš karto;http://www.br.de/import/audiovideo/standbilder/neuseeland-tanz-polizeibild-100~_h-360_v-img__16__9__xl_w-640_-6ecbffbf3dd98a5c8156e3adec8a912f72d7fccc.jpg?version=2064e
 verkunde.jpg;verkünden - paskelbti;http://comps.canstockphoto.de/can-stock-photo_csp16180201.jpg
@@ -244,7 +244,7 @@ haube.jpg;die Haube - gaubtuvas;https://www.noba-direct.com/273-914-thickbox/nob
 einbruch.jpg;der Einbruch - įsilaužimas;http://www.wn.de/var/storage/images/wn/startseite/muensterland/kreis-warendorf/telgte/2012/08/einbruch-in-eine-firma-elektronikgeraete-erbeutet/31349920-1-ger-DE/Einbruch-in-eine-Firma-Elektronikgeraete-erbeutet1_image_630_420f_wn.jpg
 ablehnen.jpg;ablehnen - atsisakyti;http://www.adpic.de/data/picture/detail/Geld_ablehnen_285054.jpg
 brett.jpg;das Brett - lenta;https://microle.files.wordpress.com/2012/03/das-brett.jpg
-bewegen.gif;bewegen - judinti;http://www.clever-abnehmen.de/fileadmin/images_abnehmkonzept/clever/Fotolia_5006142_M.gif
+bewegen.gif;bewegen - judinti;http://jefitcoach.nl/onewebmedia/slim%20bewegen%20jefitcoach.jpg
 fluggerat.jpg;das Fluggerät - orlaivis;http://www.rc-network.de/magazin/artikel_06/art_06-093/bilder/Gyro03.jpg
 genusslich.jpg;genüsslich - mielai;http://www.geo.de/reisen/community/bild/regular/526909/Mich-laust-der-Affe-grunzt-genuesslich-das-Schwein.jpg
 rasen.jpg;der Rasen - veja;http://rasen-info.com/wp-content/uploads/2010/09/rasen1.jpg
