@@ -86,7 +86,7 @@ lok.jpg;die Dampflok, die Lok\ngarvežys;http://www.farmingmods2015.com/wp-conte
 streiten.jpg;streiten - kautis;http://www.unternehmer.de/wp-content/uploads/2010/06/Fotolia_4091682_XS-225x225.jpg
 klagen.jpg;klagen - skųstis;http://static0.goedgevoel.be/static/photo/2009/17/5/9/media_xl_809664.jpg
 auflauf.jpg;der Auflauf - susibūrimas;http://www.todayifoundout.com/wp-content/uploads/2014/11/crowd.jpg
-deckel.gif;der Deckel - dangtis;http://mastercuisine.eu/images/product_images/popup_images/28_0.gif
+deckel.jpg;der Deckel - dangtis;http://www.edelstahl-in-bestform.de/bilder_gross_con/b2061_deckel.jpg
 hieven.jpg;hieven - kelti;https://upload.wikimedia.org/wikipedia/de/thumb/b/b7/Hinaushieven.JPG/440px-Hinaushieven.JPG
 anpacken.jpg;anpacken - griebti;http://share-me.at/files/stories/_resampled/croppedimage400250-Wiener_Studentenboten_slide.jpg
 schweben.jpg;schweben - pleventi;http://4everstatic.com/bilder/674xX/menschen/frau-schweben,-wuste-197702.jpg
@@ -163,7 +163,7 @@ gewaltig.jpg;gewaltig - galingas, didžiulis;http://www.fotolism.us/wp-content/u
 faust.jpg;die Faust - kumštis;http://www.aller-leih.com/static/images/productimage-picture-fotografie-die-faust-im-nacken-3948_JPG_600x600_q85.jpg
 stockwerk.jpg;das Stockwerk\naukštas;https://upload.wikimedia.org/wikipedia/commons/3/38/Stockwerke.png
 eng.jpg;eng - ankštas;https://kmbeing.files.wordpress.com/2011/05/narrow.jpg
-drangen.jpg;sich drängen - grūstis;http://thumbs.dreamstime.com/z/die-leute-die-metro-sich-dr%C3%A4ngen-bilden-der-hauptverkehrszeit-paris-frankreich-aus-52314789.jpg
+drangen.jpg;sich drängen - grūstis;http://cdn3.spiegel.de/images/image-688382-breitwandaufmacher-wner-688382.jpg
 verletzen.jpg;verletzen - pažeisti;http://cdn2.spiegel.de/images/image-568869-breitwandaufmacher-fsnb-568869.jpg
 pokal.gif;der Pokal - bokalas;http://parkl.si/wp-content/uploads/2014/01/pokal.gif
 weise.jpg;die Weise\nbūdas, maniera;http://www.everyonedresses.com/wp-content/uploads/2016/01/pent.jpg
@@ -193,7 +193,7 @@ zweifel.jpg;der Zweifel - abejonė;http://ais.badische-zeitung.de/piece/03/59/3b
 eimer.jpg;der Eimer - kibiras;http://canoo.net/blog/wp-content/uploads/2011/08/eimer.jpg
 tauchen.jpg;tauchen - nardyti;http://www.islandreisen.info/wp-content/uploads/2012/12/Tauchen-in-Island-4.jpg
 erwidern.jpg;erwidern - atsakyti;http://pad2.whstatic.com/images/thumb/c/cd/Determine-if-the-One-You-Love-Loves-You-Step-1-Version-2.jpg/728px-Determine-if-the-One-You-Love-Loves-You-Step-1-Version-2.jpg
-daumen.jpg;der Daumen - nykštys;http://thumbs.dreamstime.com/x/daumen-oben-8356319.jpg
+daumen.jpg;der Daumen - nykštys;http://www.duden.de/_media_/full/D/Daumen-201100280160.jpg
 eigenartig.jpg;eigenartig -savitas;https://i.ytimg.com/vi/_oigFfj0SdA/maxresdefault.jpg
 strahlen.jpg;strahlen - spindėti;http://www.apotheken-umschau.de/multimedia/31/260/51/10233487377.jpg
 erbse.jpg;die Erbse - žirnis;http://static.myslimcoach.de/img/ll_thumbnails/21.jpg
@@ -244,7 +244,7 @@ haube.jpg;die Haube - gaubtuvas;https://www.noba-direct.com/273-914-thickbox/nob
 einbruch.jpg;der Einbruch - įsilaužimas;http://www.wn.de/var/storage/images/wn/startseite/muensterland/kreis-warendorf/telgte/2012/08/einbruch-in-eine-firma-elektronikgeraete-erbeutet/31349920-1-ger-DE/Einbruch-in-eine-Firma-Elektronikgeraete-erbeutet1_image_630_420f_wn.jpg
 ablehnen.jpg;ablehnen - atsisakyti;http://www.adpic.de/data/picture/detail/Geld_ablehnen_285054.jpg
 brett.jpg;das Brett - lenta;https://microle.files.wordpress.com/2012/03/das-brett.jpg
-bewegen.gif;bewegen - judinti;http://jefitcoach.nl/onewebmedia/slim%20bewegen%20jefitcoach.jpg
+bewegen.gif;bewegen - judinti;https://www.getbrightr.com/wp-content/uploads/2015/05/moving-tegen-kanker.gif
 fluggerat.jpg;das Fluggerät - orlaivis;http://www.rc-network.de/magazin/artikel_06/art_06-093/bilder/Gyro03.jpg
 genusslich.jpg;genüsslich - mielai;http://www.geo.de/reisen/community/bild/regular/526909/Mich-laust-der-Affe-grunzt-genuesslich-das-Schwein.jpg
 rasen.jpg;der Rasen - veja;http://rasen-info.com/wp-content/uploads/2010/09/rasen1.jpg
@@ -307,7 +307,7 @@ schlendern.jpg;schlendern - slampinėti;https://thumbs.dreamstime.com/x/verbinde
 umstand.jpg;der Umstand - aplinkybė;http://l7.alamy.com/zooms/2f36463439b74acda2d26dd2b1549ef1/pregnant-woman-sitting-on-a-bench-f4bebj.jpg
 seufzen.jpg;seufzen - dūsauti;http://www.daserste.de/information/wissen-kultur/wissen-vor-acht-werkstatt/sendung-werkstatt/warum-seufzen-wir-102~_v-facebook1200_e2de6e.jpg
 kiste.jpg;die Kiste - dėžė;http://www.mare-me.de/media/image/thumbnail/1926_0_900x800.jpg
-erzielen.jpg;erzielen - pasiekti;http://www.deutsche-startups.de/wp-content/uploads/2014/04/ds-profit.jpg
+erzielen.jpg;erzielen - pasiekti;http://bilder.t-online.de/b/63/95/10/46/id_63951046/610/tid_da/zinsen-sind-verhandelbar-sparer-sollten-mit-bank-sprechen.jpg
 hüten.jpg;hüten - saugoti;http://www.from-carolyns-home.de/pic_65_3_.jpg
 entkommen.jpg;entkommen - pasprukti;http://assets.cdn.moviepilot.de/files/fc908fb27bc67678756788326fe5e41c47305ae3911f0a881fa486d0a8c0/bunker-es-gibt-kein-entkommen.jpg
 bucken.jpg;sich bücken - pasilenkti;http://www.pratscher.at/wp-content/uploads/b%C3%BCcken-heben-tragen.jpg
