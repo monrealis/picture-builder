@@ -57,7 +57,7 @@ imbiss.jpg;der Imbiß - užkandis;http://www.leverkusen.com/guide/Archiv1.jpg/43
 kauen.jpg;kauen - kramtyti;http://www.mystica.tv/wp-content/uploads/image/darmessen.jpg
 bart.jpg;der Bart - barzda;http://cdn3.volusion.com/avymr.mqvyp/v/vspfiles/photos/BM-HAGRID-2.jpg?1454057402
 umschlag.jpg;der Umschlag - vokas;http://www.direktmarkt.org/artikelbilder/241-19.jpg
-gleis.jpg;das Gleis\nbėgių kelias;http://thumbs.dreamstime.com/z/leeres-gleis-6001264.jpg
+gleis.jpg;das Gleis\nbėgių kelias;https://upload.wikimedia.org/wikipedia/commons/4/40/Totes_Gleis_unter_Perleberger_Br%C3%BCcke_in_Berlin.jpg
 gesellschaft.png;die Gesellschaft\ndraugija, visuomenė;http://www.meinrad-betz.com/d5fa0c42cc7b81737d577ae88e9e9dd0_gesellschaft-102b.png
 flattern.jpg;flattern - skraidyti;http://www.natur-portrait.de/images/upload/orig/JainRM.jpg
 teppich.jpg;der Teppich - kilimas;http://www.alleszumteppich.de/images/Ein_turkmenischer_Teppich_vom_Typ_Jamut_Yamut-26833.jpg
@@ -226,7 +226,7 @@ bewegung.jpg;die Bewegung - judėjimas;http://s.ndimg.de/image_gallery/new_netdo
 pflanze.jpg;die Pflanze - augalas;http://www.adpic.de/data/picture/detail/Pflanze_in_der_Erde_159054.jpg
 winzig.jpg;winzig - mažytis;http://cdn2.spiegel.de/images/image-314505-galleryV9-fqjr-314505.jpg
 knoblauch.jpg;der Knoblauch - česnakas;http://www.benefit-online.de/fileadmin/content/magazin/gesundheit/Knoblauch.jpg
-geruch.jpg;der Geruch - kvapas;http://www.davicii.com/wp-content/uploads/2014/04/frau-geruch-nase-540x304.jpg
+geruch.jpg;der Geruch - kvapas;http://www.kuehlschrank.com/wp-content/uploads/Kuehlschrankgeruch.jpg
 verirren.jpg;sich verirren - paklysti;http://www.dzonline.de/var/storage/images/wn/startseite/welt/kinder/2012/08/kinder-verirrt-im-heckengewirr/31317393-1-ger-DE/Kinder-Verirrt-im-Heckengewirr1_image_630_420f.jpg
 borgen.jpg;borgen - skolinti;http://blog.selfstorage.com/wp-content/uploads/2014/05/borrow-money.jpg
 schussel.png;die Schüssel - dubuo;http://www.kahla-porzellanshop.de/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/3/7/372903a72605-pronto-schuessel21_01.png
