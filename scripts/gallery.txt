@@ -45,7 +45,7 @@ elfenbein.jpg;das Elfenbein\ndramblio kaulas;http://d2mlnkprj9wd81.cloudfront.ne
 ahnung.jpg;die Ahnung - nuojauta;https://koptisch.files.wordpress.com/2011/08/keine-ahnung.jpg
 kunde.jpg;der Kunde - klientas;http://www.unternehmer.de/wp-content/uploads/2010/08/Fotolia_10056587_XS-225x225.jpg
 verbindung.jpg;die Verbindung - ryšys;http://www.adpic.de/data/picture/detail/Puzzleteil_als_Verbindung_490876.jpg
-strom.jpg;der Strom - srautas;http://regnum.ru/uploads/pictures/news/2015/11/27/regnum_picture_1448655425779405_normal.jpg
+strom.jpg;der Strom - srautas;https://www.3dnamewallpapers.com/assets/pages/wallpapers/images/600/Lightning-Strom-Wallpaper.jpg
 funken.jpg;der Funken - kibirkštis;http://www.glaube-und-heimat.de/files/2012/01/Funken412.jpg
 fleck.jpg;der Fleck - dėmė;http://www.memrise.com/s3_proxy/?f=uploads/mems/6248663000141120140626.jpg
 fest.jpg;fest - tvirtas;http://lawfirmsintransition.wp.lexblogs.com/wp-content/uploads/sites/72/2013/11/iStock_000003537685Medium.jpg
@@ -144,7 +144,7 @@ erwischen.jpg;erwischen\npagauti;http://www2.joliebilder.de/96729-1606056-3/imag
 kriegen.jpg;kriegen - gauti;http://akku-steyr.com/sites/akku-steyr.com/files/imagecache/Full/Foto%20Folder%20Frieden%20kriegen.JPG
 spuren.jpg;spüren - justi;http://www.wildewasser.at/media/img/galerien/schmelzofenrunde-1046_1600px.jpg
 zug.jpg;der Zug - bruožas;https://geekwhisperin.files.wordpress.com/2009/09/bug-vs-feature.jpg
-mustern.jpg;mustern - apžiūrėti;http://thumbs.dreamstime.com/x/robot-examine-puzzle-18291516.jpg
+mustern.jpg;mustern - apžiūrėti;http://www.cfore.ca/wp-content/uploads/2016/05/surveyor.jpg
 stammig.jpg;stämmig - kresnas;http://kratzbaum-online-shop.de/images/kratzbaum_gallery/coosi1staemmig/sisal/kratzbaum-coosi-1-staemmig-sisal-3-liegeflaechen-06.jpg
 gesindel.jpg;das Gesindel - valkatos;https://stoeckls.files.wordpress.com/2012/03/linkes-gesindel-karikatur-c-by-hans-karl-stc3b6ckl.jpg
 kraftig.jpg;kräftig - stiprus;http://imworld.aufeminin.com/story/20150618/bh-und-slip-mit-strumpfhaltern-von-ashley-graham-im-set-ca-90-gesehen-auf-navabi-de-693229_w650.jpg
@@ -279,7 +279,7 @@ bestatigen.gif;bestätigen - patvirtinti;https://i-technet.sec.s-msft.com/dynimg
 spahen.jpg;spähen nach D - ieškoti akimis;https://thumbs.dreamstime.com/z/sphen-vom-loch-der-wand-10094056.jpg
 kauern.jpg;kauern - tupėti;http://cdn.grid.fotosearch.com/CSP/CSP345/k22692821.jpg
 schnauze.jpg;die Schnauze - snukis;http://www.heiltierarzt.de/bilder/fallbeispiele/schnauze-geschwollen-1-800.jpg
-streifen.jpg;der Streifen - dryžis;http://www.paddy24.de/out/pictures/master/product/1/streifen_100_60.jpg
+streifen.jpg;der Streifen - dryžis;https://www.meine-stoffe.de/item/images/28833/1200x1200/28833-Baumwollstoff-Kreativstoff-Stoff-Streifen-s-3.jpg
 kriechen.jpg;kriechen - šliaužti;https://thumbs.dreamstime.com/z/durch-das-kriechen-17304523.jpg
 betreten.jpg;betreten - įeiti;https://upload.wikimedia.org/wikipedia/commons/b/b7/Helmut_Hennig_Betreten_verboten_Die_gefangene_Zeit_Ein_tempor%C3%A4r_angelegtes_Privatgrundst%C3%BCck_im_%C3%B6ffentlichen_Raum_2012_II.jpg
 verstecken.jpg;verstecken - slėptis;https://s3-eu-west-1.amazonaws.com/szphoenix-production/usertext/img/369015.jpg
@@ -308,7 +308,7 @@ umstand.jpg;der Umstand - aplinkybė;http://l7.alamy.com/zooms/2f36463439b74acda
 seufzen.jpg;seufzen - dūsauti;http://www.daserste.de/information/wissen-kultur/wissen-vor-acht-werkstatt/sendung-werkstatt/warum-seufzen-wir-102~_v-facebook1200_e2de6e.jpg
 kiste.jpg;die Kiste - dėžė;http://www.mare-me.de/media/image/thumbnail/1926_0_900x800.jpg
 erzielen.jpg;erzielen - pasiekti;http://bilder.t-online.de/b/63/95/10/46/id_63951046/610/tid_da/zinsen-sind-verhandelbar-sparer-sollten-mit-bank-sprechen.jpg
-hüten.jpg;hüten - saugoti;http://www.from-carolyns-home.de/pic_65_3_.jpg
+huten.jpg;hüten - saugoti;http://www.taz.de/picture/142142/948/Schaeferin-Jahnke.jpg
 entkommen.jpg;entkommen - pasprukti;http://assets.cdn.moviepilot.de/files/fc908fb27bc67678756788326fe5e41c47305ae3911f0a881fa486d0a8c0/bunker-es-gibt-kein-entkommen.jpg
 bucken.jpg;sich bücken - pasilenkti;http://www.pratscher.at/wp-content/uploads/b%C3%BCcken-heben-tragen.jpg
 lassig.jpg;lässig - nerūpestingas;http://babyecochic.com/wp-content/uploads/2014/02/laessig-fashion-green-label.jpg
@@ -329,7 +329,7 @@ wanken.jpg;wanken - svirduliuoti;http://www.auto-news.de/webcore/data/content/Au
 dicht.jpg;dicht - arti;http://l7.alamy.com/zooms/492f787048c9479ebb4516c5a9f17fbe/horse-heads-close-together-g08707.jpg
 umbringen.jpg;umbringen - nužudyti;http://www.nitestar.de/files1/groups/gYJHPnHdvQyQ.jpg
 retten.jpg;retten - išgelbėti;http://www.feuerwehrleben.de/wp-content/uploads/2012/05/retten-bergen-feuerwehr1.jpg
-leihen.jpg;leihen - skolinti;http://www.kredit-one.de/wp-content/uploads/2011/11/geld-leihen.jpg
+leihen.jpg;leihen - skolinti;http://salesblog.at/wp-content/uploads/2015/02/leihen-kaufen-300x179.jpg
 drucken.jpg;drücken - spausti;http://www.willstdubestimmtnichtwissen.de/data/media/75/696ca7fb1e.jpg
 schlucken.jpg;schlucken - praryti;http://i.onmeda.de/gesund/tabletten_6.jpg
 bewachen.jpg;bewachen - saugoti;http://media1.faz.net/ppmedia/aktuell/2912157181/1.3912349/width610x580/soldaten-bewachen-am-samstag.jpg
@@ -405,7 +405,7 @@ erlauben.jpg;erlauben - leisti;http://www.cybercd.de/wp-content/uploads/2011/03/
 herstellen.jpg;herstellen - gaminti;http://www.labbe.de/zzzebra/malen/strassenkreide_herstellen2.gif
 wirkung.jpg;die Wirkung - poveikis;http://www.hermetik-international.com/wp-content/uploads/2014/11/ursache-und-wirkung.jpg
 befassen.jpg;sich befassen - užsiimti;http://diepresse.com/images/uploads/6/a/0/4781728/0407C7E9-199C-4D3B-8760-1A7233A737092_1437490985944167.jpg
-sagenhaft.jpg;sagenhaft - legendinis;http://www.mdr.de/tv/sagenhaft-unstrut-100-resimage_v-variantSmall16x9_w-320.jpg?version=15502
+sagenhaft.jpg;sagenhaft - legendinis;https://upload.wikimedia.org/wikipedia/commons/a/a1/10vorWien_Sagenhaft.jpg
 rein.jpg;rein - grynas;http://cha-ahse.org/store/product_images/w/220/reinaid__47406_zoom.jpg
 zeugen.jpg;zeugen - gimdyti;http://morganrauscher.com/morganrauscher/wp-content/uploads/2012/12/c.jpg
 bericht.gif;der Bericht\npranešimas;http://emk-gfs.de/wp-content/uploads/2014/07/Bericht.gif
