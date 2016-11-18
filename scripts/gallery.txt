@@ -20,7 +20,7 @@ geschmeidig.jpg;geschmeidig, biegsam\nlankstus;http://images.china.cn/attachemen
 weidenholz.jpg;der Weidenholz - gluosnis;https://www.aktiv-vital.com/images/weide600x600.jpg
 stab.png;der Stab - lazda;http://vignette2.wikia.nocookie.net/harrypotter/images/0/0d/George_Weasley%27s_wand.png/revision/latest?cb=20141014212826&path-prefix=de
 gruselig.jpg;gruselig - šiurpus, baisus;http://bilder.bild.de/fotos-skaliert/gruselig-schaurige-rufe-hinter-grab-frau-auf-friedhof-gefesselt-symbolfoto-29118764-40389940/3,w=650,c=0.bild.jpg
-mahagoni.jpg;das Mahagoni - raudonmedis;http://static1.schoener-wohnen.de/thumbnails/galleryImage/0001/00000000001/36/43/36432_landeseite-mahagoni.jpg
+mahagoni.jpg;das Mahagoni - raudonmedis;http://static.schoener-wohnen.de/bilder/0b/9d/2712/facebook_image/landeseite-mahagoni.jpg
 aussuchen.jpg;aussuchen - rinktis;https://t1.ftcdn.net/jpg/00/12/78/30/500_F_12783078_lpEXORLZMfIHYnETOFUCpcUS93uFvNyW.jpg
 beruhren.jpg;berühren - liesti;http://www.gesund-durch.de/media/2013/08/gd_Therapeutic_Touch_13Q2_Fotolia_bildwerk_hd-1024x744.jpg
 nebel.jpg;der Nebel - rūkas\nneblig - rūškanas;https://upload.wikimedia.org/wikipedia/commons/5/54/Rhoen_Nebel_mg-k.jpg
@@ -96,7 +96,7 @@ aufhoren.jpg;aufhören - liautis;http://i2.bstatic.de/sites/default/files/styles
 wogen.jpg;wogen - banguoti;http://dmf.ace1.netdna-cdn.com/wp-content/uploads/2013/10/Welle.jpg
 schimmern.jpg;schimmern - mirgėti;http://static.schoener-wohnen.de/bilder/5c/0b/39362/article_image_medium/ausstellung-edles-schimmern-grassi-museum.jpg
 abzeichen.jpg;das Abzeichen\nženklelis;https://upload.wikimedia.org/wikipedia/de/thumb/5/52/Armee-Aufkl%C3%A4rungsdetachement_10_Abzeichen.svg/251px-Armee-Aufkl%C3%A4rungsdetachement_10_Abzeichen.svg.png
-schatz.jpg;der Schatz - lobis;http://thumbs.dreamstime.com/z/schatz-kasten-14742194.jpg
+schatz.jpg;der Schatz - lobis;http://previews.123rf.com/images/clairev/clairev0911/clairev091100022/5931557-Piraten-die-Schatz-Brust-Vektor-Illustration-ffnen--Lizenzfreie-Bilder.jpg
 wange.jpg;die Wange\nskruostas;http://www.essentialstyleformen.com/wp-content/uploads/2011/06/tammy_wange.jpg
 vergnugt.jpg;vergnügt - linksmas;http://image3-cdn.n24.de/image/4978654/2/large16x9/23g/so-sexy-vergnuegt-sich-sylvie-meis-am-strand-image_900x510.jpg
 regen.png;regen - judinti;http://www.northstarmoving.com/wp-content/uploads/office-moving-icon1.png
@@ -121,7 +121,7 @@ futtern.jpg;füttern - maitinti;http://www.adpic.de/data/picture/detail/Eichhoer
 verfassen.jpg;verfassen - sukurti;https://www.trauer.de/data/64/editor/image/Fotolia_29049788_S.jpg
 verblufft.jpg;verblüfft - sumišęs;https://frankzio.files.wordpress.com/2011/12/verblfft.jpg
 bedienen.jpg;sich bedienen - pasivaišinti;http://www.ggsgressenich.de/images/brotgesicht_04.jpg
-sichtbar.jpg;sichtbar - matomas;http://www.unsichtbares-sichtbar-machen.de/wp-content/uploads/cover.jpg
+sichtbar.jpg;sichtbar - matomas;https://i.ytimg.com/vi/yw3aPCFwGjk/maxresdefault.jpg
 bewegen.jpg;bewegen - judinti;http://www.hulpmiddelenwijzer.nl/files/381701/meer+bewegen.jpg
 betrachten.jpg;betrachten - stebėti;http://blog.hays.de/wp-content/uploads/2015/05/20150529-%C2%A9-olly-Fotolia.com_.jpg
 vorsichtig.jpg;vorsichtig\natsargus;http://you-big-blog.com/wp-content/uploads/2012/08/Achtung-Vorsicht.jpg
@@ -181,7 +181,7 @@ schadel.jpg;der Schädel - kaukolė;http://www.wissen-digital.de/images/3/39/Med
 vertrauen.jpg;das Vertrauen - pasitikėjimas;http://www.jesus.ch/sites/default/files/media/197151-Vertrau-auf-Gott---Auf-ihn-ist-Verlass.jpg
 list.jpg;die List, die Tücke\nklasta;http://img.svz.de/img/kultur/crop10801751/6736399826-cv16_9-w596/23-74164310-23-74164311-1443166458.jpg
 rutschen.jpg;rutschen - slysti;http://www.obi.at/at/rat-und-tat/garten-und-freizeit/leben-im-garten/garten-fuer-kinder/rutschen-berater/images/mood_rutschen_berater-.jpg
-jubel.jpg;der Jubel - džiūgavimas;http://www.cicero.de/sites/default/files/field/image/brasiliens_neymar_bejubelt_seinen_verwandelten_elfmeter_gegen_kroatien.jpg
+jubel.jpg;der Jubel - džiūgavimas;https://pbs.twimg.com/media/CfIIc52UIAICMox.jpg
 allmahlich.jpg;allmählich - laipsniškas;https://thumbs.dreamstime.com/z/satz-pfel-allmhlich-gegessen-48794730.jpg
 ubel.jpg;übel - blogas;http://cdn.familie.de/bilder/hund-mit-kuehlpack-247281.jpg
 aufderstelle.jpg;auf der Stelle - iš karto;http://www.br.de/import/audiovideo/standbilder/neuseeland-tanz-polizeibild-100~_h-360_v-img__16__9__xl_w-640_-6ecbffbf3dd98a5c8156e3adec8a912f72d7fccc.jpg?version=2064e
