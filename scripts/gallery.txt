@@ -107,7 +107,7 @@ scherz.jpg;der Scherz - išdaiga;http://www.m-d-productions.de/md_productions/ps
 vetter.jpg;der Vetter - pusbrolis;http://neu.landesverband-ost.de/wp-content/uploads/Der-Vetter-aus-Dingsda-IMG_6151.jpg
 miene.jpg;die Miene - mina;http://miene.net/wp-content/uploads/2013/06/miene.jpg
 ratte.jpg;die Ratte - žiurkė;https://s-media-cache-ak0.pinimg.com/736x/3e/41/ca/3e41ca722ddf4c6a1b122aa4c62ba4a5.jpg
-pennen.jpg;pennen - miegoti;http://www.agila.de/images/Wie_lange_Hunde_schlafen.jpg
+pennen.jpg;pennen - miegoti;https://scontent.cdninstagram.com/hphotos-xaf1/t51.2885-15/e15/11419198_116655595337876_488250749_n.jpg
 mutig.jpg;mutig - drąsus;http://img01.lachschon.de/images/153401_MutigeMausgrins_1.jpg
 seele.png;die Seele - siela;http://vignette2.wikia.nocookie.net/villains/images/4/4d/Seele_meeting_Ikari.png/revision/latest?cb=20140608151111
 schaf.jpg;der Schaf - avis;http://yofreddo.com/Bilder/Schaf.jpg
@@ -122,7 +122,7 @@ verfassen.jpg;verfassen - sukurti;https://www.trauer.de/data/64/editor/image/Fot
 verblufft.jpg;verblüfft - sumišęs;https://frankzio.files.wordpress.com/2011/12/verblfft.jpg
 bedienen.jpg;sich bedienen - pasivaišinti;http://www.ggsgressenich.de/images/brotgesicht_04.jpg
 sichtbar.jpg;sichtbar - matomas;https://i.ytimg.com/vi/yw3aPCFwGjk/maxresdefault.jpg
-bewegen.jpg;bewegen - judinti;http://www.hulpmiddelenwijzer.nl/files/381701/meer+bewegen.jpg
+bewegen.jpg;bewegen - judinti;http://rubriek.nl/fitness/images/train.jpg
 betrachten.jpg;betrachten - stebėti;http://blog.hays.de/wp-content/uploads/2015/05/20150529-%C2%A9-olly-Fotolia.com_.jpg
 vorsichtig.jpg;vorsichtig\natsargus;http://you-big-blog.com/wp-content/uploads/2012/08/Achtung-Vorsicht.jpg
 sorgfaltig.jpg;sorgfältig - kruopštus;http://www.antichrist-wachtturm.de/images/forsche-sorgfaeltig/forsche-sorgfaeltig.jpg
@@ -180,7 +180,7 @@ wackeln.jpg;wackeln - klibėti;http://www.geo.de/reisen/community/bild/regular/7
 schadel.jpg;der Schädel - kaukolė;http://www.wissen-digital.de/images/3/39/Med_3B-Scientific-schaedel-seitlich.jpg
 vertrauen.jpg;das Vertrauen - pasitikėjimas;http://www.jesus.ch/sites/default/files/media/197151-Vertrau-auf-Gott---Auf-ihn-ist-Verlass.jpg
 list.jpg;die List, die Tücke\nklasta;http://img.svz.de/img/kultur/crop10801751/6736399826-cv16_9-w596/23-74164310-23-74164311-1443166458.jpg
-rutschen.jpg;rutschen - slysti;http://www.obi.at/at/rat-und-tat/garten-und-freizeit/leben-im-garten/garten-fuer-kinder/rutschen-berater/images/mood_rutschen_berater-.jpg
+rutschen.jpg;rutschen - slysti;http://www.therme-erding.de/uploads/pics/Rainbow-Racer-Rutschen-THERME-ERDING.jpg
 jubel.jpg;der Jubel - džiūgavimas;https://pbs.twimg.com/media/CfIIc52UIAICMox.jpg
 allmahlich.jpg;allmählich - laipsniškas;https://thumbs.dreamstime.com/z/satz-pfel-allmhlich-gegessen-48794730.jpg
 ubel.jpg;übel - blogas;http://cdn.familie.de/bilder/hund-mit-kuehlpack-247281.jpg
@@ -250,7 +250,7 @@ genusslich.jpg;genüsslich - mielai;http://www.geo.de/reisen/community/bild/regu
 rasen.jpg;der Rasen - veja;http://rasen-info.com/wp-content/uploads/2010/09/rasen1.jpg
 spreizen.jpg;spreizen - išskėsti;http://www.sat1.de/var/sat1/storage/images/media/images/redaktioneller-upload/ratgeber/yoga/yoga-beine-spreizen-11-09-13-amy-sussman-getty-afp/37355-1-ger-DE/yoga-beine-spreizen-11-09-13-amy-sussman-getty-afp_gallery_348.jpg
 stiel.jpg;der Stiel - stiebas;http://www.geo.de/reisen/community/bild/regular/512825/der-Stiel-vom-Blatt.jpg
-neigen.gif;neigen - lenkti;http://img1.brigitte.de/asset/Image/figur/fitness/locker-bleiben/neigen-1.gif
+neigen.png;neigen - lenkti;http://www.engelsberg-kroener.de/tl_files/userdata/images/uebungen/kopf_frei_bekommen_4.png
 hinken.jpg;hinken - šlubuoti;https://therevjs.files.wordpress.com/2013/05/crutches.jpg
 ausgerechnet.jpg;ausgerechnet\nkaip tik, iš visų;http://content.deepsilver.com/kochmedia/shop/images/deatch/xl/dvm020122d_3.jpg
 ast.jpg;der Ast - šaka;http://images.digopaul.com/wp-content/uploads/related_images/2015/09/08/ast_2.jpg
