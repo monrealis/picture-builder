@@ -43,7 +43,7 @@ haufen.jpg;der Haufen - krūva;http://www.putz.de/wp-content/uploads/2012/01/hau
 ahorn.jpg;der Ahorn - klevas;http://www.botanikus.de/Botanik3/Ordnung/Ahorn/Berg-Ahorn-gr.jpg
 elfenbein.jpg;das Elfenbein\ndramblio kaulas;http://d2mlnkprj9wd81.cloudfront.net/sites/default/files/imagecache/article_image/E1182%20med%20res_IFAW_D.%20Willetts%20%28Medium%29_0.jpg
 ahnung.jpg;die Ahnung - nuojauta;https://koptisch.files.wordpress.com/2011/08/keine-ahnung.jpg
-kunde.jpg;der Kunde - klientas;http://thumbs.dreamstime.com/z/kunde-mit-leerem-einkaufswagen-9871628.jpg
+kunde.jpg;der Kunde - klientas;http://www.unternehmer.de/wp-content/uploads/2010/08/Fotolia_10056587_XS-225x225.jpg
 verbindung.jpg;die Verbindung - ryšys;http://www.adpic.de/data/picture/detail/Puzzleteil_als_Verbindung_490876.jpg
 strom.jpg;der Strom - srautas;http://regnum.ru/uploads/pictures/news/2015/11/27/regnum_picture_1448655425779405_normal.jpg
 funken.jpg;der Funken - kibirkštis;http://www.glaube-und-heimat.de/files/2012/01/Funken412.jpg
@@ -134,7 +134,7 @@ rauspern.png;sich räuspern - atsikosėti;http://www.apotheken-umschau.de/multim
 verlegen.jpg;verlegen - sumišęs;http://cdn.nsmbl.nl/wp-content/uploads/2012/11/verlegen-dieren-8.jpeg
 geschwindigkeit.jpg;die Geschwindigkeit - greitis;http://www.go-handl.at/webseite/wp-content/uploads/2013/03/geschwindigkeit-1.jpg
 aufstieg.jpg;der Aufstieg, der Niedergang;http://www.kinderzeitmaschine.de/uploads/tx_sgkzm/stufenleiter.jpg
-schleppen.jpg;schleppen - tempti;http://thumbs.dreamstime.com/x/schleppen-sie-die-zeile-15775632.jpg
+schleppen.jpg;schleppen - tempti;http://www.hpgrumpe.de/tuerkei/17diyarbakir/slides/tuerkei1988_339.jpg
 blod.jpg;blöd - kvailas;http://www.stupidedia.org/images/thumb/8/83/Mario-bloed.jpg/420px-Mario-bloed.jpg?filetimestamp=20100525143703
 trubselig.jpg;trübselig - liūdnas;http://100-pics.org/data/153/528e51fbd1d9d.jpg
 lenken.jpg;lenken - vairuoti, nukreipti;http://static.memrise.com/uploads/mems/output/2741909-131003172846.png
@@ -329,7 +329,7 @@ wanken.jpg;wanken - svirduliuoti;http://www.auto-news.de/webcore/data/content/Au
 dicht.jpg;dicht - arti;http://l7.alamy.com/zooms/492f787048c9479ebb4516c5a9f17fbe/horse-heads-close-together-g08707.jpg
 umbringen.jpg;umbringen - nužudyti;http://www.nitestar.de/files1/groups/gYJHPnHdvQyQ.jpg
 retten.jpg;retten - išgelbėti;http://www.feuerwehrleben.de/wp-content/uploads/2012/05/retten-bergen-feuerwehr1.jpg
-leihen.jpg;leihen - skolinti;https://sofort-geld.net/wp-content/uploads/geldleihen-300x200.jpg
+leihen.jpg;leihen - skolinti;http://www.kredit-one.de/wp-content/uploads/2011/11/geld-leihen.jpg
 drucken.jpg;drücken - spausti;http://www.willstdubestimmtnichtwissen.de/data/media/75/696ca7fb1e.jpg
 schlucken.jpg;schlucken - praryti;http://i.onmeda.de/gesund/tabletten_6.jpg
 bewachen.jpg;bewachen - saugoti;http://media1.faz.net/ppmedia/aktuell/2912157181/1.3912349/width610x580/soldaten-bewachen-am-samstag.jpg
