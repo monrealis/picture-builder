@@ -5,3 +5,5 @@ die Wirkung - poveikis
 das Dach - stogas
 der Tropfen - lašas
 die Botschaft - žinia
+kriechen - šliaužti
+
