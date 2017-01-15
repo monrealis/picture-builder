@@ -11,4 +11,6 @@ der Aufsatz - rašinys
 tauchen - nardyti
 der Käfer - vabalas
 der Leib - kūnas
+blinzeln - mirkčioti
+erwidern - atsakyti
 
