@@ -29,6 +29,9 @@ das Ziel - tikslas
 schlingel - apkabinti
 runzeln - suraukti
 begegnen - sutikti (encounter)
+der Klempner - santechnikas
+das Gelingen - sėkmė, pasisekimas
+retten - išgelbėti
 
 
 
