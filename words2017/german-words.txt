@@ -32,6 +32,10 @@ begegnen - sutikti (encounter)
 der Klempner - santechnikas
 das Gelingen - sėkmė, pasisekimas
 retten - išgelbėti
+gestatten - leisti
+das Mitglied - narys
+befugen - autorizuoti, leisti
+
 
 
 
