@@ -35,6 +35,8 @@ retten - išgelbėti
 gestatten - leisti
 das Mitglied - narys
 befugen - autorizuoti, leisti
+das Gitter - grotos
+die Waffe - ginklas
 
 
 
