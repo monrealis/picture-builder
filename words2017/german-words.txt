@@ -37,6 +37,9 @@ das Mitglied - narys
 befugen - autorizuoti, leisti
 das Gitter - grotos
 die Waffe - ginklas
+das Stroh - šiaudai
+die Matte - kilimas
+
 
 
 
