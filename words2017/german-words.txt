@@ -39,6 +39,10 @@ das Gitter - grotos
 die Waffe - ginklas
 das Stroh - šiaudai
 die Matte - kilimas
+sperren - uždaryti (į kalėjimą)
+weisen - parodyti
+das Seil - lynas, virvė
+
 
 
 
