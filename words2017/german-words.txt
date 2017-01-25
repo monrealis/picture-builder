@@ -42,6 +42,8 @@ die Matte - kilimas
 sperren - uždaryti (į kalėjimą)
 weisen - parodyti
 das Seil - lynas, virvė
+verschwenden - iššvaistyti
+schleppen - tempti, traukti, vilkti
 
 
 
