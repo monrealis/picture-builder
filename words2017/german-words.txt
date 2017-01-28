@@ -47,6 +47,8 @@ schleppen - tempti, traukti, vilkti
 kreischen - klykti
 der Stier - bulius, jautis
 ungeduldig - nekantrus
+behaupten - teigti, tvirtinti
+der Ghul - vampyras
 
 
 
