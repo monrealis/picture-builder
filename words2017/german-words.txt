@@ -60,6 +60,8 @@ schrumpfen - trauktis, sumažėti
 aufmuntern - padrąsinti, pakelti nuotaiką
 die Ziffer - skaitmuo
 der Vorwurf - priekaištas
+gilt - taikoma
+stiften - sukelti
 
 
 
