@@ -62,6 +62,12 @@ die Ziffer - skaitmuo
 der Vorwurf - priekaištas
 gilt - taikoma
 stiften - sukelti
+der Einband - knygos viršelis
+fabelhaft - pasakiškas, nepaprastas
+
+
+
+
 
 
 
