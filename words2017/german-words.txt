@@ -80,6 +80,9 @@ die Schale - kevalas; dubuo
 verteidigen - ginti
 ungesetzlich - neteisėtas
 der Schmetterling - drugys
+erforschen - ištirti
+erwähnen - paminėti
+wecken - žadinti
 
 
 
