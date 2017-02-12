@@ -83,6 +83,8 @@ der Schmetterling - drugys
 erforschen - ištirti
 erwähnen - paminėti
 wecken - žadinti
+der Topf - puodas
+das Pulver - miltelis
 
 
 
