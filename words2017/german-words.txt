@@ -85,6 +85,9 @@ erwähnen - paminėti
 wecken - žadinti
 der Topf - puodas
 das Pulver - miltelis
+lodern - liepsnoti
+das Rohr - vamzdis
+
 
 
 
