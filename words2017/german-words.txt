@@ -87,6 +87,8 @@ der Topf - puodas
 das Pulver - miltelis
 lodern - liepsnoti
 das Rohr - vamzdis
+zerkratzen - subraižyti
+schwach - silpnas
 
 
 
