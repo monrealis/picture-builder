@@ -120,6 +120,7 @@ dehnen - driektis; ištempti
 das Gleis - bėgių kelias
 absperren - užrakinti, uždaryti
 das Ziel - tikslas
+das Eisen - geležis
 
 
 
