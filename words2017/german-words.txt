@@ -121,6 +121,8 @@ das Gleis - bėgių kelias
 absperren - užrakinti, uždaryti
 das Ziel - tikslas
 das Eisen - geležis
+in der Klemme sein - būti bėdoje
+der Knopf - saga; mygtukas
 
 
 
