@@ -133,6 +133,8 @@ das Lenkrad - vairas
 stetig - nuolatinis, pastovus
 die Sehne - sausgyslė
 der Hagel - kruša
+kippen - apversti
+drohen - grasinti
 
 
 
