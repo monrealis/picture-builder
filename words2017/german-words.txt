@@ -135,6 +135,9 @@ die Sehne - sausgyslė
 der Hagel - kruša
 kippen - apversti
 drohen - grasinti
+bang - baikštus
+uralt - labai senas
+beitragen - prisidėti
 
 
 
