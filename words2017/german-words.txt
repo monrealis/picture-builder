@@ -138,6 +138,7 @@ drohen - grasinti
 bang - baikštus
 uralt - labai senas
 beitragen - prisidėti
+die Duft - aromatas
 
 
 
