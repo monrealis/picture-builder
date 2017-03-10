@@ -139,6 +139,9 @@ bang - baikštus
 uralt - labai senas
 beitragen - prisidėti
 die Duft - aromatas
+der Kamerad - draugas, bičiulis
+die Ausgabe - leidimas
+schildern - aprašyti, pavaizduoti
 
 
 
