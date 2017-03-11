@@ -142,6 +142,9 @@ die Duft - aromatas
 der Kamerad - draugas, bičiulis
 die Ausgabe - leidimas
 schildern - aprašyti, pavaizduoti
+das Bedauern - apgailestavimas, užuojauta
+befugen - leisti
+das Unheil - nelaimė, bėda
 
 
 
