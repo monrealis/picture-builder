@@ -158,6 +158,9 @@ das Gerücht - gandas
 der Vortrag - paskaita, pranešimas
 der Samt - aksomas
 der Last - našta, krovinys
+der Hafer - avižos
+der Brei - košė
+prallen - atsitrenkti, atsimušti
 
 
 
