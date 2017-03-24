@@ -171,6 +171,8 @@ charmant - žavus
 die Eigenschaft - savybė
 wesentlich - esminis, svarbus
 der Bestandteil - sudėtinė dalis
+bedecken - dengti
+gießen - laistyti, pilti
 
 
 
