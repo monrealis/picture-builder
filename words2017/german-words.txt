@@ -185,6 +185,7 @@ schleifen - galąsti
 der Stapel - krūva
 erwerben - įsigyti, nupirkti, užgyventi
 die Leistung - pajėgumas, galingumas
+kauern - sėdėti, tupėti
 
 
 
