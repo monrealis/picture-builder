@@ -195,6 +195,8 @@ gähnen - žiovauti
 die Genugtuung - pasitenkinimas
 die Stufe - pakopa, laiptas
 die Raupe - vikšras
+quälen - kankinti, kamuoti
+sausen - lėkti, dumti, švilpti
 
 
 
