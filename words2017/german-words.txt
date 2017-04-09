@@ -197,7 +197,7 @@ die Stufe - pakopa, laiptas
 die Raupe - vikšras
 quälen - kankinti, kamuoti
 sausen - lėkti, dumti, švilpti
-
+spucken - spjauti
 
 
 
