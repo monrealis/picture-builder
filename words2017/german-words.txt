@@ -200,6 +200,8 @@ sausen - lėkti, dumti, švilpti
 spucken - spjauti
 erteilen - duoti, suteikti
 großzügig - dosnus, kilniaširdiškas
+bewundern - grožėtis, gėrėtis
+
 
 
 
