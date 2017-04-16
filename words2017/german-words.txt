@@ -208,6 +208,7 @@ das Gebüsch - krūmynas
 emsig - stropus, uolus
 würgen - springti
 übel - blogas, prastas
+verkleben - užklijuoti
 
 
 
