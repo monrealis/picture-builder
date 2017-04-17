@@ -209,6 +209,7 @@ emsig - stropus, uolus
 würgen - springti
 übel - blogas, prastas
 verkleben - užklijuoti
+düngen - tręšti
 
 
 
