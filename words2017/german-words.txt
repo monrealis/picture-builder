@@ -214,6 +214,7 @@ winzig - mažytis
 trübselig - liūdnas
 der Knochen - kaulas
 fetzen - suplėšyti
+jäh - staigus, smarkus
 
 
 
