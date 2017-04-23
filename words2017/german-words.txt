@@ -217,6 +217,9 @@ fetzen - suplėšyti
 jäh - staigus, smarkus
 das Gelingen - sėkmė
 spähen - ieškoti
+der Hieb - kirtis, smūgis
+trennen - atskirti
+einsetzen - panaudoti
 
 
 
