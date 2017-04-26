@@ -223,6 +223,10 @@ einsetzen - panaudoti
 die Wange - skruostas, žandas
 stöbern - naršyti, ieškoti
 das Unheil - nelaimė, bėda
+der Zweck - tikslas, prasmė
+tadeln - peikti, smerkti
+der Erfolg - sėkmė, pasisekimas
+
 
 
 
