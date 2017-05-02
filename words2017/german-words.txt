@@ -233,6 +233,9 @@ bereuen - apgailestauti, gailėtis
 geräumig - erdvus
 behaglich - jauku, patogu
 die Wirkung - veikimas, poveikis
+verdorben - sugedęs, sugadintas
+der Laib - kepalas
+verwesen - pūti, trūnyti
 
 
 
