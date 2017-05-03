@@ -236,6 +236,7 @@ die Wirkung - veikimas, poveikis
 verdorben - sugedęs, sugadintas
 der Laib - kepalas
 verwesen - pūti, trūnyti
+behutsam - atsargiai
 
 
 
