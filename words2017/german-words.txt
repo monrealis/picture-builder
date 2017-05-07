@@ -242,6 +242,8 @@ schallen - aidėti, skambėti
 der Kerl - vaikinas, vyras, bernas
 sich bemühen - stengtis
 säumen - supti, juosti
+bewegen - judinti
+riechen - užuosti; kvepėti
 
 
 
