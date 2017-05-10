@@ -249,6 +249,9 @@ der Feind - priešas
 verstummen - nutilti
 anlocken - vilioti, masinti
 etliche - keletas
+die Einschätzung - įvertinimas
+verabscheuen - bjaurėtis, neapkęsti
+
 
 
 
