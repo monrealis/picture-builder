@@ -253,6 +253,7 @@ die Einschätzung - įvertinimas
 verabscheuen - bjaurėtis, neapkęsti
 der Vorfall - atsitikimas
 keifen - ginčytis
+verdächtig - įtartinas
 
 
 
