@@ -254,7 +254,8 @@ verabscheuen - bjaurėtis, neapkęsti
 der Vorfall - atsitikimas
 keifen - ginčytis
 verdächtig - įtartinas
-
+beseitigen - panaikinti
+geduldig - kantrus
 
 
 
