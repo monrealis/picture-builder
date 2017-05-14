@@ -256,7 +256,9 @@ keifen - ginčytis
 verdächtig - įtartinas
 beseitigen - panaikinti
 geduldig - kantrus
-
+zugeben - sutikti, pripažinti
+geheim - slaptas
+stammen - būti kilusiam
 
 
 
