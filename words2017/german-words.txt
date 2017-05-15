@@ -259,6 +259,7 @@ geduldig - kantrus
 zugeben - sutikti, pripažinti
 geheim - slaptas
 stammen - būti kilusiam
+der Angriff - užpuolimas
 
 
 
