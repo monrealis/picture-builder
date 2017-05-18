@@ -262,6 +262,8 @@ stammen - būti kilusiam
 der Angriff - užpuolimas
 das Mittelalter - viduramžiai
 anderthalb - pusantro
+zanken - bartis, kivirčytis
+uralt - labai senas
 
 
 
