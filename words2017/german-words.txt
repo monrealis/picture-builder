@@ -266,6 +266,11 @@ zanken - bartis, kivirčytis
 uralt - labai senas
 die Unterlagen - dokumentai
 die Tatsache - faktas
+derart - taip, tiek
+damalig - tuometinis
+grausam - žiaurus
+einträchtig - vieningas, darnus
+auslesen - atrinkti, išrinkti
 
 
 
