@@ -275,6 +275,7 @@ der Gründer - įkūrėjas
 der Erbe - paveldėtojas
 das Erbe - palikimas
 in der Lage sein - sugebėti
+erlauben - leisti
 
 
 
