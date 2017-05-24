@@ -283,6 +283,8 @@ die Fensterscheibe - lango stiklas
 der Faden - siūlas, gija
 das Seil - lynas, virvė
 die Spinne - voras
+der Abstand - atstumas, nuotolis
+vermeiden - išvengti
 
 
 
