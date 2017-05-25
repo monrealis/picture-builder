@@ -285,6 +285,7 @@ das Seil - lynas, virvė
 die Spinne - voras
 der Abstand - atstumas, nuotolis
 vermeiden - išvengti
+das Waschbecken - kriauklė
 
 
 
