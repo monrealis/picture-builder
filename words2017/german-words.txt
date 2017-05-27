@@ -286,6 +286,7 @@ die Spinne - voras
 der Abstand - atstumas, nuotolis
 vermeiden - išvengti
 das Waschbecken - kriauklė
+die Verzweiflung - nusivylimas, neviltis
 
 
 
