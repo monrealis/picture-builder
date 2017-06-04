@@ -307,6 +307,7 @@ der Geier - (vulture) maitvanagis
 die Abbildung - iliustracija
 der Vorrat - atsargos
 klauen - nukniaukti, nudžiauti
+die Zutaten - ingredientai
 
 
 
