@@ -310,6 +310,7 @@ klauen - nukniaukti, nudžiauti
 die Zutaten - ingredientai
 das Gewitter - audra, perkūnija
 fordern - reikalauti
+ausweichen - trauktis, užleisti kelią
 
 
 
