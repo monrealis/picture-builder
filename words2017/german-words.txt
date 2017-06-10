@@ -318,6 +318,7 @@ albern - paikas, naivus
 quälen - kankinti, kamuoti
 zielen - taikyti
 der Schleier - šydas, skraistė
+spritzen - purkšti, laistyti
 
 
 
