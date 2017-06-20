@@ -335,6 +335,9 @@ tapfer - drąsus
 dicht - arti
 strecken - ištiesti
 versperren - užtverti, užstoti
+gekünstelt - nenatūraliai
+sich vergewissern - įsitikinti
+das Geständnis - prisipažinimas
 
 
 
