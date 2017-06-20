@@ -334,6 +334,7 @@ edel - taurus
 tapfer - drąsus
 dicht - arti
 strecken - ištiesti
+versperren - užtverti, užstoti
 
 
 
