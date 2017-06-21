@@ -338,6 +338,7 @@ versperren - užtverti, užstoti
 gekünstelt - nenatūraliai
 sich vergewissern - įsitikinti
 das Geständnis - prisipažinimas
+schleichen - sėlinti
 
 
 
