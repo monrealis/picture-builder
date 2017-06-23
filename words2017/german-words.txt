@@ -342,6 +342,8 @@ schleichen - sėlinti
 platzen - trūkti, plyšti
 der Handel - prekyba
 der Vorrat - atsargos
+der Aufruhr - maištas
+spotten - tyčiotis, juoktis
 
 
 
