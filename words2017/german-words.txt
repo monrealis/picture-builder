@@ -352,7 +352,8 @@ die Einzelheit - smulkmena, detalė
 das Schwert - kardas
 die Bühne - scena, teatras
 eitel - pasipūtęs
-
+die Schlacht - kautynės, mūšis
+sich raufen - peštis, muštis
 
 
 
