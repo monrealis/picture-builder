@@ -361,6 +361,8 @@ die Gabe - dovana, auka
 boshaft - piktas, pašaipus
 das Gehirn - smegenys
 der Dachs - barsukas
+eng - ankštas, artimas
+das Opfer - auka
 
 
 
