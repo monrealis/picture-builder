@@ -367,6 +367,7 @@ senken - nuleisti, sumažinti, nunarinti
 hetzen - pjudyti, kurstyti
 der Erfolg - sėkmė, laimėjimas
 die Pranke - letena
+das Gespenst - vaiduoklis, šmėkla
 
 
 
