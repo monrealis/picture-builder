@@ -379,6 +379,8 @@ die Treue - ištikimybė
 jäh - staigus, ūmus
 verlegen - drovus, susigėdęs
 angreifen - užpulti, atakuoti
+sich fügen - atsitikti
+das Verhalten - elgesys
 
 
 
