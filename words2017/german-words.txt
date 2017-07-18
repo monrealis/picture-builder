@@ -381,6 +381,9 @@ verlegen - drovus, susigėdęs
 angreifen - užpulti, atakuoti
 sich fügen - atsitikti
 das Verhalten - elgesys
+der Auftritt - pasirodymas (scenoje)
+der Betrag - pinigų suma
+das Betragen - elgesys
 
 
 
