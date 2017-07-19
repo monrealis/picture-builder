@@ -384,6 +384,10 @@ das Verhalten - elgesys
 der Auftritt - pasirodymas (scenoje)
 der Betrag - pinigų suma
 das Betragen - elgesys
+schieben - stumti
+der Zettel - lapelis, raštelis
+prächtig - puošnus, prašmatnus
+schmücken - puošti
 
 
 
