@@ -388,6 +388,9 @@ schieben - stumti
 der Zettel - lapelis, raštelis
 prächtig - puošnus, prašmatnus
 schmücken - puošti
+sachlich - dalykiškas, konkretus
+gierig - godus, gobšus
+
 
 
 
