@@ -399,7 +399,8 @@ klemmen - sugnybti
 ahnen - nujausti, numanyti
 der Haarschnitt - šukuosena
 lockern - atleisti, atpalaiduoti
-
+steif - kietas
+vernichten - niekinti
 
 
 
