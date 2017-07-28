@@ -402,6 +402,9 @@ lockern - atleisti, atpalaiduoti
 steif - kietas
 vernichten - niekinti
 prasseln - spragsėti, barbenti
+die Untersuchung - tyrimas
+das Amt - įstaiga, tarnyba
+verursachen - sukelti
 
 
 
