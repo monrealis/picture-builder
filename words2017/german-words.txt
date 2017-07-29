@@ -405,6 +405,8 @@ prasseln - spragsėti, barbenti
 die Untersuchung - tyrimas
 das Amt - įstaiga, tarnyba
 verursachen - sukelti
+kichern - kikenti, krizenti
+
 
 
 
