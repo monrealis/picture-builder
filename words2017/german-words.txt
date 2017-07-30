@@ -406,7 +406,9 @@ die Untersuchung - tyrimas
 das Amt - įstaiga, tarnyba
 verursachen - sukelti
 kichern - kikenti, krizenti
-
+der Verdacht - įtarimas
+der Genuß - malonumas, pomėgis
+verraten - išduoti
 
 
 
