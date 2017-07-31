@@ -409,6 +409,8 @@ kichern - kikenti, krizenti
 der Verdacht - įtarimas
 der Genuß - malonumas, pomėgis
 verraten - išduoti
+der Landsitz - dvaras
+die Arznei - vaistas
 
 
 
