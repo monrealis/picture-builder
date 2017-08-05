@@ -419,7 +419,8 @@ der Abstand - atstumas, nuotolis
 reglos - nejudamas
 die Angelegenheit - reikalas, dalykas
 schäbig - vargintas, skurdus
-
+beschlagnahmen - konfiskuoti
+die Auszeichnung - apdovanojimas	
 
 
 
