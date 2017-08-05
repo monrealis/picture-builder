@@ -417,6 +417,8 @@ die Spur - pėdsakas
 genesen - pasveikti, taisytis
 der Abstand - atstumas, nuotolis
 reglos - nejudamas
+die Angelegenheit - reikalas, dalykas
+schäbig - vargintas, skurdus
 
 
 
