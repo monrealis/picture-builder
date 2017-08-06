@@ -421,6 +421,7 @@ die Angelegenheit - reikalas, dalykas
 schäbig - vargintas, skurdus
 beschlagnahmen - konfiskuoti
 die Auszeichnung - apdovanojimas	
+verweisen - išvaryti
 
 
 
