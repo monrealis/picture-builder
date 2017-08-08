@@ -423,6 +423,9 @@ beschlagnahmen - konfiskuoti
 die Auszeichnung - apdovanojimas	
 verweisen - išvaryti
 dennoch - vis dėlto
+verstauen - sukrauti, patalpinti
+beleidigen - užgauti, įžeisti
+
 
 
 
