@@ -432,6 +432,9 @@ irren - klaidžioti, klysti, apsirikti
 die Überraschung - nuostaba, nustebinimas
 griesgrämig - niūrus, niurzgus
 platzen - plyšti, sprogti
+pökeln - sūdyti
+vergeblich - tuščiai, bergždžiai
+der Abzug - atskaitymas, nuolaida
 
 
 
