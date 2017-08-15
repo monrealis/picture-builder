@@ -441,6 +441,7 @@ ermahnen - paraginti, paskatinti
 die Widmung - paskyrimas, dedikacija
 der Bruchteil - dalis, dalelė
 das Waisenhaus - našlaičių prieglauda
+die Vorliebe - potraukis, pomėgis
 
 
 
