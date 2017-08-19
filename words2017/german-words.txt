@@ -446,6 +446,8 @@ lärmend - triukšmingas
 beeinflussen - paveikti
 sämtlich - visi (be išimties)
 trocken - sausas
+wehen - pūsti, plevėsuoti
+schaufeln - kasti (semtuvu)
 
 
 
