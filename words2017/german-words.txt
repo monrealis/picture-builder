@@ -455,6 +455,7 @@ verdächtigen - įtarti
 das Eingeweide - viduriai
 die Locke - garbana
 begleiten - palydėti
+hinzufügen - pridurti, pridėti
 
 
 
