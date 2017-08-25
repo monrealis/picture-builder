@@ -458,6 +458,8 @@ begleiten - palydėti
 hinzufügen - pridurti, pridėti
 das Vorkommnis - įvykis
 kläffen - loti
+zucken - krūptelėti, gūžtelėti
+beinahe - beveik
 
 
 
