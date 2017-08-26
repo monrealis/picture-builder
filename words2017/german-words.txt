@@ -460,6 +460,8 @@ das Vorkommnis - įvykis
 kläffen - loti
 zucken - krūptelėti, gūžtelėti
 beinahe - beveik
+üble - blogas
+das Ruder - irklas
 
 
 
