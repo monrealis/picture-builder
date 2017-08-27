@@ -462,6 +462,8 @@ zucken - krūptelėti, gūžtelėti
 beinahe - beveik
 üble - blogas
 das Ruder - irklas
+knurren - urgzti
+der Verlust - netektis, nuostolis
 
 
 
