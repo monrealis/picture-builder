@@ -468,6 +468,7 @@ zottig, zottelig - gauruotas
 feststellen - nustatyti, konstatuoti
 schrill - šaižus, ausį rėžiantis
 lästig - įkyrus, nemalonus
+prahlen - girtis
 
 
 
