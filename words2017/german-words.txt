@@ -469,6 +469,9 @@ feststellen - nustatyti, konstatuoti
 schrill - šaižus, ausį rėžiantis
 lästig - įkyrus, nemalonus
 prahlen - girtis
+sich erbrechen - vemti
+beschneiden - apgenėti
+das Zeug - audinys, šlamštas, niekai
 
 
 
