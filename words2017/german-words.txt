@@ -479,6 +479,7 @@ die Festnahme - areštas, suėmimas
 die Zuversicht - įtikėjimas
 grob - apytiksliai, maždaug; grubus
 wehmütig - liūdnas, nusiminęs
+rascheln - šnarėti, šlamėti
 
 
 
