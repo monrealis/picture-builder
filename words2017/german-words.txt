@@ -480,6 +480,7 @@ die Zuversicht - įtikėjimas
 grob - apytiksliai, maždaug; grubus
 wehmütig - liūdnas, nusiminęs
 rascheln - šnarėti, šlamėti
+quer - skersas; skersai
 
 
 
