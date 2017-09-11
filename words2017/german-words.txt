@@ -489,6 +489,8 @@ steil - status
 der Abhang - šlaitas, nuokalnė
 die Beute - grobis, laimikis
 pochen - belsti
+zwingen - (pri)versti
+die Leiche - lavonas
 
 
 
