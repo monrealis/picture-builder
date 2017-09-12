@@ -491,6 +491,8 @@ die Beute - grobis, laimikis
 pochen - belsti
 zwingen - (pri)versti
 die Leiche - lavonas
+anflehen - maldauti
+der Befehl - įsakymas
 
 
 
