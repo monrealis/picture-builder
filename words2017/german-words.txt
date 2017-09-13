@@ -493,6 +493,7 @@ zwingen - (pri)versti
 die Leiche - lavonas
 anflehen - maldauti
 der Befehl - įsakymas
+peitschen - plakti botagu
 
 
 
