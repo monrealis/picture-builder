@@ -494,6 +494,10 @@ die Leiche - lavonas
 anflehen - maldauti
 der Befehl - įsakymas
 peitschen - plakti botagu
+der Rand - kraštas
+lauern - tykoti
+das Ungetüm - pabaisa
+funkeln - žibėti, spindėti
 
 
 
