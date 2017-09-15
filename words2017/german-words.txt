@@ -498,6 +498,9 @@ der Rand - kraštas
 lauern - tykoti
 das Ungetüm - pabaisa
 funkeln - žibėti, spindėti
+vertreiben - išvyti, išvaryti
+die Anweisung - instrukcija, nurodymas
+
 
 
 
