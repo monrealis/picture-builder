@@ -503,6 +503,10 @@ die Anweisung - instrukcija, nurodymas
 bestehen - egzistuoti
 ankündigen - paskelbti, pranešti
 der Tumult - sąmyšis
+spannen - įtempti
+kneten - minkyti
+mustern - apžiūrinėti, apžiūrėti
+der Dienst - tarnyba
 
 
 
