@@ -507,6 +507,7 @@ spannen - įtempti
 kneten - minkyti
 mustern - apžiūrinėti, apžiūrėti
 der Dienst - tarnyba
+unbehaglich - nejaukus, nemalonus
 
 
 
