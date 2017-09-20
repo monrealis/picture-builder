@@ -510,6 +510,9 @@ der Dienst - tarnyba
 unbehaglich - nejaukus, nemalonus
 gnädig - mielas, malonus
 der Faden - siūlas
+widerstreben - prieštarauti
+verdecken - uždengti, užstoti
+durchstreifen - išvaikštinėti, apkeliauti
 
 
 
