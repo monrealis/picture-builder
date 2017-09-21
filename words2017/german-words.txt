@@ -513,6 +513,10 @@ der Faden - siūlas
 widerstreben - prieštarauti
 verdecken - uždengti, užstoti
 durchstreifen - išvaikštinėti, apkeliauti
+der Unterkiefer - apatinis žandikaulis
+kritzeln - rašinėti, keverzoti
+der Rohr - vamzdis
+die Rohrleitung - vamzdynas
 
 
 
