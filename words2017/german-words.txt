@@ -523,6 +523,9 @@ entführen - pagrobti
 die Botschaft - žinia, pranešimas
 stümpern - prastai dirbti
 fieberhaft - karštligiškas
+ausräumen - ištuštinti, pašalinti
+die Kiste - dėžė
+
 
 
 
