@@ -526,6 +526,7 @@ fieberhaft - karštligiškas
 ausräumen - ištuštinti, pašalinti
 die Kiste - dėžė
 die Stelle - vieta
+plaudern - šnekučiuotis, plepėti
 
 
 
