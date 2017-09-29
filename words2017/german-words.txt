@@ -527,6 +527,9 @@ ausräumen - ištuštinti, pašalinti
 die Kiste - dėžė
 die Stelle - vieta
 plaudern - šnekučiuotis, plepėti
+das Vergnügen - malonumas, pramoga
+hänseln - erzinti, pajuokti
+verriegeln - užsklęsti, užšauti
 
 
 
