@@ -535,6 +535,8 @@ der Schabernack - piktas pokštas
 schlängeln - rangytis
 der Schädel - kaukolė
 der Umriss - kontūras
+der Verstand - protas
+der Fels - uola
 
 
 
