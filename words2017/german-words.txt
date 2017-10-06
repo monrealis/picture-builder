@@ -542,6 +542,7 @@ meißeln - iškalti (iš akmens)
 unheimlich - baisus, kraupus
 der Spalt - plyšys
 die Säule - kolona, stulpas
+der Schweiß - prakaitas
 
 
 
