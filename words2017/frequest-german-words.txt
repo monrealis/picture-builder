@@ -4,25 +4,9 @@ tauchen - nardyti
 erwidern - atsakyti
 retten - išgelbėti
 weisen - parodyti
-
-das Seil - lynas, virvė
-verschwenden - iššvaistyti
-schleppen - tempti, traukti, vilkti
-kreischen - klykti
-der Stier - bulius, jautis
-ungeduldig - nekantrus
 behaupten - teigti, tvirtinti
-der Ghul - vampyras
-vorkommen - pasitaikyti, būti; atrodyti
-vertuschen - užtušuoti, paslėpti
-der Schuppen - garažas
-der Stall - tvartas
-vermutlich - turbūt, matyt
-rostig - surūdijęs
-stemmen - įremti
-schrumpfen - trauktis, sumažėti
-aufmuntern - padrąsinti, pakelti nuotaiką
 die Ziffer - skaitmuo
+
 der Vorwurf - priekaištas
 gilt - taikoma
 stiften - sukelti
