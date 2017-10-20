@@ -3,16 +3,8 @@ kriechen - šliaužti
 tauchen - nardyti
 erwidern - atsakyti
 retten - išgelbėti
-
-gestatten - leisti
-das Mitglied - narys
-befugen - autorizuoti, leisti
-das Gitter - grotos
-die Waffe - ginklas
-das Stroh - šiaudai
-die Matte - kilimas
-sperren - uždaryti (į kalėjimą)
 weisen - parodyti
+
 das Seil - lynas, virvė
 verschwenden - iššvaistyti
 schleppen - tempti, traukti, vilkti
