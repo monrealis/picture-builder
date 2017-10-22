@@ -6,15 +6,8 @@ retten - išgelbėti
 weisen - parodyti
 behaupten - teigti, tvirtinti
 die Ziffer - skaitmuo
-
-der Vorwurf - priekaištas
-gilt - taikoma
-stiften - sukelti
-der Einband - knygos viršelis
-fabelhaft - pasakiškas, nepaprastas
-grimmig - nuožmus, įnirtingas
-erbärmlich - pasigailėtinas, menkas
 das Mitleid - gailestis, užuojauta
+
 spärlich - skurdus, menkas, retas
 zuständig - paskirtas, įpareigotas
 der Schürhaken - žarsteklis
