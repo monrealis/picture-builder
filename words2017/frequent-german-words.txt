@@ -11,24 +11,8 @@ zuständig - paskirtas, įpareigotas
 die Tatsache - faktas
 verteidigen - ginti
 schwach - silpnas
-
-dehnen - driektis; ištempti
-das Gleis - bėgių kelias
-absperren - užrakinti, uždaryti
 das Ziel - tikslas
-das Eisen - geležis
-in der Klemme sein - būti bėdoje
-der Knopf - saga; mygtukas
-der Antrieb - paskata, akstinas
-trübe - apsiniaukę
-anmutig - žavus
-das Moor - pelkė
-die Ameise - skruzdėlė
-wimmern - vaitoti
-das Lenkrad - vairas
-stetig - nuolatinis, pastovus
-die Sehne - sausgyslė
-der Hagel - kruša
+
 kippen - apversti
 drohen - grasinti
 bang - baikštus
