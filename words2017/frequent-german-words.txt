@@ -12,37 +12,10 @@ die Tatsache - faktas
 verteidigen - ginti
 schwach - silpnas
 das Ziel - tikslas
-
-kippen - apversti
 drohen - grasinti
-bang - baikštus
-uralt - labai senas
-beitragen - prisidėti
-die Duft - aromatas
-der Kamerad - draugas, bičiulis
-die Ausgabe - leidimas
-schildern - aprašyti, pavaizduoti
-das Bedauern - apgailestavimas, užuojauta
-befugen - leisti
-das Unheil - nelaimė, bėda
-klopfen - mušti, belsti
-taub - kurčias; sustingęs
-derartig - toks, šitoks
-die Obhut - globa
 rein - grynas, visiškas
-fürchten - baimintis
-der Knall - trenksmas, pokštelėjimas
-gewaltig - galingas; didžiulis
-die Achsel - petys
-das Gerücht - gandas
-der Vortrag - paskaita, pranešimas
-der Samt - aksomas
-der Last - našta, krovinys
-der Hafer - avižos
-der Brei - košė
-prallen - atsitrenkti, atsimušti
-untersuchen - (iš)tirti
 verdienen - užsitarnauti, nusipelnyti
+
 grübeln - galvoti, mąstyti
 zufällig - atsitiktinai
 erstaunlicherweise - stebėtinai
