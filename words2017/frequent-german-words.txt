@@ -15,36 +15,8 @@ das Ziel - tikslas
 drohen - grasinti
 rein - grynas, visiškas
 verdienen - užsitarnauti, nusipelnyti
-
-der Hecht - lydeka (pike)
-gründlich - nuodugnus, išsamus
-verdunsten - išgaruoti
-krabbeln - šliaužti, ropoti
-schüchtern - drovus
-dröhnen - dundėti, griausti
-neidisch - pavydus
-der Tritt - žingsnis
-schleifen - galąsti
-der Stapel - krūva
-erwerben - įsigyti, nupirkti, užgyventi
-die Leistung - pajėgumas, galingumas
-kauern - sėdėti, tupėti
-reizen - erzinti
-der Kronleuchter - liustras, sietynas
-brüllen - mykti
-angeblich - tariamai
-der Pfeil - strėlė
-gähnen - žiovauti
-die Genugtuung - pasitenkinimas
-die Stufe - pakopa, laiptas
-die Raupe - vikšras
-quälen - kankinti, kamuoti
-sausen - lėkti, dumti, švilpti
-spucken - spjauti
-erteilen - duoti, suteikti
-großzügig - dosnus, kilniaširdiškas
-bewundern - grožėtis, gėrėtis
 wider - prieš, priešais
+
 unwirsch - šiurkštus, atžarus
 stützen - paremti
 das Gebüsch - krūmynas
