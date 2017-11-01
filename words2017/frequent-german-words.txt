@@ -17,18 +17,8 @@ rein - grynas, visiškas
 verdienen - užsitarnauti, nusipelnyti
 wider - prieš, priešais
 der Knochen - kaulas
-
-fetzen - suplėšyti
-jäh - staigus, smarkus
-das Gelingen - sėkmė
-spähen - ieškoti
-der Hieb - kirtis, smūgis
-trennen - atskirti
-einsetzen - panaudoti
-die Wange - skruostas, žandas
-stöbern - naršyti, ieškoti
-das Unheil - nelaimė, bėda
 der Zweck - tikslas, prasmė
+
 tadeln - peikti, smerkti
 der Erfolg - sėkmė, pasisekimas
 der Ziegel - plyta, čerpė
