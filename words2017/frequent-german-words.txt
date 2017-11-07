@@ -20,31 +20,8 @@ der Knochen - kaulas
 der Zweck - tikslas, prasmė
 der Kerl - vaikinas, vyras, bernas
 bewegen - judinti
-
-einträchtig - vieningas, darnus
-auslesen - atrinkti, išrinkti
-der Gründer - įkūrėjas
-der Erbe - paveldėtojas
-das Erbe - palikimas
-in der Lage sein - sugebėti
-erlauben - leisti
-eifrig - uolus, stropus
-vermuten - spėti, manyti
-die Wache - sargyba, sargybinis
-die Fensterscheibe - lango stiklas
-der Faden - siūlas, gija
-das Seil - lynas, virvė
-die Spinne - voras
-der Abstand - atstumas, nuotolis
-vermeiden - išvengti
-das Waschbecken - kriauklė
-die Verzweiflung - nusivylimas, neviltis
-das Verhältnis - santykis, ryšys
-erbost - įpykęs, įniršęs
-vermasseln - susimauti
-klecksen - terlioti
-der Abschaum - putos, nuoviros; atmatos, padugnės
 beweisen - įrodyti
+
 tückisch - klastingas
 blöd - kvailas, paikas
 nötigen - priversti
