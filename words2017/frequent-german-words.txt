@@ -21,35 +21,9 @@ der Zweck - tikslas, prasmė
 der Kerl - vaikinas, vyras, bernas
 bewegen - judinti
 beweisen - įrodyti
-
-tückisch - klastingas
-blöd - kvailas, paikas
 nötigen - priversti
-sich weigern - vengti, išsisukinėti
-stechen - įdurti, įgelti
-die Kehle - gerklė
-der Pelz - kailis
-schlau - gudrus, apsukrus
-falten - sulenkti, lankstyti
-das Bedürfnis - poreikis
-der Geier - (vulture) maitvanagis
-die Abbildung - iliustracija
-der Vorrat - atsargos
-klauen - nukniaukti, nudžiauti
-die Zutaten - ingredientai
-das Gewitter - audra, perkūnija
-fordern - reikalauti
-ausweichen - trauktis, užleisti kelią
-geschweige denn - nekalbant jau apie tai, kad
-basteln - meistrauti, dirbinėti
-der Ärmel - rankovė
-albern - paikas, naivus
-quälen - kankinti, kamuoti
 zielen - taikyti
-der Schleier - šydas, skraistė
-spritzen - purkšti, laistyti
-der Überrest - likutis, liekana
-lahm - šlubas
+
 ansonsten - priešingu atveju
 ziellos - betikslis
 scheußlich - šlykštus, bjaurus, baisus
