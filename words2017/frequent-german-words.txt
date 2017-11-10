@@ -23,22 +23,8 @@ bewegen - judinti
 beweisen - įrodyti
 nötigen - priversti
 zielen - taikyti
-
 gebieten - įsakyti, liepti
-die Einzelheit - smulkmena, detalė
-das Schwert - kardas
-die Bühne - scena, teatras
-eitel - pasipūtęs
-die Schlacht - kautynės, mūšis
-sich raufen - peštis, muštis
-hämisch - piktdžiugiškas, klastingas
-zerren - patempti
-der Schlauch - žarna
-die Gabe - dovana, auka
-boshaft - piktas, pašaipus
-das Gehirn - smegenys
-der Dachs - barsukas
-eng - ankštas, artimas
+
 das Opfer - auka
 senken - nuleisti, sumažinti, nunarinti
 hetzen - pjudyti, kurstyti
