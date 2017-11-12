@@ -25,17 +25,9 @@ nötigen - priversti
 zielen - taikyti
 gebieten - įsakyti, liepti
 senken - nuleisti, sumažinti, nunarinti
-
-jäh - staigus, ūmus
-verlegen - drovus, susigėdęs
-angreifen - užpulti, atakuoti
-sich fügen - atsitikti
 das Verhalten - elgesys
-der Auftritt - pasirodymas (scenoje)
-der Betrag - pinigų suma
 das Betragen - elgesys
-schieben - stumti
-der Zettel - lapelis, raštelis
+
 prächtig - puošnus, prašmatnus
 schmücken - puošti
 sachlich - dalykiškas, konkretus
