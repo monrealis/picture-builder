@@ -24,21 +24,8 @@ beweisen - įrodyti
 nötigen - priversti
 zielen - taikyti
 gebieten - įsakyti, liepti
-
-das Opfer - auka
 senken - nuleisti, sumažinti, nunarinti
-hetzen - pjudyti, kurstyti
-der Erfolg - sėkmė, laimėjimas
-die Pranke - letena
-das Gespenst - vaiduoklis, šmėkla
-quellen - teketi, laseti
-meucheln - nužudyti
-ehemalig - (anksčiau) buvęs
-das Bord - lentyna
-der Fimmel - pamišimas
-würgen - smaugti
-sich sputen - paskubėti
-die Treue - ištikimybė
+
 jäh - staigus, ūmus
 verlegen - drovus, susigėdęs
 angreifen - užpulti, atakuoti
