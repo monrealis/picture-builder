@@ -27,20 +27,8 @@ gebieten - įsakyti, liepti
 senken - nuleisti, sumažinti, nunarinti
 das Verhalten - elgesys
 das Betragen - elgesys
-
-ahnen - nujausti, numanyti
-der Haarschnitt - šukuosena
-lockern - atleisti, atpalaiduoti
-steif - kietas
-vernichten - niekinti
-prasseln - spragsėti, barbenti
-die Untersuchung - tyrimas
-das Amt - įstaiga, tarnyba
-verursachen - sukelti
-kichern - kikenti, krizenti
-der Verdacht - įtarimas
-der Genuß - malonumas, pomėgis
 verraten - išduoti
+
 der Landsitz - dvaras
 die Arznei - vaistas
 schluchzen - kūkčioti, raudoti
