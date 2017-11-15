@@ -28,24 +28,8 @@ senken - nuleisti, sumažinti, nunarinti
 das Verhalten - elgesys
 das Betragen - elgesys
 verraten - išduoti
-
-der Landsitz - dvaras
 die Arznei - vaistas
-schluchzen - kūkčioti, raudoti
-das Fell - kailis, oda
-die Spur - pėdsakas
-genesen - pasveikti, taisytis
-der Abstand - atstumas, nuotolis
-reglos - nejudamas
-die Angelegenheit - reikalas, dalykas
-schäbig - vargintas, skurdus
-beschlagnahmen - konfiskuoti
-die Auszeichnung - apdovanojimas	
-verweisen - išvaryti
-dennoch - vis dėlto
-verstauen - sukrauti, patalpinti
-beleidigen - užgauti, įžeisti
-endgültig - galutinis
+
 die Schurke - niekšas, sukčius
 vernünftig - protingas
 irren - klaidžioti, klysti, apsirikti
