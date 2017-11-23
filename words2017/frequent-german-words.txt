@@ -32,20 +32,9 @@ die Arznei - vaistas
 begleiten - palydėti
 das Vorkommnis - įvykis
 beinahe - beveik
-
-pochen - belsti
-zwingen - (pri)versti
 die Leiche - lavonas
-anflehen - maldauti
-der Befehl - įsakymas
-peitschen - plakti botagu
 der Rand - kraštas
-lauern - tykoti
-das Ungetüm - pabaisa
-funkeln - žibėti, spindėti
-vertreiben - išvyti, išvaryti
-die Anweisung - instrukcija, nurodymas
-bestehen - egzistuoti
+
 ankündigen - paskelbti, pranešti
 der Tumult - sąmyšis
 spannen - įtempti
