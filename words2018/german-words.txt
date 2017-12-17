@@ -4,4 +4,5 @@ brüllen - riaumoti
 erwähnen - paminėti
 der Wecker - žadintuvas
 das Merkmal - ypatybė
+die Last - krovinys
 
