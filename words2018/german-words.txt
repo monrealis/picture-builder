@@ -25,6 +25,7 @@ die Weste - liemenė
 winzig - mažytis
 der Schweif - uodega
 verstummen - nutilti
+die Lage - padėtis
 
 
 
