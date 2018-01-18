@@ -37,6 +37,7 @@ der Anhänger - šalininkas, sekėjas
 der Schutt - statybinis laužas
 hüpfen - šokinėti, atšokti
 der Wirt - šeimininkas, smuklininkas
+geleiten - palydėti
 
 
 
