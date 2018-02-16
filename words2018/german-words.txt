@@ -69,6 +69,7 @@ der Fond - galas (rear)
 kippen - apversti
 vermeiden - išvengti
 beleidigen - užgauti, įžeisti
+der Fremde - svetimšalis
 
 
 
