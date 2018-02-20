@@ -74,6 +74,8 @@ reizen - dirginti, erzinti
 mahnen - raginti, skatinti
 die Schlagsahne - grietinėlė
 die Gesellschaft - draugija
+verengen - susiaurinti
+
 
 
 
