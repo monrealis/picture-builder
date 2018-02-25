@@ -80,6 +80,7 @@ tasten - grabinėti
 die Ohrfeige - antausis
 der Anfall - priepuolis
 der Riegel - skląstis
+die Bö - gūsis
 
 
 
