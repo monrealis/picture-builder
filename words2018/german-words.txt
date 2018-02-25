@@ -78,6 +78,8 @@ verengen - susiaurinti
 die Bestätigung - patvirtinimas
 tasten - grabinėti
 die Ohrfeige - antausis
+der Anfall - priepuolis
+der Riegel - skląstis
 
 
 
