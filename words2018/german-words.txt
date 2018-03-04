@@ -87,6 +87,7 @@ zart - švelnus
 das Gegenmittel - priešnuodis
 ungeheuer - didžiulis
 der Narr - kvailys
+die Pflege - priežiūra, slaugymas, globa
 
 
 
