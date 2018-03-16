@@ -95,6 +95,7 @@ johlen - šūkauti, klykauti
 hopsen - šokinėti
 der Strolch - valkata
 kühn - drąsus
+mager - liesas
 unfähig - nepajėgus
 zuwenden - atsukti, atgręžti
 verkneifen - nuslėpti
