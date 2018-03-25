@@ -108,6 +108,7 @@ die Abwechslung - pokytis; įvairovė
 die Koppel - aptvaras
 der Faden - siūlas, gija
 die Kette - grandinė
+weichen - trauktis
 
 
 
