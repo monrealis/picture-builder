@@ -109,6 +109,8 @@ die Koppel - aptvaras
 der Faden - siūlas, gija
 die Kette - grandinė
 weichen - trauktis
+anfassen - griebtis, nutverti
+
 
 
 
