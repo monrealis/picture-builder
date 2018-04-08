@@ -122,6 +122,7 @@ vernehmen - išgirsti
 die Dummheit - kvailystė
 die Naht - siūlė
 verheimlichen - nuslėpti
+übel - blogas, prastas
 
 
 
