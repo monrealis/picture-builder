@@ -136,6 +136,7 @@ stämmig - kresnas
 unschlagbar - neprilygstamas, nenugalimas
 herrschen - vyrauti, viešpatauti
 arg - piktas, blogas
+zerkauen - sukramtyti
 
 
 
