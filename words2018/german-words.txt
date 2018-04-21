@@ -134,6 +134,8 @@ schnattern - gagėti, plepėti
 die Abscheu - pasibjaurėjimas
 stämmig - kresnas
 unschlagbar - neprilygstamas, nenugalimas
+herrschen - vyrauti, viešpatauti
+arg - piktas, blogas
 
 
 
