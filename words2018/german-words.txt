@@ -160,6 +160,8 @@ knuddelig - minkštas
 das Getuschel - šnabždesys
 schaudern - drebėti, virpėti
 die Tarnung - maskuotė
+weigern - neleisti
+sich weigern - atsisakyti
 
 
 
