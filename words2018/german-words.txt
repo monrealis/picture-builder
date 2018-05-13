@@ -166,6 +166,7 @@ berichten - pranešti, referuoti
 gleichgültig - abejingas
 entmutigen - atimti drąsą
 das Benehmen - elgesys
+auffordern - pakviesti, paraginti
 
 
 
