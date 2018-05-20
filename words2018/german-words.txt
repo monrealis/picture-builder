@@ -173,6 +173,8 @@ argwöhnen - įtarti, įtarinėti
 aufmuntern - padrąsinti
 zerfetzen - suplėšyti į gabalus
 entgleiten - išslysti, išsprūsti
+taub - kurčias
+
 
 
 
