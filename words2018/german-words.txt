@@ -175,6 +175,7 @@ zerfetzen - suplėšyti į gabalus
 entgleiten - išslysti, išsprūsti
 taub - kurčias
 verschonen - pasigailėti, apsaugoti
+der Absturz - nukritimas, nugriuvimas
 
 
 
