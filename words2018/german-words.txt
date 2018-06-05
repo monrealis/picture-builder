@@ -190,6 +190,7 @@ schwungvoll - aistringas, energingas
 schleifen - vilkti, tempti žeme
 die Einzelheit - smulkmena, detalė
 klopfen - daužyti, barbenti
+keuchen - šnopuoti, alsuoti
 
 
 
