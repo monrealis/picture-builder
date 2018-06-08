@@ -193,6 +193,7 @@ klopfen - daužyti, barbenti
 keuchen - šnopuoti, alsuoti
 der Krug - ąsotis, puodynė
 der Ausflug - ekskursija, išvyka
+das Gerücht - gandas
 
 
 
