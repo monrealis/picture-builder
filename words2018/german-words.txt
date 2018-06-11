@@ -195,6 +195,7 @@ der Krug - ąsotis, puodynė
 der Ausflug - ekskursija, išvyka
 das Gerücht - gandas
 lästig - įkyrus, nemalonus
+der Trauzeuge - sutuoktuvių liudininkas
 
 
 
