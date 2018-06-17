@@ -202,6 +202,7 @@ auffällig - matomas, krentantis į akis
 einfältig - naivus, patiklus
 vernünftig - protingas, išmintingas
 überzeugen - įsitikinti
+anflehen - maldauti
 
 
 
