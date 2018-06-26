@@ -212,6 +212,7 @@ hacken - kapoti
 der Zeuge - liudytojas
 die Haft - suėmimas, areštas
 keinen Deut - nė kiek
+der Stiel - stiebas, kotas
 
 
 
