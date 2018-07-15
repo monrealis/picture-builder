@@ -233,6 +233,7 @@ die Anspannung - įtampa
 parteiisch - šališkas
 das Selbstgefühl - savigarbos jausmas
 vollstrecken - įvykdyti nuosprendį
+der Stapel - krūva
 
 
 
