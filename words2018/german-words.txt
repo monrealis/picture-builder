@@ -252,6 +252,7 @@ unterdrücken - sutramdyti, numalšinti
 erraten - atspėti, įspėti
 abbremsen - sulėtinti
 gelangen - patekti, pasiekti
+der Einbruch - įsiveržimas, įsilaužimas
 
 
 
