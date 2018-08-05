@@ -254,6 +254,8 @@ abbremsen - sulėtinti
 gelangen - patekti, pasiekti
 der Einbruch - įsiveržimas, įsilaužimas
 erbärmlich - apgailėtinas
+verblüffen - sugluminti, apstulbinti
+demütigen - pažeminti
 
 
 
