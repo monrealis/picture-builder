@@ -260,6 +260,8 @@ die Spannung - įtempimas
 hektisch - karštligiškas
 der Strafstoß - baudinys
 körperlich - fizinis
+der Henker - budelis, tironas
+der Vorsprung - iškyšulys; pranašumas
 
 
 
