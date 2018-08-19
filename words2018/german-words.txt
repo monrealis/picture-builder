@@ -270,6 +270,8 @@ zottig, zottelig - gauruotas
 die Axt - kirvis
 die Fahne - vėliava
 die Beule - guzas, gumbas
+die Gurgel - gerklė
+taub - kurčias; nutirpęs
 
 
 
