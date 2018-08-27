@@ -278,6 +278,8 @@ die Vorkehrung - atsargumo priemonė
 verhehlen - slėpti (ką nuo ko)
 das Seil - virvė, lynas
 glatt - tiesus, lygus, status, sklandus
+wuschelig - neaiškus; garbanotas
+
 
 
 
