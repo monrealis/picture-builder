@@ -292,6 +292,7 @@ die Mucke - kaprizas
 hektisch - karštligiškas
 die Kapuze - gaubtas
 der Hirsch - elnias
+zupfen - timptelti
 
 
 
