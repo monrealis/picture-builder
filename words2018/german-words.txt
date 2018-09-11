@@ -60,7 +60,7 @@ bezweifeln - abejoti
 das Stimmengewirr - skambutis
 das Gewirr - chaosas, sumaištis
 der Zweck - tikslas, prasmė
-angeblich - neva
+angeblich - neva, tariamas
 die Ferse - kulnas
 der Bescheid - pranešimas; nutarimas
 ahnen - nujausti
@@ -223,7 +223,6 @@ im Nu - beregint, bematant
 das Gemälde - paveikslas
 laufend - einamasis, nuolatinis
 auf dem Laufenden sein - būti susipažinusiam su padėtimi
-angeblich - tariamas
 nachahmen - pamėgdžioti
 das Abbild - atvaizdas, portretas
 allzu - per daug
