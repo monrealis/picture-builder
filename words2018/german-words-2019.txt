@@ -22,4 +22,6 @@ der Stau - kamšatis, susigrūdimas
 haschen - gaudyti, griebti
 der Narr - kvailys
 die Qual - kančia
+peinlich - nemalonus, nejaukus
+
 
