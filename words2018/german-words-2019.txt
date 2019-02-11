@@ -23,5 +23,6 @@ haschen - gaudyti, griebti
 der Narr - kvailys
 die Qual - kančia
 peinlich - nemalonus, nejaukus
+beschädigen - (su)gadinti
 
 
