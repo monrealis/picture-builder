@@ -24,5 +24,6 @@ der Narr - kvailys
 die Qual - kančia
 peinlich - nemalonus, nejaukus
 beschädigen - (su)gadinti
+herstellen - pagaminti
 
 
