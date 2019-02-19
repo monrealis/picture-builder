@@ -26,5 +26,6 @@ peinlich - nemalonus, nejaukus
 beschädigen - (su)gadinti
 herstellen - pagaminti
 sich ducken - pasilenkti
+übel - blogas, prastas
 
 
