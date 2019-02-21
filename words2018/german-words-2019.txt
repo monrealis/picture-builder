@@ -28,5 +28,6 @@ herstellen - pagaminti
 sich ducken - pasilenkti
 übel - blogas, prastas
 das Ereignis - įvykis, atsitikimas
+das Gewirr - chaosas, sumaištis
 
 
